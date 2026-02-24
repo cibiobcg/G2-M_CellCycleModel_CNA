@@ -1,0 +1,995 @@
+Sample Id	CHEK1: Putative copy-number alterations from GISTIC	CHEK1: mRNA Expression, RSEM (Batch normalized from Illumina HiSeq_RNASeqV2)	Copy Number Alterations
+TCGA-A8-A0A1-01	Deep Deletion	93.3735	CHEK1: Deep Deletion
+TCGA-BH-A18M-01	Deep Deletion	124.519	CHEK1: Deep Deletion
+TCGA-BH-A1FN-01	Deep Deletion	246.52	CHEK1: Deep Deletion
+TCGA-C8-A130-01	Deep Deletion	151.044	CHEK1: Deep Deletion
+TCGA-D8-A147-01	Deep Deletion	339.788	CHEK1: Deep Deletion
+TCGA-E2-A56Z-01	Deep Deletion	64.9234	CHEK1: Deep Deletion
+TCGA-E2-A9RU-01	Deep Deletion	126.032	CHEK1: Deep Deletion
+TCGA-E9-A1RF-01	Deep Deletion	75.091	CHEK1: Deep Deletion
+TCGA-EW-A1OX-01	Deep Deletion	185.611	CHEK1: Deep Deletion
+TCGA-LL-A6FP-01	Deep Deletion	89.3817	CHEK1: Deep Deletion
+TCGA-3C-AAAU-01	Shallow Deletion	177.844	CHEK1: Shallow Deletion
+TCGA-3C-AALI-01	Shallow Deletion	146.275	CHEK1: Shallow Deletion
+TCGA-3C-AALK-01	Shallow Deletion	134.878	CHEK1: Shallow Deletion
+TCGA-4H-AAAK-01	Shallow Deletion	117.872	CHEK1: Shallow Deletion
+TCGA-5T-A9QA-01	Shallow Deletion	294.979	CHEK1: Shallow Deletion
+TCGA-A1-A0SD-01	Shallow Deletion	88.661	CHEK1: Shallow Deletion
+TCGA-A1-A0SE-01	Shallow Deletion	137.886	CHEK1: Shallow Deletion
+TCGA-A1-A0SH-01	Shallow Deletion	79.4536	CHEK1: Shallow Deletion
+TCGA-A1-A0SJ-01	Shallow Deletion	152.904	CHEK1: Shallow Deletion
+TCGA-A1-A0SM-01	Shallow Deletion	138.889	CHEK1: Shallow Deletion
+TCGA-A1-A0SN-01	Shallow Deletion	216.164	CHEK1: Shallow Deletion
+TCGA-A1-A0SO-01	Shallow Deletion	820.523	CHEK1: Shallow Deletion
+TCGA-A1-A0SP-01	Shallow Deletion	543.962	CHEK1: Shallow Deletion
+TCGA-A1-A0SQ-01	Shallow Deletion	143.621	CHEK1: Shallow Deletion
+TCGA-A2-A04P-01	Shallow Deletion	274.896	CHEK1: Shallow Deletion
+TCGA-A2-A04R-01	Shallow Deletion	167.708	CHEK1: Shallow Deletion
+TCGA-A2-A04T-01	Shallow Deletion	558.115	CHEK1: Shallow Deletion
+TCGA-A2-A04U-01	Shallow Deletion	215.612	CHEK1: Shallow Deletion
+TCGA-A2-A04V-01	Shallow Deletion	150.336	CHEK1: Shallow Deletion
+TCGA-A2-A04X-01	Shallow Deletion	189.961	CHEK1: Shallow Deletion
+TCGA-A2-A0CK-01	Shallow Deletion	89.697	CHEK1: Shallow Deletion
+TCGA-A2-A0CL-01	Shallow Deletion	235.359	CHEK1: Shallow Deletion
+TCGA-A2-A0CM-01	Shallow Deletion	490.596	CHEK1: Shallow Deletion
+TCGA-A2-A0CR-01	Shallow Deletion	150.262	CHEK1: Shallow Deletion
+TCGA-A2-A0CT-01	Shallow Deletion	218.645	CHEK1: Shallow Deletion
+TCGA-A2-A0CW-01	Shallow Deletion	355.798	CHEK1: Shallow Deletion
+TCGA-A2-A0CX-01	Shallow Deletion	260.72	CHEK1: Shallow Deletion
+TCGA-A2-A0D4-01	Shallow Deletion	160.281	CHEK1: Shallow Deletion
+TCGA-A2-A0EQ-01	Shallow Deletion	218.031	CHEK1: Shallow Deletion
+TCGA-A2-A0ER-01	Shallow Deletion	160.021	CHEK1: Shallow Deletion
+TCGA-A2-A0ET-01	Shallow Deletion	99.9458	CHEK1: Shallow Deletion
+TCGA-A2-A0EW-01	Shallow Deletion	61.6366	CHEK1: Shallow Deletion
+TCGA-A2-A0SU-01	Shallow Deletion	125.7	CHEK1: Shallow Deletion
+TCGA-A2-A0SX-01	Shallow Deletion	389.531	CHEK1: Shallow Deletion
+TCGA-A2-A0SY-01	Shallow Deletion	123.345	CHEK1: Shallow Deletion
+TCGA-A2-A0T1-01	Shallow Deletion	207.493	CHEK1: Shallow Deletion
+TCGA-A2-A0T3-01	Shallow Deletion	388.155	CHEK1: Shallow Deletion
+TCGA-A2-A0T4-01	Shallow Deletion	140.068	CHEK1: Shallow Deletion
+TCGA-A2-A0T7-01	Shallow Deletion	108.904	CHEK1: Shallow Deletion
+TCGA-A2-A0YC-01	Shallow Deletion	107.346	CHEK1: Shallow Deletion
+TCGA-A2-A0YE-01	Shallow Deletion	569.708	CHEK1: Shallow Deletion
+TCGA-A2-A0YF-01	Shallow Deletion	148.246	CHEK1: Shallow Deletion
+TCGA-A2-A0YI-01	Shallow Deletion	69.4693	CHEK1: Shallow Deletion
+TCGA-A2-A0YK-01	Shallow Deletion	87.7749	CHEK1: Shallow Deletion
+TCGA-A2-A0YM-01	Shallow Deletion	522.145	CHEK1: Shallow Deletion
+TCGA-A2-A0YT-01	Shallow Deletion	188.524	CHEK1: Shallow Deletion
+TCGA-A2-A1FV-01	Shallow Deletion	76.0861	CHEK1: Shallow Deletion
+TCGA-A2-A1FW-01	Shallow Deletion	256.954	CHEK1: Shallow Deletion
+TCGA-A2-A1FX-01	Shallow Deletion	173.313	CHEK1: Shallow Deletion
+TCGA-A2-A1G4-01	Shallow Deletion	281.74	CHEK1: Shallow Deletion
+TCGA-A2-A25B-01	Shallow Deletion	384.513	CHEK1: Shallow Deletion
+TCGA-A2-A25C-01	Shallow Deletion	181.517	CHEK1: Shallow Deletion
+TCGA-A2-A25E-01	Shallow Deletion	186.792	CHEK1: Shallow Deletion
+TCGA-A2-A3KD-01	Shallow Deletion	81.531	CHEK1: Shallow Deletion
+TCGA-A2-A3XW-01	Shallow Deletion	141.389	CHEK1: Shallow Deletion
+TCGA-A2-A3XX-01	Shallow Deletion	357.125	CHEK1: Shallow Deletion
+TCGA-A2-A3Y0-01	Shallow Deletion	513.545	CHEK1: Shallow Deletion
+TCGA-A2-A4S2-01	Shallow Deletion	73.8643	CHEK1: Shallow Deletion
+TCGA-A2-A4S3-01	Shallow Deletion	284.024	CHEK1: Shallow Deletion
+TCGA-A7-A0CE-01	Shallow Deletion	595.644	CHEK1: Shallow Deletion
+TCGA-A7-A0CJ-01	Shallow Deletion	345.693	CHEK1: Shallow Deletion
+TCGA-A7-A0DA-01	Shallow Deletion	120.482	CHEK1: Shallow Deletion
+TCGA-A7-A13D-01	Shallow Deletion	263.634	CHEK1: Shallow Deletion
+TCGA-A7-A13E-01	Shallow Deletion	395.431	CHEK1: Shallow Deletion
+TCGA-A7-A13F-01	Shallow Deletion	500.402	CHEK1: Shallow Deletion
+TCGA-A7-A26E-01	Shallow Deletion	104.858	CHEK1: Shallow Deletion
+TCGA-A7-A26J-01	Shallow Deletion	114.559	CHEK1: Shallow Deletion
+TCGA-A7-A2KD-01	Shallow Deletion	342.964	CHEK1: Shallow Deletion
+TCGA-A7-A4SD-01	Shallow Deletion	321.393	CHEK1: Shallow Deletion
+TCGA-A7-A4SE-01	Shallow Deletion	347.25	CHEK1: Shallow Deletion
+TCGA-A7-A56D-01	Shallow Deletion	102.804	CHEK1: Shallow Deletion
+TCGA-A7-A5ZV-01	Shallow Deletion	142.586	CHEK1: Shallow Deletion
+TCGA-A7-A6VV-01	Shallow Deletion	429.465	CHEK1: Shallow Deletion
+TCGA-A7-A6VW-01	Shallow Deletion	464.519	CHEK1: Shallow Deletion
+TCGA-A7-A6VX-01	Shallow Deletion	217.505	CHEK1: Shallow Deletion
+TCGA-A7-A6VY-01	Shallow Deletion	383.95	CHEK1: Shallow Deletion
+TCGA-A8-A06N-01	Shallow Deletion	116.108	CHEK1: Shallow Deletion
+TCGA-A8-A06O-01	Shallow Deletion	281.805	CHEK1: Shallow Deletion
+TCGA-A8-A06Q-01	Shallow Deletion	94.792	CHEK1: Shallow Deletion
+TCGA-A8-A06T-01	Shallow Deletion	166.087	CHEK1: Shallow Deletion
+TCGA-A8-A06U-01	Shallow Deletion	133.8	CHEK1: Shallow Deletion
+TCGA-A8-A06X-01	Shallow Deletion	395.926	CHEK1: Shallow Deletion
+TCGA-A8-A06Z-01	Shallow Deletion	85.8717	CHEK1: Shallow Deletion
+TCGA-A8-A079-01	Shallow Deletion	203.981	CHEK1: Shallow Deletion
+TCGA-A8-A07B-01	Shallow Deletion	166.526	CHEK1: Shallow Deletion
+TCGA-A8-A07E-01	Shallow Deletion	187.966	CHEK1: Shallow Deletion
+TCGA-A8-A07I-01	Shallow Deletion	198.875	CHEK1: Shallow Deletion
+TCGA-A8-A07L-01	Shallow Deletion	310.487	CHEK1: Shallow Deletion
+TCGA-A8-A07P-01	Shallow Deletion	142.709	CHEK1: Shallow Deletion
+TCGA-A8-A07W-01	Shallow Deletion	327.64	CHEK1: Shallow Deletion
+TCGA-A8-A081-01	Shallow Deletion	248.895	CHEK1: Shallow Deletion
+TCGA-A8-A082-01	Shallow Deletion	204.8	CHEK1: Shallow Deletion
+TCGA-A8-A085-01	Shallow Deletion	227.542	CHEK1: Shallow Deletion
+TCGA-A8-A086-01	Shallow Deletion	197.828	CHEK1: Shallow Deletion
+TCGA-A8-A08A-01	Shallow Deletion	68.021	CHEK1: Shallow Deletion
+TCGA-A8-A08G-01	Shallow Deletion	125.934	CHEK1: Shallow Deletion
+TCGA-A8-A08I-01	Shallow Deletion	311.475	CHEK1: Shallow Deletion
+TCGA-A8-A08J-01	Shallow Deletion	235.196	CHEK1: Shallow Deletion
+TCGA-A8-A08L-01	Shallow Deletion	353.744	CHEK1: Shallow Deletion
+TCGA-A8-A08O-01	Shallow Deletion	167.448	CHEK1: Shallow Deletion
+TCGA-A8-A08P-01	Shallow Deletion	240.852	CHEK1: Shallow Deletion
+TCGA-A8-A08R-01	Shallow Deletion	523.868	CHEK1: Shallow Deletion
+TCGA-A8-A08X-01	Shallow Deletion	272.054	CHEK1: Shallow Deletion
+TCGA-A8-A091-01	Shallow Deletion	94.0024	CHEK1: Shallow Deletion
+TCGA-A8-A093-01	Shallow Deletion	128.6	CHEK1: Shallow Deletion
+TCGA-A8-A094-01	Shallow Deletion	284.197	CHEK1: Shallow Deletion
+TCGA-A8-A097-01	Shallow Deletion	233.657	CHEK1: Shallow Deletion
+TCGA-A8-A09A-01	Shallow Deletion	130.041	CHEK1: Shallow Deletion
+TCGA-A8-A09B-01	Shallow Deletion	149.422	CHEK1: Shallow Deletion
+TCGA-A8-A09C-01	Shallow Deletion	184.884	CHEK1: Shallow Deletion
+TCGA-A8-A09D-01	Shallow Deletion	134.723	CHEK1: Shallow Deletion
+TCGA-A8-A09I-01	Shallow Deletion	339.007	CHEK1: Shallow Deletion
+TCGA-A8-A09M-01	Shallow Deletion	142.616	CHEK1: Shallow Deletion
+TCGA-A8-A09R-01	Shallow Deletion	149.406	CHEK1: Shallow Deletion
+TCGA-A8-A09T-01	Shallow Deletion	191.038	CHEK1: Shallow Deletion
+TCGA-A8-A0A2-01	Shallow Deletion	133.333	CHEK1: Shallow Deletion
+TCGA-A8-A0A4-01	Shallow Deletion	131.444	CHEK1: Shallow Deletion
+TCGA-A8-A0A6-01	Shallow Deletion	81.9258	CHEK1: Shallow Deletion
+TCGA-A8-A0A9-01	Shallow Deletion	129.467	CHEK1: Shallow Deletion
+TCGA-A8-A0AB-01	Shallow Deletion	222.198	CHEK1: Shallow Deletion
+TCGA-AC-A23C-01	Shallow Deletion	161.528	CHEK1: Shallow Deletion
+TCGA-AC-A23E-01	Shallow Deletion	145.521	CHEK1: Shallow Deletion
+TCGA-AC-A2B8-01	Shallow Deletion	88.6873	CHEK1: Shallow Deletion
+TCGA-AC-A2BK-01	Shallow Deletion	540.774	CHEK1: Shallow Deletion
+TCGA-AC-A2BM-01	Shallow Deletion	186.648	CHEK1: Shallow Deletion
+TCGA-AC-A2FB-01	Shallow Deletion	86.2307	CHEK1: Shallow Deletion
+TCGA-AC-A2FG-01	Shallow Deletion	81.6274	CHEK1: Shallow Deletion
+TCGA-AC-A2FO-01	Shallow Deletion	65.5547	CHEK1: Shallow Deletion
+TCGA-AC-A2QH-01	Shallow Deletion	310.8	CHEK1: Shallow Deletion
+TCGA-AC-A3HN-01	Shallow Deletion	103.233	CHEK1: Shallow Deletion
+TCGA-AC-A3OD-01	Shallow Deletion	111.422	CHEK1: Shallow Deletion
+TCGA-AC-A3QQ-01	Shallow Deletion	245.387	CHEK1: Shallow Deletion
+TCGA-AC-A3W5-01	Shallow Deletion	79.8026	CHEK1: Shallow Deletion
+TCGA-AC-A4ZE-01	Shallow Deletion	103.237	CHEK1: Shallow Deletion
+TCGA-AC-A5XU-01	Shallow Deletion	188.18	CHEK1: Shallow Deletion
+TCGA-AC-A62V-01	Shallow Deletion	266.667	CHEK1: Shallow Deletion
+TCGA-AC-A6IV-01	Shallow Deletion	99.4406	CHEK1: Shallow Deletion
+TCGA-AC-A6IW-01	Shallow Deletion	298.388	CHEK1: Shallow Deletion
+TCGA-AC-A6IX-01	Shallow Deletion	90.0556	CHEK1: Shallow Deletion
+TCGA-AC-A7VC-01	Shallow Deletion	630.627	CHEK1: Shallow Deletion
+TCGA-AC-A8OP-01	Shallow Deletion	66.7795	CHEK1: Shallow Deletion
+TCGA-AN-A03X-01	Shallow Deletion	100.144	CHEK1: Shallow Deletion
+TCGA-AN-A03Y-01	Shallow Deletion	190.782	CHEK1: Shallow Deletion
+TCGA-AN-A041-01	Shallow Deletion	146.082	CHEK1: Shallow Deletion
+TCGA-AN-A049-01	Shallow Deletion	135.956	CHEK1: Shallow Deletion
+TCGA-AN-A04A-01	Shallow Deletion	230.742	CHEK1: Shallow Deletion
+TCGA-AN-A04C-01	Shallow Deletion	419.223	CHEK1: Shallow Deletion
+TCGA-AN-A0AJ-01	Shallow Deletion	439.925	CHEK1: Shallow Deletion
+TCGA-AN-A0AK-01	Shallow Deletion	308.984	CHEK1: Shallow Deletion
+TCGA-AN-A0AT-01	Shallow Deletion	617.469	CHEK1: Shallow Deletion
+TCGA-AN-A0FJ-01	Shallow Deletion	411.765	CHEK1: Shallow Deletion
+TCGA-AN-A0FS-01	Shallow Deletion	92.6846	CHEK1: Shallow Deletion
+TCGA-AN-A0FT-01	Shallow Deletion	130.776	CHEK1: Shallow Deletion
+TCGA-AN-A0FV-01	Shallow Deletion	78.7326	CHEK1: Shallow Deletion
+TCGA-AN-A0FW-01	Shallow Deletion	157.829	CHEK1: Shallow Deletion
+TCGA-AN-A0FZ-01	Shallow Deletion	97.3707	CHEK1: Shallow Deletion
+TCGA-AN-A0XL-01	Shallow Deletion	121.263	CHEK1: Shallow Deletion
+TCGA-AN-A0XN-01	Shallow Deletion	171.856	CHEK1: Shallow Deletion
+TCGA-AN-A0XS-01	Shallow Deletion	113.772	CHEK1: Shallow Deletion
+TCGA-AN-A0XT-01	Shallow Deletion	47.0233	CHEK1: Shallow Deletion
+TCGA-AN-A0XW-01	Shallow Deletion	169.228	CHEK1: Shallow Deletion
+TCGA-AO-A03L-01	Shallow Deletion	254.651	CHEK1: Shallow Deletion
+TCGA-AO-A03M-01	Shallow Deletion	244.02	CHEK1: Shallow Deletion
+TCGA-AO-A03O-01	Shallow Deletion	143.231	CHEK1: Shallow Deletion
+TCGA-AO-A03P-01	Shallow Deletion	200.351	CHEK1: Shallow Deletion
+TCGA-AO-A03T-01	Shallow Deletion	122.381	CHEK1: Shallow Deletion
+TCGA-AO-A03V-01	Shallow Deletion	77.2549	CHEK1: Shallow Deletion
+TCGA-AO-A0J3-01	Shallow Deletion	185.105	CHEK1: Shallow Deletion
+TCGA-AO-A0J4-01	Shallow Deletion	461.921	CHEK1: Shallow Deletion
+TCGA-AO-A0J5-01	Shallow Deletion	125.035	CHEK1: Shallow Deletion
+TCGA-AO-A0J6-01	Shallow Deletion	311.993	CHEK1: Shallow Deletion
+TCGA-AO-A0J7-01	Shallow Deletion	241.676	CHEK1: Shallow Deletion
+TCGA-AO-A0J9-01	Shallow Deletion	140.415	CHEK1: Shallow Deletion
+TCGA-AO-A0JA-01	Shallow Deletion	223.477	CHEK1: Shallow Deletion
+TCGA-AO-A0JD-01	Shallow Deletion	321.701	CHEK1: Shallow Deletion
+TCGA-AO-A0JE-01	Shallow Deletion	205.274	CHEK1: Shallow Deletion
+TCGA-AO-A0JG-01	Shallow Deletion	128.519	CHEK1: Shallow Deletion
+TCGA-AO-A0JM-01	Shallow Deletion	549.564	CHEK1: Shallow Deletion
+TCGA-AO-A124-01	Shallow Deletion	375.922	CHEK1: Shallow Deletion
+TCGA-AO-A129-01	Shallow Deletion	559.073	CHEK1: Shallow Deletion
+TCGA-AO-A12E-01	Shallow Deletion	121.038	CHEK1: Shallow Deletion
+TCGA-AO-A12F-01	Shallow Deletion	285.155	CHEK1: Shallow Deletion
+TCGA-AO-A12G-01	Shallow Deletion	94	CHEK1: Shallow Deletion
+TCGA-AO-A1KS-01	Shallow Deletion	284.888	CHEK1: Shallow Deletion
+TCGA-AO-A1KT-01	Shallow Deletion	159.952	CHEK1: Shallow Deletion
+TCGA-AQ-A04H-01	Shallow Deletion	291.507	CHEK1: Shallow Deletion
+TCGA-AQ-A04J-01	Shallow Deletion	501.428	CHEK1: Shallow Deletion
+TCGA-AQ-A1H2-01	Shallow Deletion	69.995	CHEK1: Shallow Deletion
+TCGA-AQ-A54O-01	Shallow Deletion	109.262	CHEK1: Shallow Deletion
+TCGA-AR-A0TT-01	Shallow Deletion	240.62	CHEK1: Shallow Deletion
+TCGA-AR-A0TV-01	Shallow Deletion	190.024	CHEK1: Shallow Deletion
+TCGA-AR-A0TW-01	Shallow Deletion	156.006	CHEK1: Shallow Deletion
+TCGA-AR-A0TZ-01	Shallow Deletion	315.865	CHEK1: Shallow Deletion
+TCGA-AR-A0U0-01	Shallow Deletion	375.734	CHEK1: Shallow Deletion
+TCGA-AR-A0U1-01	Shallow Deletion	243.709	CHEK1: Shallow Deletion
+TCGA-AR-A0U2-01	Shallow Deletion	552.601	CHEK1: Shallow Deletion
+TCGA-AR-A0U3-01	Shallow Deletion	232.744	CHEK1: Shallow Deletion
+TCGA-AR-A0U4-01	Shallow Deletion	490.897	CHEK1: Shallow Deletion
+TCGA-AR-A1AI-01	Shallow Deletion	630.02	CHEK1: Shallow Deletion
+TCGA-AR-A1AK-01	Shallow Deletion	124.16	CHEK1: Shallow Deletion
+TCGA-AR-A1AP-01	Shallow Deletion	116.959	CHEK1: Shallow Deletion
+TCGA-AR-A1AU-01	Shallow Deletion	105.401	CHEK1: Shallow Deletion
+TCGA-AR-A1AV-01	Shallow Deletion	135.044	CHEK1: Shallow Deletion
+TCGA-AR-A1AW-01	Shallow Deletion	233.825	CHEK1: Shallow Deletion
+TCGA-AR-A24H-01	Shallow Deletion	402.94	CHEK1: Shallow Deletion
+TCGA-AR-A24L-01	Shallow Deletion	131.105	CHEK1: Shallow Deletion
+TCGA-AR-A24Q-01	Shallow Deletion	423.872	CHEK1: Shallow Deletion
+TCGA-AR-A24R-01	Shallow Deletion	153.909	CHEK1: Shallow Deletion
+TCGA-AR-A24T-01	Shallow Deletion	107.899	CHEK1: Shallow Deletion
+TCGA-AR-A24V-01	Shallow Deletion	111.771	CHEK1: Shallow Deletion
+TCGA-AR-A24Z-01	Shallow Deletion	167.105	CHEK1: Shallow Deletion
+TCGA-AR-A250-01	Shallow Deletion	174.945	CHEK1: Shallow Deletion
+TCGA-AR-A255-01	Shallow Deletion	175.357	CHEK1: Shallow Deletion
+TCGA-AR-A256-01	Shallow Deletion	571.048	CHEK1: Shallow Deletion
+TCGA-AR-A2LK-01	Shallow Deletion	328.817	CHEK1: Shallow Deletion
+TCGA-AR-A2LM-01	Shallow Deletion	69.6949	CHEK1: Shallow Deletion
+TCGA-AR-A2LO-01	Shallow Deletion	144.325	CHEK1: Shallow Deletion
+TCGA-B6-A0I9-01	Shallow Deletion	169.853	CHEK1: Shallow Deletion
+TCGA-B6-A0IB-01	Shallow Deletion	185.844	CHEK1: Shallow Deletion
+TCGA-B6-A0IG-01	Shallow Deletion	294.714	CHEK1: Shallow Deletion
+TCGA-B6-A0IJ-01	Shallow Deletion	427.16	CHEK1: Shallow Deletion
+TCGA-B6-A0IK-01	Shallow Deletion	204.046	CHEK1: Shallow Deletion
+TCGA-B6-A0IM-01	Shallow Deletion	173.734	CHEK1: Shallow Deletion
+TCGA-B6-A0RG-01	Shallow Deletion	110.775	CHEK1: Shallow Deletion
+TCGA-B6-A0RL-01	Shallow Deletion	199.385	CHEK1: Shallow Deletion
+TCGA-B6-A0RU-01	Shallow Deletion	570.911	CHEK1: Shallow Deletion
+TCGA-B6-A0RV-01	Shallow Deletion	180.645	CHEK1: Shallow Deletion
+TCGA-B6-A0WS-01	Shallow Deletion	162.042	CHEK1: Shallow Deletion
+TCGA-B6-A0WT-01	Shallow Deletion	133.002	CHEK1: Shallow Deletion
+TCGA-B6-A0WV-01	Shallow Deletion	171.39	CHEK1: Shallow Deletion
+TCGA-B6-A0WW-01	Shallow Deletion	115.843	CHEK1: Shallow Deletion
+TCGA-B6-A0WX-01	Shallow Deletion	254.084	CHEK1: Shallow Deletion
+TCGA-B6-A0WY-01	Shallow Deletion	114.917	CHEK1: Shallow Deletion
+TCGA-B6-A0X1-01	Shallow Deletion	395.162	CHEK1: Shallow Deletion
+TCGA-B6-A0X7-01	Shallow Deletion	49.7769	CHEK1: Shallow Deletion
+TCGA-B6-A1KF-01	Shallow Deletion	371.73	CHEK1: Shallow Deletion
+TCGA-B6-A1KN-01	Shallow Deletion	387.642	CHEK1: Shallow Deletion
+TCGA-B6-A40B-01	Shallow Deletion	98.2252	CHEK1: Shallow Deletion
+TCGA-BH-A0AU-01	Shallow Deletion	160.65	CHEK1: Shallow Deletion
+TCGA-BH-A0AV-01	Shallow Deletion	504.701	CHEK1: Shallow Deletion
+TCGA-BH-A0AZ-01	Shallow Deletion	62.7695	CHEK1: Shallow Deletion
+TCGA-BH-A0B5-01	Shallow Deletion	279.186	CHEK1: Shallow Deletion
+TCGA-BH-A0BA-01	Shallow Deletion	229.972	CHEK1: Shallow Deletion
+TCGA-BH-A0BC-01	Shallow Deletion	205.013	CHEK1: Shallow Deletion
+TCGA-BH-A0BD-01	Shallow Deletion	203.728	CHEK1: Shallow Deletion
+TCGA-BH-A0BG-01	Shallow Deletion	208.677	CHEK1: Shallow Deletion
+TCGA-BH-A0BL-01	Shallow Deletion	420.676	CHEK1: Shallow Deletion
+TCGA-BH-A0BP-01	Shallow Deletion	66.1986	CHEK1: Shallow Deletion
+TCGA-BH-A0BR-01	Shallow Deletion	115.451	CHEK1: Shallow Deletion
+TCGA-BH-A0BV-01	Shallow Deletion	125.863	CHEK1: Shallow Deletion
+TCGA-BH-A0BZ-01	Shallow Deletion	160.616	CHEK1: Shallow Deletion
+TCGA-BH-A0C0-01	Shallow Deletion	275.468	CHEK1: Shallow Deletion
+TCGA-BH-A0C1-01	Shallow Deletion	231.473	CHEK1: Shallow Deletion
+TCGA-BH-A0C3-01	Shallow Deletion	114.213	CHEK1: Shallow Deletion
+TCGA-BH-A0C7-01	Shallow Deletion	311.299	CHEK1: Shallow Deletion
+TCGA-BH-A0DD-01	Shallow Deletion	422.269	CHEK1: Shallow Deletion
+TCGA-BH-A0DE-01	Shallow Deletion	69.0688	CHEK1: Shallow Deletion
+TCGA-BH-A0DG-01	Shallow Deletion	150.503	CHEK1: Shallow Deletion
+TCGA-BH-A0DI-01	Shallow Deletion	104.155	CHEK1: Shallow Deletion
+TCGA-BH-A0DK-01	Shallow Deletion	193.519	CHEK1: Shallow Deletion
+TCGA-BH-A0DQ-01	Shallow Deletion	116.878	CHEK1: Shallow Deletion
+TCGA-BH-A0E0-01	Shallow Deletion	268.129	CHEK1: Shallow Deletion
+TCGA-BH-A0E2-01	Shallow Deletion	128.336	CHEK1: Shallow Deletion
+TCGA-BH-A0EE-01	Shallow Deletion	497.071	CHEK1: Shallow Deletion
+TCGA-BH-A0EI-01	Shallow Deletion	108.922	CHEK1: Shallow Deletion
+TCGA-BH-A0H0-01	Shallow Deletion	240.597	CHEK1: Shallow Deletion
+TCGA-BH-A0H7-01	Shallow Deletion	139.856	CHEK1: Shallow Deletion
+TCGA-BH-A0HA-01	Shallow Deletion	132.668	CHEK1: Shallow Deletion
+TCGA-BH-A0HB-01	Shallow Deletion	194.166	CHEK1: Shallow Deletion
+TCGA-BH-A0HK-01	Shallow Deletion	63.2244	CHEK1: Shallow Deletion
+TCGA-BH-A0HP-01	Shallow Deletion	101.706	CHEK1: Shallow Deletion
+TCGA-BH-A0HU-01	Shallow Deletion	303.454	CHEK1: Shallow Deletion
+TCGA-BH-A0HW-01	Shallow Deletion	116.63	CHEK1: Shallow Deletion
+TCGA-BH-A0HX-01	Shallow Deletion	158.612	CHEK1: Shallow Deletion
+TCGA-BH-A0HY-01	Shallow Deletion	215.073	CHEK1: Shallow Deletion
+TCGA-BH-A0W3-01	Shallow Deletion	166.886	CHEK1: Shallow Deletion
+TCGA-BH-A0WA-01	Shallow Deletion	517.567	CHEK1: Shallow Deletion
+TCGA-BH-A18H-01	Shallow Deletion	103.002	CHEK1: Shallow Deletion
+TCGA-BH-A18I-01	Shallow Deletion	127.955	CHEK1: Shallow Deletion
+TCGA-BH-A18J-01	Shallow Deletion	123.361	CHEK1: Shallow Deletion
+TCGA-BH-A18L-01	Shallow Deletion	173.121	CHEK1: Shallow Deletion
+TCGA-BH-A18P-01	Shallow Deletion	166.987	CHEK1: Shallow Deletion
+TCGA-BH-A18R-01	Shallow Deletion	236.256	CHEK1: Shallow Deletion
+TCGA-BH-A18V-01	Shallow Deletion	561.77	CHEK1: Shallow Deletion
+TCGA-BH-A1EN-01	Shallow Deletion	178.457	CHEK1: Shallow Deletion
+TCGA-BH-A1EO-01	Shallow Deletion	154.501	CHEK1: Shallow Deletion
+TCGA-BH-A1EU-01	Shallow Deletion	90.8434	CHEK1: Shallow Deletion
+TCGA-BH-A1EW-01	Shallow Deletion	176.492	CHEK1: Shallow Deletion
+TCGA-BH-A1EY-01	Shallow Deletion	73.6277	CHEK1: Shallow Deletion
+TCGA-BH-A1F2-01	Shallow Deletion	216.449	CHEK1: Shallow Deletion
+TCGA-BH-A1F8-01	Shallow Deletion	234.954	CHEK1: Shallow Deletion
+TCGA-BH-A1FC-01	Shallow Deletion	564.619	CHEK1: Shallow Deletion
+TCGA-BH-A1FD-01	Shallow Deletion	318.445	CHEK1: Shallow Deletion
+TCGA-BH-A1FE-01	Shallow Deletion	322.672	CHEK1: Shallow Deletion
+TCGA-BH-A201-01	Shallow Deletion	123.974	CHEK1: Shallow Deletion
+TCGA-BH-A204-01	Shallow Deletion	337.306	CHEK1: Shallow Deletion
+TCGA-BH-A28Q-01	Shallow Deletion	115.893	CHEK1: Shallow Deletion
+TCGA-BH-A5IZ-01	Shallow Deletion	492.924	CHEK1: Shallow Deletion
+TCGA-BH-A5J0-01	Shallow Deletion	125.116	CHEK1: Shallow Deletion
+TCGA-BH-A8FY-01	Shallow Deletion	104.285	CHEK1: Shallow Deletion
+TCGA-BH-AB28-01	Shallow Deletion	145.476	CHEK1: Shallow Deletion
+TCGA-C8-A12K-01	Shallow Deletion	388.341	CHEK1: Shallow Deletion
+TCGA-C8-A12M-01	Shallow Deletion	243.003	CHEK1: Shallow Deletion
+TCGA-C8-A12Q-01	Shallow Deletion	131.95	CHEK1: Shallow Deletion
+TCGA-C8-A12U-01	Shallow Deletion	272.491	CHEK1: Shallow Deletion
+TCGA-C8-A12W-01	Shallow Deletion	388.433	CHEK1: Shallow Deletion
+TCGA-C8-A12Y-01	Shallow Deletion	160.453	CHEK1: Shallow Deletion
+TCGA-C8-A132-01	Shallow Deletion	144.788	CHEK1: Shallow Deletion
+TCGA-C8-A134-01	Shallow Deletion	403.431	CHEK1: Shallow Deletion
+TCGA-C8-A135-01	Shallow Deletion	307.373	CHEK1: Shallow Deletion
+TCGA-C8-A137-01	Shallow Deletion	137.547	CHEK1: Shallow Deletion
+TCGA-C8-A138-01	Shallow Deletion	125.337	CHEK1: Shallow Deletion
+TCGA-C8-A1HE-01	Shallow Deletion	108.246	CHEK1: Shallow Deletion
+TCGA-C8-A1HF-01	Shallow Deletion	406.593	CHEK1: Shallow Deletion
+TCGA-C8-A1HG-01	Shallow Deletion	152.493	CHEK1: Shallow Deletion
+TCGA-C8-A1HI-01	Shallow Deletion	88.5093	CHEK1: Shallow Deletion
+TCGA-C8-A1HJ-01	Shallow Deletion	684.874	CHEK1: Shallow Deletion
+TCGA-C8-A1HK-01	Shallow Deletion	287.572	CHEK1: Shallow Deletion
+TCGA-C8-A1HL-01	Shallow Deletion	215.798	CHEK1: Shallow Deletion
+TCGA-C8-A1HO-01	Shallow Deletion	202.344	CHEK1: Shallow Deletion
+TCGA-C8-A26W-01	Shallow Deletion	193.432	CHEK1: Shallow Deletion
+TCGA-C8-A26X-01	Shallow Deletion	220.946	CHEK1: Shallow Deletion
+TCGA-C8-A26Y-01	Shallow Deletion	210.494	CHEK1: Shallow Deletion
+TCGA-C8-A26Z-01	Shallow Deletion	143.456	CHEK1: Shallow Deletion
+TCGA-C8-A27A-01	Shallow Deletion	425.272	CHEK1: Shallow Deletion
+TCGA-C8-A27B-01	Shallow Deletion	392.848	CHEK1: Shallow Deletion
+TCGA-C8-A3M8-01	Shallow Deletion	179.733	CHEK1: Shallow Deletion
+TCGA-C8-A8HP-01	Shallow Deletion	216.922	CHEK1: Shallow Deletion
+TCGA-C8-A8HQ-01	Shallow Deletion	176.552	CHEK1: Shallow Deletion
+TCGA-D8-A13Y-01	Shallow Deletion	446.458	CHEK1: Shallow Deletion
+TCGA-D8-A13Z-01	Shallow Deletion	550.877	CHEK1: Shallow Deletion
+TCGA-D8-A140-01	Shallow Deletion	180.141	CHEK1: Shallow Deletion
+TCGA-D8-A145-01	Shallow Deletion	103.309	CHEK1: Shallow Deletion
+TCGA-D8-A1J8-01	Shallow Deletion	506.711	CHEK1: Shallow Deletion
+TCGA-D8-A1J9-01	Shallow Deletion	133.961	CHEK1: Shallow Deletion
+TCGA-D8-A1JC-01	Shallow Deletion	202.108	CHEK1: Shallow Deletion
+TCGA-D8-A1JD-01	Shallow Deletion	272.81	CHEK1: Shallow Deletion
+TCGA-D8-A1JE-01	Shallow Deletion	214.164	CHEK1: Shallow Deletion
+TCGA-D8-A1JI-01	Shallow Deletion	85.6462	CHEK1: Shallow Deletion
+TCGA-D8-A1JK-01	Shallow Deletion	261.108	CHEK1: Shallow Deletion
+TCGA-D8-A1JM-01	Shallow Deletion	399.355	CHEK1: Shallow Deletion
+TCGA-D8-A1X5-01	Shallow Deletion	221.665	CHEK1: Shallow Deletion
+TCGA-D8-A1X6-01	Shallow Deletion	194.912	CHEK1: Shallow Deletion
+TCGA-D8-A1X8-01	Shallow Deletion	98.9894	CHEK1: Shallow Deletion
+TCGA-D8-A1X9-01	Shallow Deletion	238.27	CHEK1: Shallow Deletion
+TCGA-D8-A1XF-01	Shallow Deletion	435.048	CHEK1: Shallow Deletion
+TCGA-D8-A1XK-01	Shallow Deletion	664.449	CHEK1: Shallow Deletion
+TCGA-D8-A1XS-01	Shallow Deletion	170.686	CHEK1: Shallow Deletion
+TCGA-D8-A1XU-01	Shallow Deletion	161.651	CHEK1: Shallow Deletion
+TCGA-D8-A1Y0-01	Shallow Deletion	141.393	CHEK1: Shallow Deletion
+TCGA-D8-A1Y2-01	Shallow Deletion	273.901	CHEK1: Shallow Deletion
+TCGA-D8-A27G-01	Shallow Deletion	131.11	CHEK1: Shallow Deletion
+TCGA-D8-A27I-01	Shallow Deletion	130.283	CHEK1: Shallow Deletion
+TCGA-D8-A27M-01	Shallow Deletion	207.82	CHEK1: Shallow Deletion
+TCGA-D8-A27N-01	Shallow Deletion	174.791	CHEK1: Shallow Deletion
+TCGA-D8-A27R-01	Shallow Deletion	165.663	CHEK1: Shallow Deletion
+TCGA-D8-A27V-01	Shallow Deletion	67.953	CHEK1: Shallow Deletion
+TCGA-D8-A27W-01	Shallow Deletion	313.865	CHEK1: Shallow Deletion
+TCGA-E2-A105-01	Shallow Deletion	119.231	CHEK1: Shallow Deletion
+TCGA-E2-A107-01	Shallow Deletion	200.992	CHEK1: Shallow Deletion
+TCGA-E2-A109-01	Shallow Deletion	363.048	CHEK1: Shallow Deletion
+TCGA-E2-A10A-01	Shallow Deletion	163.583	CHEK1: Shallow Deletion
+TCGA-E2-A14O-01	Shallow Deletion	107.014	CHEK1: Shallow Deletion
+TCGA-E2-A14V-01	Shallow Deletion	344.788	CHEK1: Shallow Deletion
+TCGA-E2-A14Y-01	Shallow Deletion	712.546	CHEK1: Shallow Deletion
+TCGA-E2-A150-01	Shallow Deletion	225.01	CHEK1: Shallow Deletion
+TCGA-E2-A152-01	Shallow Deletion	184.427	CHEK1: Shallow Deletion
+TCGA-E2-A155-01	Shallow Deletion	170.43	CHEK1: Shallow Deletion
+TCGA-E2-A158-01	Shallow Deletion	368.092	CHEK1: Shallow Deletion
+TCGA-E2-A15A-01	Shallow Deletion	256.259	CHEK1: Shallow Deletion
+TCGA-E2-A15E-01	Shallow Deletion	170.041	CHEK1: Shallow Deletion
+TCGA-E2-A15F-01	Shallow Deletion	143.234	CHEK1: Shallow Deletion
+TCGA-E2-A15G-01	Shallow Deletion	122.131	CHEK1: Shallow Deletion
+TCGA-E2-A15K-01	Shallow Deletion	179.504	CHEK1: Shallow Deletion
+TCGA-E2-A15M-01	Shallow Deletion	293.729	CHEK1: Shallow Deletion
+TCGA-E2-A15P-01	Shallow Deletion	107.574	CHEK1: Shallow Deletion
+TCGA-E2-A15R-01	Shallow Deletion	157.792	CHEK1: Shallow Deletion
+TCGA-E2-A15S-01	Shallow Deletion	233.501	CHEK1: Shallow Deletion
+TCGA-E2-A15T-01	Shallow Deletion	141.165	CHEK1: Shallow Deletion
+TCGA-E2-A1BD-01	Shallow Deletion	141.419	CHEK1: Shallow Deletion
+TCGA-E2-A1IE-01	Shallow Deletion	120.585	CHEK1: Shallow Deletion
+TCGA-E2-A1IG-01	Shallow Deletion	85.6679	CHEK1: Shallow Deletion
+TCGA-E2-A1IH-01	Shallow Deletion	80.7153	CHEK1: Shallow Deletion
+TCGA-E2-A1IU-01	Shallow Deletion	82.631	CHEK1: Shallow Deletion
+TCGA-E2-A1L7-01	Shallow Deletion	393.546	CHEK1: Shallow Deletion
+TCGA-E2-A1L8-01	Shallow Deletion	140.969	CHEK1: Shallow Deletion
+TCGA-E2-A1LA-01	Shallow Deletion	162.884	CHEK1: Shallow Deletion
+TCGA-E2-A1LL-01	Shallow Deletion	481.935	CHEK1: Shallow Deletion
+TCGA-E2-A2P6-01	Shallow Deletion	81.9184	CHEK1: Shallow Deletion
+TCGA-E2-A576-01	Shallow Deletion	189.734	CHEK1: Shallow Deletion
+TCGA-E9-A1N5-01	Shallow Deletion	143.446	CHEK1: Shallow Deletion
+TCGA-E9-A1N8-01	Shallow Deletion	539.22	CHEK1: Shallow Deletion
+TCGA-E9-A1N9-01	Shallow Deletion	514.231	CHEK1: Shallow Deletion
+TCGA-E9-A1NA-01	Shallow Deletion	376.933	CHEK1: Shallow Deletion
+TCGA-E9-A1NC-01	Shallow Deletion	164.236	CHEK1: Shallow Deletion
+TCGA-E9-A1NF-01	Shallow Deletion	125.069	CHEK1: Shallow Deletion
+TCGA-E9-A1NG-01	Shallow Deletion	106.882	CHEK1: Shallow Deletion
+TCGA-E9-A1NH-01	Shallow Deletion	65.7424	CHEK1: Shallow Deletion
+TCGA-E9-A1NI-01	Shallow Deletion	154.849	CHEK1: Shallow Deletion
+TCGA-E9-A1QZ-01	Shallow Deletion	146.439	CHEK1: Shallow Deletion
+TCGA-E9-A1R2-01	Shallow Deletion	93.8362	CHEK1: Shallow Deletion
+TCGA-E9-A1R7-01	Shallow Deletion	106.263	CHEK1: Shallow Deletion
+TCGA-E9-A1RE-01	Shallow Deletion	218.203	CHEK1: Shallow Deletion
+TCGA-E9-A1RI-01	Shallow Deletion	117.344	CHEK1: Shallow Deletion
+TCGA-E9-A229-01	Shallow Deletion	133.865	CHEK1: Shallow Deletion
+TCGA-E9-A22B-01	Shallow Deletion	112.746	CHEK1: Shallow Deletion
+TCGA-E9-A22D-01	Shallow Deletion	226.089	CHEK1: Shallow Deletion
+TCGA-E9-A22E-01	Shallow Deletion	109.322	CHEK1: Shallow Deletion
+TCGA-E9-A22G-01	Shallow Deletion	533.624	CHEK1: Shallow Deletion
+TCGA-E9-A22H-01	Shallow Deletion	182.563	CHEK1: Shallow Deletion
+TCGA-E9-A243-01	Shallow Deletion	344.224	CHEK1: Shallow Deletion
+TCGA-E9-A247-01	Shallow Deletion	197.699	CHEK1: Shallow Deletion
+TCGA-E9-A295-01	Shallow Deletion	134.251	CHEK1: Shallow Deletion
+TCGA-E9-A3HO-01	Shallow Deletion	295.254	CHEK1: Shallow Deletion
+TCGA-E9-A3QA-01	Shallow Deletion	289.277	CHEK1: Shallow Deletion
+TCGA-E9-A5FL-01	Shallow Deletion	118.217	CHEK1: Shallow Deletion
+TCGA-E9-A5UO-01	Shallow Deletion	209.926	CHEK1: Shallow Deletion
+TCGA-E9-A6HE-01	Shallow Deletion	204.371	CHEK1: Shallow Deletion
+TCGA-EW-A1IW-01	Shallow Deletion	216.453	CHEK1: Shallow Deletion
+TCGA-EW-A1J1-01	Shallow Deletion	365.416	CHEK1: Shallow Deletion
+TCGA-EW-A1J2-01	Shallow Deletion	72.5629	CHEK1: Shallow Deletion
+TCGA-EW-A1J3-01	Shallow Deletion	126.092	CHEK1: Shallow Deletion
+TCGA-EW-A1J5-01	Shallow Deletion	122.895	CHEK1: Shallow Deletion
+TCGA-EW-A1J6-01	Shallow Deletion	151.278	CHEK1: Shallow Deletion
+TCGA-EW-A1OV-01	Shallow Deletion	228.375	CHEK1: Shallow Deletion
+TCGA-EW-A1OY-01	Shallow Deletion	201.55	CHEK1: Shallow Deletion
+TCGA-EW-A1OZ-01	Shallow Deletion	353.824	CHEK1: Shallow Deletion
+TCGA-EW-A1P4-01	Shallow Deletion	698.557	CHEK1: Shallow Deletion
+TCGA-EW-A1P5-01	Shallow Deletion	121.823	CHEK1: Shallow Deletion
+TCGA-EW-A1PA-01	Shallow Deletion	222.504	CHEK1: Shallow Deletion
+TCGA-EW-A1PD-01	Shallow Deletion	224.157	CHEK1: Shallow Deletion
+TCGA-EW-A2FR-01	Shallow Deletion	138.272	CHEK1: Shallow Deletion
+TCGA-EW-A2FS-01	Shallow Deletion	94.9203	CHEK1: Shallow Deletion
+TCGA-EW-A2FV-01	Shallow Deletion	205.537	CHEK1: Shallow Deletion
+TCGA-EW-A2FW-01	Shallow Deletion	301.451	CHEK1: Shallow Deletion
+TCGA-EW-A423-01	Shallow Deletion	122.258	CHEK1: Shallow Deletion
+TCGA-EW-A6SA-01	Shallow Deletion	211.997	CHEK1: Shallow Deletion
+TCGA-EW-A6SC-01	Shallow Deletion	152.813	CHEK1: Shallow Deletion
+TCGA-EW-A6SD-01	Shallow Deletion	208.652	CHEK1: Shallow Deletion
+TCGA-GM-A2D9-01	Shallow Deletion	59.2914	CHEK1: Shallow Deletion
+TCGA-GM-A2DD-01	Shallow Deletion	81.1708	CHEK1: Shallow Deletion
+TCGA-GM-A2DF-01	Shallow Deletion	214.859	CHEK1: Shallow Deletion
+TCGA-GM-A2DO-01	Shallow Deletion	133.858	CHEK1: Shallow Deletion
+TCGA-GM-A3NW-01	Shallow Deletion	94.6046	CHEK1: Shallow Deletion
+TCGA-GM-A3XL-01	Shallow Deletion	401.869	CHEK1: Shallow Deletion
+TCGA-LD-A66U-01	Shallow Deletion	98.5019	CHEK1: Shallow Deletion
+TCGA-LD-A7W6-01	Shallow Deletion	126.936	CHEK1: Shallow Deletion
+TCGA-LL-A5YM-01	Shallow Deletion	311.807	CHEK1: Shallow Deletion
+TCGA-LL-A5YN-01	Shallow Deletion	159.875	CHEK1: Shallow Deletion
+TCGA-LL-A5YO-01	Shallow Deletion	296.847	CHEK1: Shallow Deletion
+TCGA-LL-A6FQ-01	Shallow Deletion	126.707	CHEK1: Shallow Deletion
+TCGA-LL-A6FR-01	Shallow Deletion	179.355	CHEK1: Shallow Deletion
+TCGA-LL-A73Z-01	Shallow Deletion	185.95	CHEK1: Shallow Deletion
+TCGA-LL-A7SZ-01	Shallow Deletion	210.453	CHEK1: Shallow Deletion
+TCGA-LL-A7T0-01	Shallow Deletion	227.401	CHEK1: Shallow Deletion
+TCGA-LL-A8F5-01	Shallow Deletion	375.131	CHEK1: Shallow Deletion
+TCGA-OK-A5Q2-01	Shallow Deletion	137.315	CHEK1: Shallow Deletion
+TCGA-OL-A5D7-01	Shallow Deletion	327.32	CHEK1: Shallow Deletion
+TCGA-OL-A5DA-01	Shallow Deletion	54.4031	CHEK1: Shallow Deletion
+TCGA-OL-A5RY-01	Shallow Deletion	182.467	CHEK1: Shallow Deletion
+TCGA-OL-A5RZ-01	Shallow Deletion	317.135	CHEK1: Shallow Deletion
+TCGA-OL-A5S0-01	Shallow Deletion	324.42	CHEK1: Shallow Deletion
+TCGA-OL-A66J-01	Shallow Deletion	79.315	CHEK1: Shallow Deletion
+TCGA-OL-A66K-01	Shallow Deletion	138.017	CHEK1: Shallow Deletion
+TCGA-OL-A66N-01	Shallow Deletion	111.559	CHEK1: Shallow Deletion
+TCGA-OL-A66O-01	Shallow Deletion	194.21	CHEK1: Shallow Deletion
+TCGA-OL-A66P-01	Shallow Deletion	354.676	CHEK1: Shallow Deletion
+TCGA-OL-A6VO-01	Shallow Deletion	491.941	CHEK1: Shallow Deletion
+TCGA-PE-A5DC-01	Shallow Deletion	140.358	CHEK1: Shallow Deletion
+TCGA-PL-A8LV-01	Shallow Deletion	201.646	CHEK1: Shallow Deletion
+TCGA-PL-A8LX-01	Shallow Deletion	91.2429	CHEK1: Shallow Deletion
+TCGA-S3-A6ZF-01	Shallow Deletion	184.297	CHEK1: Shallow Deletion
+TCGA-S3-A6ZG-01	Shallow Deletion	139.394	CHEK1: Shallow Deletion
+TCGA-S3-A6ZH-01	Shallow Deletion	349.579	CHEK1: Shallow Deletion
+TCGA-S3-AA0Z-01	Shallow Deletion	306.612	CHEK1: Shallow Deletion
+TCGA-S3-AA12-01	Shallow Deletion	109.261	CHEK1: Shallow Deletion
+TCGA-S3-AA17-01	Shallow Deletion	170.444	CHEK1: Shallow Deletion
+TCGA-UL-AAZ6-01	Shallow Deletion	164.081	CHEK1: Shallow Deletion
+TCGA-WT-AB41-01	Shallow Deletion	142.744	CHEK1: Shallow Deletion
+TCGA-XX-A899-01	Shallow Deletion	99.6063	CHEK1: Shallow Deletion
+TCGA-XX-A89A-01	Shallow Deletion	113.368	CHEK1: Shallow Deletion
+TCGA-Z7-A8R5-01	Shallow Deletion	123.047	CHEK1: Shallow Deletion
+TCGA-3C-AALJ-01	Diploid	301.904	CHEK1: Diploid
+TCGA-5L-AAT0-01	Diploid	107.347	CHEK1: Diploid
+TCGA-A1-A0SB-01	Diploid	207.681	CHEK1: Diploid
+TCGA-A1-A0SF-01	Diploid	153.369	CHEK1: Diploid
+TCGA-A1-A0SG-01	Diploid	133.201	CHEK1: Diploid
+TCGA-A2-A04N-01	Diploid	125.198	CHEK1: Diploid
+TCGA-A2-A04Q-01	Diploid	301.967	CHEK1: Diploid
+TCGA-A2-A04W-01	Diploid	123.193	CHEK1: Diploid
+TCGA-A2-A04Y-01	Diploid	167.615	CHEK1: Diploid
+TCGA-A2-A0CP-01	Diploid	132.708	CHEK1: Diploid
+TCGA-A2-A0CQ-01	Diploid	114.337	CHEK1: Diploid
+TCGA-A2-A0CS-01	Diploid	132.441	CHEK1: Diploid
+TCGA-A2-A0CU-01	Diploid	138.984	CHEK1: Diploid
+TCGA-A2-A0CV-01	Diploid	89.9696	CHEK1: Diploid
+TCGA-A2-A0D1-01	Diploid	519.364	CHEK1: Diploid
+TCGA-A2-A0D3-01	Diploid	79.6389	CHEK1: Diploid
+TCGA-A2-A0EM-01	Diploid	175.426	CHEK1: Diploid
+TCGA-A2-A0EN-01	Diploid	103.366	CHEK1: Diploid
+TCGA-A2-A0EP-01	Diploid	146.844	CHEK1: Diploid
+TCGA-A2-A0ES-01	Diploid	61.2984	CHEK1: Diploid
+TCGA-A2-A0EV-01	Diploid	242.456	CHEK1: Diploid
+TCGA-A2-A0EX-01	Diploid	80.5604	CHEK1: Diploid
+TCGA-A2-A0ST-01	Diploid	300.289	CHEK1: Diploid
+TCGA-A2-A0SV-01	Diploid	519.296	CHEK1: Diploid
+TCGA-A2-A0SW-01	Diploid	426.004	CHEK1: Diploid
+TCGA-A2-A0T0-01	Diploid	656.933	CHEK1: Diploid
+TCGA-A2-A0T2-01	Diploid	176.549	CHEK1: Diploid
+TCGA-A2-A0T5-01	Diploid	264.43	CHEK1: Diploid
+TCGA-A2-A0T6-01	Diploid	76.7836	CHEK1: Diploid
+TCGA-A2-A0YD-01	Diploid	146.872	CHEK1: Diploid
+TCGA-A2-A0YG-01	Diploid	419.688	CHEK1: Diploid
+TCGA-A2-A0YH-01	Diploid	254.723	CHEK1: Diploid
+TCGA-A2-A0YL-01	Diploid	247.618	CHEK1: Diploid
+TCGA-A2-A1FZ-01	Diploid	128.672	CHEK1: Diploid
+TCGA-A2-A1G6-01	Diploid	64.7098	CHEK1: Diploid
+TCGA-A2-A259-01	Diploid	113.845	CHEK1: Diploid
+TCGA-A2-A25A-01	Diploid	169.384	CHEK1: Diploid
+TCGA-A2-A25D-01	Diploid	281.036	CHEK1: Diploid
+TCGA-A2-A25F-01	Diploid	507.855	CHEK1: Diploid
+TCGA-A2-A3XT-01	Diploid	388.922	CHEK1: Diploid
+TCGA-A2-A3XU-01	Diploid	492.377	CHEK1: Diploid
+TCGA-A2-A3XV-01	Diploid	341.505	CHEK1: Diploid
+TCGA-A2-A3XZ-01	Diploid	160.923	CHEK1: Diploid
+TCGA-A2-A4S1-01	Diploid	96.1457	CHEK1: Diploid
+TCGA-A7-A0CG-01	Diploid	168.76	CHEK1: Diploid
+TCGA-A7-A0CH-01	Diploid	149.156	CHEK1: Diploid
+TCGA-A7-A0D9-01	Diploid	108.687	CHEK1: Diploid
+TCGA-A7-A0DB-01	Diploid	111.888	CHEK1: Diploid
+TCGA-A7-A13G-01	Diploid	110.581	CHEK1: Diploid
+TCGA-A7-A26H-01	Diploid	257.441	CHEK1: Diploid
+TCGA-A7-A26I-01	Diploid	576.487	CHEK1: Diploid
+TCGA-A7-A3RF-01	Diploid	157.496	CHEK1: Diploid
+TCGA-A7-A425-01	Diploid	153.57	CHEK1: Diploid
+TCGA-A7-A5ZW-01	Diploid	88.4422	CHEK1: Diploid
+TCGA-A7-A5ZX-01	Diploid	74.0665	CHEK1: Diploid
+TCGA-A8-A06P-01	Diploid	128.222	CHEK1: Diploid
+TCGA-A8-A06R-01	Diploid	165.176	CHEK1: Diploid
+TCGA-A8-A06Y-01	Diploid	166.477	CHEK1: Diploid
+TCGA-A8-A076-01	Diploid	448.864	CHEK1: Diploid
+TCGA-A8-A07J-01	Diploid	79.586	CHEK1: Diploid
+TCGA-A8-A07O-01	Diploid	738.636	CHEK1: Diploid
+TCGA-A8-A07U-01	Diploid	327.939	CHEK1: Diploid
+TCGA-A8-A07Z-01	Diploid	235.83	CHEK1: Diploid
+TCGA-A8-A083-01	Diploid	90.6494	CHEK1: Diploid
+TCGA-A8-A08H-01	Diploid	227.642	CHEK1: Diploid
+TCGA-A8-A08T-01	Diploid	150.749	CHEK1: Diploid
+TCGA-A8-A08Z-01	Diploid	169.713	CHEK1: Diploid
+TCGA-A8-A090-01	Diploid	333.239	CHEK1: Diploid
+TCGA-A8-A092-01	Diploid	478.457	CHEK1: Diploid
+TCGA-A8-A095-01	Diploid	575.896	CHEK1: Diploid
+TCGA-A8-A096-01	Diploid	233.438	CHEK1: Diploid
+TCGA-A8-A099-01	Diploid	225.18	CHEK1: Diploid
+TCGA-A8-A09G-01	Diploid	363.024	CHEK1: Diploid
+TCGA-A8-A09N-01	Diploid	445.996	CHEK1: Diploid
+TCGA-A8-A09V-01	Diploid	163.321	CHEK1: Diploid
+TCGA-A8-A09W-01	Diploid	470.909	CHEK1: Diploid
+TCGA-A8-A09X-01	Diploid	319.983	CHEK1: Diploid
+TCGA-A8-A09Z-01	Diploid	204.14	CHEK1: Diploid
+TCGA-A8-A0AD-01	Diploid	241.83	CHEK1: Diploid
+TCGA-AC-A23H-01	Diploid	265.119	CHEK1: Diploid
+TCGA-AC-A2FF-01	Diploid	149.114	CHEK1: Diploid
+TCGA-AC-A2FK-01	Diploid	75.1445	CHEK1: Diploid
+TCGA-AC-A3QP-01	Diploid	121.513	CHEK1: Diploid
+TCGA-AC-A3YI-01	Diploid	69.6236	CHEK1: Diploid
+TCGA-AC-A3YJ-01	Diploid	150.762	CHEK1: Diploid
+TCGA-AC-A5EH-01	Diploid	227.629	CHEK1: Diploid
+TCGA-AC-A5XS-01	Diploid	152.371	CHEK1: Diploid
+TCGA-AC-A62X-01	Diploid	503.383	CHEK1: Diploid
+TCGA-AC-A6NO-01	Diploid	213.128	CHEK1: Diploid
+TCGA-AC-A7VB-01	Diploid	413.228	CHEK1: Diploid
+TCGA-AC-A8OQ-01	Diploid	265.644	CHEK1: Diploid
+TCGA-AC-A8OR-01	Diploid	161.561	CHEK1: Diploid
+TCGA-AC-A8OS-01	Diploid	97.8929	CHEK1: Diploid
+TCGA-AN-A046-01	Diploid	168.118	CHEK1: Diploid
+TCGA-AN-A04D-01	Diploid	782.609	CHEK1: Diploid
+TCGA-AN-A0AM-01	Diploid	330.198	CHEK1: Diploid
+TCGA-AN-A0AS-01	Diploid	162.199	CHEK1: Diploid
+TCGA-AN-A0FD-01	Diploid	266.698	CHEK1: Diploid
+TCGA-AN-A0FF-01	Diploid	232.263	CHEK1: Diploid
+TCGA-AN-A0FN-01	Diploid	110.248	CHEK1: Diploid
+TCGA-AN-A0FX-01	Diploid	701.754	CHEK1: Diploid
+TCGA-AN-A0XO-01	Diploid	195.864	CHEK1: Diploid
+TCGA-AN-A0XP-01	Diploid	88.746	CHEK1: Diploid
+TCGA-AN-A0XR-01	Diploid	283.588	CHEK1: Diploid
+TCGA-AN-A0XU-01	Diploid	1246.38	CHEK1: Diploid
+TCGA-AN-A0XV-01	Diploid	229.777	CHEK1: Diploid
+TCGA-AO-A03N-01	Diploid	276.415	CHEK1: Diploid
+TCGA-AO-A03R-01	Diploid	305.124	CHEK1: Diploid
+TCGA-AO-A03U-01	Diploid	97.3451	CHEK1: Diploid
+TCGA-AO-A0J2-01	Diploid	425.132	CHEK1: Diploid
+TCGA-AO-A0J8-01	Diploid	119.246	CHEK1: Diploid
+TCGA-AO-A0JB-01	Diploid	162.791	CHEK1: Diploid
+TCGA-AO-A0JC-01	Diploid	170.753	CHEK1: Diploid
+TCGA-AO-A0JF-01	Diploid	91.4681	CHEK1: Diploid
+TCGA-AO-A0JI-01	Diploid	397.577	CHEK1: Diploid
+TCGA-AO-A0JJ-01	Diploid	203.097	CHEK1: Diploid
+TCGA-AO-A125-01	Diploid	142.295	CHEK1: Diploid
+TCGA-AO-A126-01	Diploid	132.623	CHEK1: Diploid
+TCGA-AO-A128-01	Diploid	240.163	CHEK1: Diploid
+TCGA-AO-A12D-01	Diploid	143.698	CHEK1: Diploid
+TCGA-AO-A12H-01	Diploid	116.138	CHEK1: Diploid
+TCGA-AO-A1KO-01	Diploid	115.423	CHEK1: Diploid
+TCGA-AO-A1KP-01	Diploid	262.604	CHEK1: Diploid
+TCGA-AO-A1KR-01	Diploid	262.207	CHEK1: Diploid
+TCGA-AQ-A0Y5-01	Diploid	121.084	CHEK1: Diploid
+TCGA-AQ-A1H3-01	Diploid	264.177	CHEK1: Diploid
+TCGA-AQ-A7U7-01	Diploid	133.519	CHEK1: Diploid
+TCGA-AR-A0TP-01	Diploid	838.523	CHEK1: Diploid
+TCGA-AR-A0TQ-01	Diploid	408.32	CHEK1: Diploid
+TCGA-AR-A0TR-01	Diploid	196.378	CHEK1: Diploid
+TCGA-AR-A0TS-01	Diploid	527.505	CHEK1: Diploid
+TCGA-AR-A0TX-01	Diploid	154.315	CHEK1: Diploid
+TCGA-AR-A0TY-01	Diploid	724.605	CHEK1: Diploid
+TCGA-AR-A1AH-01	Diploid	1257.33	CHEK1: Diploid
+TCGA-AR-A1AJ-01	Diploid	346.928	CHEK1: Diploid
+TCGA-AR-A1AL-01	Diploid	143.325	CHEK1: Diploid
+TCGA-AR-A1AN-01	Diploid	148.893	CHEK1: Diploid
+TCGA-AR-A1AO-01	Diploid	228.008	CHEK1: Diploid
+TCGA-AR-A1AQ-01	Diploid	755.682	CHEK1: Diploid
+TCGA-AR-A1AR-01	Diploid	854.918	CHEK1: Diploid
+TCGA-AR-A1AS-01	Diploid	307.519	CHEK1: Diploid
+TCGA-AR-A1AX-01	Diploid	235.161	CHEK1: Diploid
+TCGA-AR-A1AY-01	Diploid	1094.52	CHEK1: Diploid
+TCGA-AR-A24M-01	Diploid	201.171	CHEK1: Diploid
+TCGA-AR-A24N-01	Diploid	371.964	CHEK1: Diploid
+TCGA-AR-A24O-01	Diploid	216.565	CHEK1: Diploid
+TCGA-AR-A24P-01	Diploid	322.87	CHEK1: Diploid
+TCGA-AR-A24S-01	Diploid	467.233	CHEK1: Diploid
+TCGA-AR-A24U-01	Diploid	208.214	CHEK1: Diploid
+TCGA-AR-A24W-01	Diploid	87.0364	CHEK1: Diploid
+TCGA-AR-A24X-01	Diploid	258.359	CHEK1: Diploid
+TCGA-AR-A251-01	Diploid	773.688	CHEK1: Diploid
+TCGA-AR-A252-01	Diploid	386.074	CHEK1: Diploid
+TCGA-AR-A254-01	Diploid	275.231	CHEK1: Diploid
+TCGA-AR-A2LE-01	Diploid	105.788	CHEK1: Diploid
+TCGA-AR-A2LH-01	Diploid	250.789	CHEK1: Diploid
+TCGA-AR-A2LN-01	Diploid	65.0814	CHEK1: Diploid
+TCGA-AR-A2LQ-01	Diploid	108.113	CHEK1: Diploid
+TCGA-AR-A5QM-01	Diploid	184.75	CHEK1: Diploid
+TCGA-AR-A5QN-01	Diploid	329.597	CHEK1: Diploid
+TCGA-AR-A5QP-01	Diploid	288.292	CHEK1: Diploid
+TCGA-AR-A5QQ-01	Diploid	702.931	CHEK1: Diploid
+TCGA-B6-A0I1-01	Diploid	345.942	CHEK1: Diploid
+TCGA-B6-A0I2-01	Diploid	257.046	CHEK1: Diploid
+TCGA-B6-A0I5-01	Diploid	105.829	CHEK1: Diploid
+TCGA-B6-A0IA-01	Diploid	176.628	CHEK1: Diploid
+TCGA-B6-A0IC-01	Diploid	163.103	CHEK1: Diploid
+TCGA-B6-A0IH-01	Diploid	73.0344	CHEK1: Diploid
+TCGA-B6-A0IN-01	Diploid	136.744	CHEK1: Diploid
+TCGA-B6-A0IP-01	Diploid	226.887	CHEK1: Diploid
+TCGA-B6-A0IQ-01	Diploid	565.696	CHEK1: Diploid
+TCGA-B6-A0RE-01	Diploid	503.907	CHEK1: Diploid
+TCGA-B6-A0RH-01	Diploid	156.121	CHEK1: Diploid
+TCGA-B6-A0RI-01	Diploid	265.398	CHEK1: Diploid
+TCGA-B6-A0RM-01	Diploid	194.205	CHEK1: Diploid
+TCGA-B6-A0RN-01	Diploid	99.9305	CHEK1: Diploid
+TCGA-B6-A0RO-01	Diploid	88.8224	CHEK1: Diploid
+TCGA-B6-A0RP-01	Diploid	173.349	CHEK1: Diploid
+TCGA-B6-A0RQ-01	Diploid	86.6842	CHEK1: Diploid
+TCGA-B6-A0RT-01	Diploid	210.777	CHEK1: Diploid
+TCGA-B6-A0WZ-01	Diploid	201.973	CHEK1: Diploid
+TCGA-B6-A0X4-01	Diploid	174.144	CHEK1: Diploid
+TCGA-B6-A0X5-01	Diploid	614.63	CHEK1: Diploid
+TCGA-B6-A1KC-01	Diploid	245.648	CHEK1: Diploid
+TCGA-B6-A2IU-01	Diploid	197.7	CHEK1: Diploid
+TCGA-B6-A401-01	Diploid	191.584	CHEK1: Diploid
+TCGA-B6-A409-01	Diploid	403.498	CHEK1: Diploid
+TCGA-B6-A40C-01	Diploid	307.587	CHEK1: Diploid
+TCGA-BH-A0AW-01	Diploid	191.851	CHEK1: Diploid
+TCGA-BH-A0B0-01	Diploid	96.6543	CHEK1: Diploid
+TCGA-BH-A0B4-01	Diploid	222.321	CHEK1: Diploid
+TCGA-BH-A0B7-01	Diploid	299.5	CHEK1: Diploid
+TCGA-BH-A0B9-01	Diploid	793.775	CHEK1: Diploid
+TCGA-BH-A0BM-01	Diploid	109.554	CHEK1: Diploid
+TCGA-BH-A0BO-01	Diploid	52.9565	CHEK1: Diploid
+TCGA-BH-A0BQ-01	Diploid	173.129	CHEK1: Diploid
+TCGA-BH-A0BS-01	Diploid	149.539	CHEK1: Diploid
+TCGA-BH-A0BW-01	Diploid	403.095	CHEK1: Diploid
+TCGA-BH-A0DH-01	Diploid	346.632	CHEK1: Diploid
+TCGA-BH-A0DL-01	Diploid	338.481	CHEK1: Diploid
+TCGA-BH-A0DS-01	Diploid	146.904	CHEK1: Diploid
+TCGA-BH-A0DT-01	Diploid	119.959	CHEK1: Diploid
+TCGA-BH-A0DV-01	Diploid	67.8521	CHEK1: Diploid
+TCGA-BH-A0DX-01	Diploid	168.589	CHEK1: Diploid
+TCGA-BH-A0DZ-01	Diploid	366.102	CHEK1: Diploid
+TCGA-BH-A0E1-01	Diploid	276.358	CHEK1: Diploid
+TCGA-BH-A0E6-01	Diploid	357.944	CHEK1: Diploid
+TCGA-BH-A0E7-01	Diploid	91.7864	CHEK1: Diploid
+TCGA-BH-A0E9-01	Diploid	162.435	CHEK1: Diploid
+TCGA-BH-A0EA-01	Diploid	60.2943	CHEK1: Diploid
+TCGA-BH-A0EB-01	Diploid	108.989	CHEK1: Diploid
+TCGA-BH-A0GZ-01	Diploid	231.487	CHEK1: Diploid
+TCGA-BH-A0H3-01	Diploid	137.786	CHEK1: Diploid
+TCGA-BH-A0H5-01	Diploid	156.924	CHEK1: Diploid
+TCGA-BH-A0H6-01	Diploid	119.627	CHEK1: Diploid
+TCGA-BH-A0H9-01	Diploid	333.496	CHEK1: Diploid
+TCGA-BH-A0HI-01	Diploid	86.8571	CHEK1: Diploid
+TCGA-BH-A0HO-01	Diploid	144.231	CHEK1: Diploid
+TCGA-BH-A0HQ-01	Diploid	109.319	CHEK1: Diploid
+TCGA-BH-A0RX-01	Diploid	416.199	CHEK1: Diploid
+TCGA-BH-A0W4-01	Diploid	156.595	CHEK1: Diploid
+TCGA-BH-A0W5-01	Diploid	173.912	CHEK1: Diploid
+TCGA-BH-A0W7-01	Diploid	222.697	CHEK1: Diploid
+TCGA-BH-A18F-01	Diploid	369.949	CHEK1: Diploid
+TCGA-BH-A18G-01	Diploid	228.125	CHEK1: Diploid
+TCGA-BH-A18K-01	Diploid	211.421	CHEK1: Diploid
+TCGA-BH-A18N-01	Diploid	121.826	CHEK1: Diploid
+TCGA-BH-A18Q-01	Diploid	683.681	CHEK1: Diploid
+TCGA-BH-A18S-01	Diploid	178.645	CHEK1: Diploid
+TCGA-BH-A1ET-01	Diploid	98.3801	CHEK1: Diploid
+TCGA-BH-A1EV-01	Diploid	310.469	CHEK1: Diploid
+TCGA-BH-A1EX-01	Diploid	148.262	CHEK1: Diploid
+TCGA-BH-A1F5-01	Diploid	126.75	CHEK1: Diploid
+TCGA-BH-A1F6-01	Diploid	429.514	CHEK1: Diploid
+TCGA-BH-A1FG-01	Diploid	142.389	CHEK1: Diploid
+TCGA-BH-A1FH-01	Diploid	120.443	CHEK1: Diploid
+TCGA-BH-A1FJ-01	Diploid	656.077	CHEK1: Diploid
+TCGA-BH-A1FL-01	Diploid	208.013	CHEK1: Diploid
+TCGA-BH-A1FM-01	Diploid	520.163	CHEK1: Diploid
+TCGA-BH-A1FR-01	Diploid	212.922	CHEK1: Diploid
+TCGA-BH-A1FU-01	Diploid	443.482	CHEK1: Diploid
+TCGA-BH-A2L8-01	Diploid	159.013	CHEK1: Diploid
+TCGA-BH-A42U-01	Diploid	136.222	CHEK1: Diploid
+TCGA-BH-A42V-01	Diploid	121.962	CHEK1: Diploid
+TCGA-BH-A6R8-01	Diploid	147.995	CHEK1: Diploid
+TCGA-BH-A6R9-01	Diploid	171.01	CHEK1: Diploid
+TCGA-BH-A8FZ-01	Diploid	137.772	CHEK1: Diploid
+TCGA-BH-A8G0-01	Diploid	98.3304	CHEK1: Diploid
+TCGA-C8-A12L-01	Diploid	711.12	CHEK1: Diploid
+TCGA-C8-A12N-01	Diploid	92.3108	CHEK1: Diploid
+TCGA-C8-A12O-01	Diploid	335.272	CHEK1: Diploid
+TCGA-C8-A12V-01	Diploid	476.886	CHEK1: Diploid
+TCGA-C8-A12X-01	Diploid	219.424	CHEK1: Diploid
+TCGA-C8-A12Z-01	Diploid	170.129	CHEK1: Diploid
+TCGA-C8-A131-01	Diploid	343.6	CHEK1: Diploid
+TCGA-C8-A133-01	Diploid	116.395	CHEK1: Diploid
+TCGA-C8-A1HM-01	Diploid	512.311	CHEK1: Diploid
+TCGA-C8-A1HN-01	Diploid	301.036	CHEK1: Diploid
+TCGA-C8-A26V-01	Diploid	277.282	CHEK1: Diploid
+TCGA-C8-A273-01	Diploid	298.284	CHEK1: Diploid
+TCGA-C8-A274-01	Diploid	268.566	CHEK1: Diploid
+TCGA-C8-A275-01	Diploid	416.005	CHEK1: Diploid
+TCGA-C8-A3M7-01	Diploid	208.989	CHEK1: Diploid
+TCGA-C8-A8HR-01	Diploid	227.436	CHEK1: Diploid
+TCGA-D8-A141-01	Diploid	104.153	CHEK1: Diploid
+TCGA-D8-A143-01	Diploid	705.892	CHEK1: Diploid
+TCGA-D8-A1JA-01	Diploid	332.611	CHEK1: Diploid
+TCGA-D8-A1JB-01	Diploid	94.7568	CHEK1: Diploid
+TCGA-D8-A1JG-01	Diploid	472.156	CHEK1: Diploid
+TCGA-D8-A1JH-01	Diploid	135.092	CHEK1: Diploid
+TCGA-D8-A1JJ-01	Diploid	427.678	CHEK1: Diploid
+TCGA-D8-A1JN-01	Diploid	93.2699	CHEK1: Diploid
+TCGA-D8-A1JP-01	Diploid	418.348	CHEK1: Diploid
+TCGA-D8-A1JS-01	Diploid	98.546	CHEK1: Diploid
+TCGA-D8-A1JT-01	Diploid	244.193	CHEK1: Diploid
+TCGA-D8-A1JU-01	Diploid	53.7332	CHEK1: Diploid
+TCGA-D8-A1X7-01	Diploid	310.621	CHEK1: Diploid
+TCGA-D8-A1XA-01	Diploid	257.201	CHEK1: Diploid
+TCGA-D8-A1XB-01	Diploid	193.873	CHEK1: Diploid
+TCGA-D8-A1XC-01	Diploid	97.4314	CHEK1: Diploid
+TCGA-D8-A1XG-01	Diploid	175.209	CHEK1: Diploid
+TCGA-D8-A1XL-01	Diploid	397.49	CHEK1: Diploid
+TCGA-D8-A1XM-01	Diploid	282.437	CHEK1: Diploid
+TCGA-D8-A1XO-01	Diploid	156.967	CHEK1: Diploid
+TCGA-D8-A1XQ-01	Diploid	475.42	CHEK1: Diploid
+TCGA-D8-A1XR-01	Diploid	233.515	CHEK1: Diploid
+TCGA-D8-A1XT-01	Diploid	544.481	CHEK1: Diploid
+TCGA-D8-A1XV-01	Diploid	210.201	CHEK1: Diploid
+TCGA-D8-A1XZ-01	Diploid	352.958	CHEK1: Diploid
+TCGA-D8-A1Y1-01	Diploid	369.624	CHEK1: Diploid
+TCGA-D8-A27E-01	Diploid	76.3084	CHEK1: Diploid
+TCGA-D8-A27F-01	Diploid	1332.38	CHEK1: Diploid
+TCGA-D8-A27H-01	Diploid	220.149	CHEK1: Diploid
+TCGA-D8-A27K-01	Diploid	141.973	CHEK1: Diploid
+TCGA-D8-A27L-01	Diploid	111.562	CHEK1: Diploid
+TCGA-D8-A27P-01	Diploid	98.5028	CHEK1: Diploid
+TCGA-D8-A27T-01	Diploid	242.435	CHEK1: Diploid
+TCGA-D8-A3Z6-01	Diploid	106.815	CHEK1: Diploid
+TCGA-D8-A4Z1-01	Diploid	84.1766	CHEK1: Diploid
+TCGA-D8-A73U-01	Diploid	80.5762	CHEK1: Diploid
+TCGA-D8-A73W-01	Diploid	161.371	CHEK1: Diploid
+TCGA-D8-A73X-01	Diploid	100.633	CHEK1: Diploid
+TCGA-E2-A108-01	Diploid	203.29	CHEK1: Diploid
+TCGA-E2-A10B-01	Diploid	312.375	CHEK1: Diploid
+TCGA-E2-A10C-01	Diploid	212.655	CHEK1: Diploid
+TCGA-E2-A10F-01	Diploid	221.597	CHEK1: Diploid
+TCGA-E2-A14N-01	Diploid	855.929	CHEK1: Diploid
+TCGA-E2-A14P-01	Diploid	375.651	CHEK1: Diploid
+TCGA-E2-A14Q-01	Diploid	157.318	CHEK1: Diploid
+TCGA-E2-A14T-01	Diploid	152.15	CHEK1: Diploid
+TCGA-E2-A14W-01	Diploid	231.912	CHEK1: Diploid
+TCGA-E2-A14Z-01	Diploid	277.579	CHEK1: Diploid
+TCGA-E2-A153-01	Diploid	127.364	CHEK1: Diploid
+TCGA-E2-A154-01	Diploid	250	CHEK1: Diploid
+TCGA-E2-A156-01	Diploid	170.136	CHEK1: Diploid
+TCGA-E2-A159-01	Diploid	584.338	CHEK1: Diploid
+TCGA-E2-A15C-01	Diploid	137.6	CHEK1: Diploid
+TCGA-E2-A15D-01	Diploid	86.8651	CHEK1: Diploid
+TCGA-E2-A15H-01	Diploid	385.111	CHEK1: Diploid
+TCGA-E2-A15I-01	Diploid	43.4493	CHEK1: Diploid
+TCGA-E2-A15J-01	Diploid	165.724	CHEK1: Diploid
+TCGA-E2-A15L-01	Diploid	242.444	CHEK1: Diploid
+TCGA-E2-A15O-01	Diploid	429.381	CHEK1: Diploid
+TCGA-E2-A1B1-01	Diploid	230.875	CHEK1: Diploid
+TCGA-E2-A1B4-01	Diploid	84.5945	CHEK1: Diploid
+TCGA-E2-A1B5-01	Diploid	102.86	CHEK1: Diploid
+TCGA-E2-A1B6-01	Diploid	523.204	CHEK1: Diploid
+TCGA-E2-A1BC-01	Diploid	59.6659	CHEK1: Diploid
+TCGA-E2-A1IF-01	Diploid	157.984	CHEK1: Diploid
+TCGA-E2-A1IJ-01	Diploid	77.7136	CHEK1: Diploid
+TCGA-E2-A1IK-01	Diploid	91.6667	CHEK1: Diploid
+TCGA-E2-A1IL-01	Diploid	112.805	CHEK1: Diploid
+TCGA-E2-A1IN-01	Diploid	163.215	CHEK1: Diploid
+TCGA-E2-A1IO-01	Diploid	157.954	CHEK1: Diploid
+TCGA-E2-A1L6-01	Diploid	133.385	CHEK1: Diploid
+TCGA-E2-A1L9-01	Diploid	147.669	CHEK1: Diploid
+TCGA-E2-A1LB-01	Diploid	155.004	CHEK1: Diploid
+TCGA-E2-A1LG-01	Diploid	666.155	CHEK1: Diploid
+TCGA-E2-A1LI-01	Diploid	812.5	CHEK1: Diploid
+TCGA-E2-A570-01	Diploid	119.315	CHEK1: Diploid
+TCGA-E9-A1N3-01	Diploid	181.674	CHEK1: Diploid
+TCGA-E9-A1N4-01	Diploid	204.78	CHEK1: Diploid
+TCGA-E9-A1NE-01	Diploid	150.314	CHEK1: Diploid
+TCGA-E9-A1R0-01	Diploid	183.015	CHEK1: Diploid
+TCGA-E9-A1R3-01	Diploid	46.8437	CHEK1: Diploid
+TCGA-E9-A1R4-01	Diploid	161.747	CHEK1: Diploid
+TCGA-E9-A1R5-01	Diploid	141.041	CHEK1: Diploid
+TCGA-E9-A1RA-01	Diploid	204.802	CHEK1: Diploid
+TCGA-E9-A1RC-01	Diploid	417.907	CHEK1: Diploid
+TCGA-E9-A1RD-01	Diploid	186.531	CHEK1: Diploid
+TCGA-E9-A1RG-01	Diploid	323.013	CHEK1: Diploid
+TCGA-E9-A1RH-01	Diploid	527.476	CHEK1: Diploid
+TCGA-E9-A226-01	Diploid	216.023	CHEK1: Diploid
+TCGA-E9-A227-01	Diploid	191.656	CHEK1: Diploid
+TCGA-E9-A228-01	Diploid	526.111	CHEK1: Diploid
+TCGA-E9-A22A-01	Diploid	309.735	CHEK1: Diploid
+TCGA-E9-A245-01	Diploid	270.995	CHEK1: Diploid
+TCGA-E9-A248-01	Diploid	616.381	CHEK1: Diploid
+TCGA-E9-A24A-01	Diploid	129.574	CHEK1: Diploid
+TCGA-E9-A2JS-01	Diploid	237.849	CHEK1: Diploid
+TCGA-E9-A2JT-01	Diploid	184.844	CHEK1: Diploid
+TCGA-E9-A3X8-01	Diploid	250.249	CHEK1: Diploid
+TCGA-E9-A54Y-01	Diploid	508.294	CHEK1: Diploid
+TCGA-E9-A5FK-01	Diploid	89.8581	CHEK1: Diploid
+TCGA-EW-A1IX-01	Diploid	94.1193	CHEK1: Diploid
+TCGA-EW-A1IY-01	Diploid	285.569	CHEK1: Diploid
+TCGA-EW-A1IZ-01	Diploid	147.087	CHEK1: Diploid
+TCGA-EW-A1P0-01	Diploid	240.84	CHEK1: Diploid
+TCGA-EW-A1P1-01	Diploid	127.789	CHEK1: Diploid
+TCGA-EW-A1P3-01	Diploid	168.339	CHEK1: Diploid
+TCGA-EW-A1P6-01	Diploid	229.131	CHEK1: Diploid
+TCGA-EW-A1P7-01	Diploid	148.179	CHEK1: Diploid
+TCGA-EW-A1PB-01	Diploid	273.667	CHEK1: Diploid
+TCGA-EW-A1PE-01	Diploid	159.898	CHEK1: Diploid
+TCGA-EW-A1PG-01	Diploid	65.1934	CHEK1: Diploid
+TCGA-EW-A1PH-01	Diploid	488.833	CHEK1: Diploid
+TCGA-EW-A6S9-01	Diploid	308.604	CHEK1: Diploid
+TCGA-GI-A2C8-01	Diploid	38.822	CHEK1: Diploid
+TCGA-GM-A2DA-01	Diploid	120.521	CHEK1: Diploid
+TCGA-GM-A2DC-01	Diploid	106.689	CHEK1: Diploid
+TCGA-GM-A2DI-01	Diploid	117.089	CHEK1: Diploid
+TCGA-GM-A2DK-01	Diploid	116.736	CHEK1: Diploid
+TCGA-GM-A2DM-01	Diploid	94.0672	CHEK1: Diploid
+TCGA-GM-A2DN-01	Diploid	273.043	CHEK1: Diploid
+TCGA-GM-A4E0-01	Diploid	73.4303	CHEK1: Diploid
+TCGA-GM-A5PV-01	Diploid	96.7103	CHEK1: Diploid
+TCGA-GM-A5PX-01	Diploid	96.5221	CHEK1: Diploid
+TCGA-HN-A2NL-01	Diploid	860.087	CHEK1: Diploid
+TCGA-HN-A2OB-01	Diploid	69.2446	CHEK1: Diploid
+TCGA-JL-A3YX-01	Diploid	271.911	CHEK1: Diploid
+TCGA-LD-A74U-01	Diploid	177.324	CHEK1: Diploid
+TCGA-LD-A7W5-01	Diploid	219.622	CHEK1: Diploid
+TCGA-LD-A9QF-01	Diploid	211.454	CHEK1: Diploid
+TCGA-LL-A440-01	Diploid	84.3404	CHEK1: Diploid
+TCGA-LL-A50Y-01	Diploid	153.086	CHEK1: Diploid
+TCGA-LL-A5YL-01	Diploid	282.44	CHEK1: Diploid
+TCGA-LL-A73Y-01	Diploid	200.309	CHEK1: Diploid
+TCGA-LL-A740-01	Diploid	142.511	CHEK1: Diploid
+TCGA-LL-A9Q3-01	Diploid	93.5189	CHEK1: Diploid
+TCGA-OL-A5D6-01	Diploid	115.838	CHEK1: Diploid
+TCGA-OL-A5D8-01	Diploid	146.402	CHEK1: Diploid
+TCGA-OL-A5RU-01	Diploid	93.7365	CHEK1: Diploid
+TCGA-OL-A5RX-01	Diploid	131.691	CHEK1: Diploid
+TCGA-OL-A66H-01	Diploid	166.806	CHEK1: Diploid
+TCGA-OL-A66I-01	Diploid	590.506	CHEK1: Diploid
+TCGA-OL-A66L-01	Diploid	154.339	CHEK1: Diploid
+TCGA-OL-A6VQ-01	Diploid	110.109	CHEK1: Diploid
+TCGA-OL-A6VR-01	Diploid	146.638	CHEK1: Diploid
+TCGA-OL-A97C-01	Diploid	202.566	CHEK1: Diploid
+TCGA-PE-A5DD-01	Diploid	212.724	CHEK1: Diploid
+TCGA-PE-A5DE-01	Diploid	159.449	CHEK1: Diploid
+TCGA-PL-A8LY-01	Diploid	270.936	CHEK1: Diploid
+TCGA-S3-AA10-01	Diploid	626.116	CHEK1: Diploid
+TCGA-S3-AA11-01	Diploid	175.922	CHEK1: Diploid
+TCGA-S3-AA14-01	Diploid	220.897	CHEK1: Diploid
+TCGA-S3-AA15-01	Diploid	432.564	CHEK1: Diploid
+TCGA-V7-A7HQ-01	Diploid	261.731	CHEK1: Diploid
+TCGA-W8-A86G-01	Diploid	86.3787	CHEK1: Diploid
+TCGA-WT-AB44-01	Diploid	114.844	CHEK1: Diploid
+TCGA-A1-A0SI-01	Gain	429.37	CHEK1: Gain
+TCGA-A1-A0SK-01	Gain	1422.94	CHEK1: Gain
+TCGA-A2-A0D0-01	Gain	638.385	CHEK1: Gain
+TCGA-A2-A0D2-01	Gain	1299.94	CHEK1: Gain
+TCGA-A2-A0EO-01	Gain	158.537	CHEK1: Gain
+TCGA-A2-A0EU-01	Gain	311.508	CHEK1: Gain
+TCGA-A2-A0EY-01	Gain	234.541	CHEK1: Gain
+TCGA-A2-A0YJ-01	Gain	500.814	CHEK1: Gain
+TCGA-A2-A1G0-01	Gain	99.2768	CHEK1: Gain
+TCGA-A2-A1G1-01	Gain	701.258	CHEK1: Gain
+TCGA-A7-A0CD-01	Gain	318.499	CHEK1: Gain
+TCGA-A7-A26F-01	Gain	548.599	CHEK1: Gain
+TCGA-A7-A26G-01	Gain	579.898	CHEK1: Gain
+TCGA-A8-A075-01	Gain	429.186	CHEK1: Gain
+TCGA-A8-A07F-01	Gain	361.128	CHEK1: Gain
+TCGA-A8-A07G-01	Gain	166.552	CHEK1: Gain
+TCGA-A8-A08B-01	Gain	484.982	CHEK1: Gain
+TCGA-A8-A09Q-01	Gain	397.121	CHEK1: Gain
+TCGA-A8-A0A7-01	Gain	208.873	CHEK1: Gain
+TCGA-AC-A62Y-01	Gain	209.312	CHEK1: Gain
+TCGA-AN-A0AL-01	Gain	577.295	CHEK1: Gain
+TCGA-AN-A0AR-01	Gain	1290.78	CHEK1: Gain
+TCGA-AN-A0FK-01	Gain	252.35	CHEK1: Gain
+TCGA-AN-A0FL-01	Gain	219.714	CHEK1: Gain
+TCGA-AN-A0FY-01	Gain	1089.13	CHEK1: Gain
+TCGA-AO-A12A-01	Gain	185.261	CHEK1: Gain
+TCGA-AO-A12B-01	Gain	156.042	CHEK1: Gain
+TCGA-AR-A24K-01	Gain	489.124	CHEK1: Gain
+TCGA-B6-A0IE-01	Gain	670.256	CHEK1: Gain
+TCGA-B6-A0IO-01	Gain	244.757	CHEK1: Gain
+TCGA-B6-A0RS-01	Gain	514.836	CHEK1: Gain
+TCGA-B6-A0X0-01	Gain	274.759	CHEK1: Gain
+TCGA-B6-A1KI-01	Gain	116.784	CHEK1: Gain
+TCGA-BH-A0AY-01	Gain	325.511	CHEK1: Gain
+TCGA-BH-A0B3-01	Gain	631.155	CHEK1: Gain
+TCGA-BH-A0BF-01	Gain	232.303	CHEK1: Gain
+TCGA-BH-A0BJ-01	Gain	198.332	CHEK1: Gain
+TCGA-BH-A0BT-01	Gain	181.767	CHEK1: Gain
+TCGA-BH-A0DO-01	Gain	79.9854	CHEK1: Gain
+TCGA-BH-A0DP-01	Gain	199.743	CHEK1: Gain
+TCGA-BH-A0GY-01	Gain	233.093	CHEK1: Gain
+TCGA-BH-A18T-01	Gain	1238.46	CHEK1: Gain
+TCGA-BH-A18U-01	Gain	690.82	CHEK1: Gain
+TCGA-BH-A1F0-01	Gain	336.38	CHEK1: Gain
+TCGA-BH-A202-01	Gain	682.58	CHEK1: Gain
+TCGA-BH-A203-01	Gain	509.769	CHEK1: Gain
+TCGA-BH-A208-01	Gain	157.751	CHEK1: Gain
+TCGA-BH-A209-01	Gain	998.52	CHEK1: Gain
+TCGA-C8-A12P-01	Gain	506.687	CHEK1: Gain
+TCGA-C8-A12T-01	Gain	652.903	CHEK1: Gain
+TCGA-C8-A278-01	Gain	369.464	CHEK1: Gain
+TCGA-D8-A142-01	Gain	491.368	CHEK1: Gain
+TCGA-D8-A1JF-01	Gain	190.449	CHEK1: Gain
+TCGA-D8-A1JL-01	Gain	524.843	CHEK1: Gain
+TCGA-D8-A1XJ-01	Gain	710.202	CHEK1: Gain
+TCGA-D8-A1XW-01	Gain	312.392	CHEK1: Gain
+TCGA-D8-A1XY-01	Gain	195.307	CHEK1: Gain
+TCGA-D8-A1Y3-01	Gain	1338.7	CHEK1: Gain
+TCGA-E2-A14R-01	Gain	802.476	CHEK1: Gain
+TCGA-E2-A14X-01	Gain	704.987	CHEK1: Gain
+TCGA-E2-A1AZ-01	Gain	824.456	CHEK1: Gain
+TCGA-E2-A1B0-01	Gain	568.882	CHEK1: Gain
+TCGA-E2-A1II-01	Gain	647.028	CHEK1: Gain
+TCGA-E2-A1LH-01	Gain	270.114	CHEK1: Gain
+TCGA-E2-A1LK-01	Gain	701.359	CHEK1: Gain
+TCGA-E2-A573-01	Gain	1021.03	CHEK1: Gain
+TCGA-E2-A574-01	Gain	365.32	CHEK1: Gain
+TCGA-E9-A1ND-01	Gain	312.842	CHEK1: Gain
+TCGA-E9-A1R6-01	Gain	238.626	CHEK1: Gain
+TCGA-E9-A1RB-01	Gain	990.115	CHEK1: Gain
+TCGA-E9-A244-01	Gain	1153.54	CHEK1: Gain
+TCGA-E9-A249-01	Gain	357.618	CHEK1: Gain
+TCGA-EW-A1P8-01	Gain	1008.96	CHEK1: Gain
+TCGA-EW-A6SB-01	Gain	495.614	CHEK1: Gain
+TCGA-GM-A2DB-01	Gain	325.13	CHEK1: Gain
+TCGA-GM-A2DH-01	Gain	826.336	CHEK1: Gain
+TCGA-GM-A2DL-01	Gain	668.181	CHEK1: Gain
+TCGA-LL-A5YP-01	Gain	685.353	CHEK1: Gain
+TCGA-OL-A5RV-01	Gain	115.564	CHEK1: Gain
+TCGA-OL-A5RW-01	Gain	525.866	CHEK1: Gain
+TCGA-PL-A8LZ-01	Gain	608.092	CHEK1: Gain
+TCGA-UU-A93S-01	Gain	536.179	CHEK1: Gain
+TCGA-Z7-A8R6-01	Gain	635.407	CHEK1: Gain

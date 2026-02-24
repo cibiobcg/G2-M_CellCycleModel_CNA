@@ -1,0 +1,69 @@
+[ steps = 20000 , delta = 0.5 ]
+
+// TR
+let cyclinB1_CDK1_p : bproc = #(x,cyclinB1_CDK1_p) [ nil ];
+let cyclinB1_CDK1 : bproc = #(x_p,cyclinB1_CDK1) [ nil ];
+
+// addjunction 
+when (cyclinB1_CDK1 :: r_1) new(1);
+
+//deletions 
+when (cyclinB1_CDK1_p :: r_5) delete(1);
+when (cyclinB1_CDK1 :: r_4) delete(1);
+
+// movements 
+when (cyclinB1_CDK1 :: r_3) split(cyclinB1_CDK1_p, Nil);
+when (cyclinB1_CDK1 :: r_27) split(cyclinB1_CDK1_p, Nil);
+when (cyclinB1_CDK1_p :: r_2) split(cyclinB1_CDK1, Nil);
+
+// ACTIVATOR 
+let CDC25C_p : bproc = #(y, CDC25C_p) [ nil ];
+let CDC25C : bproc = #(y_p, CDC25C) [ nil ];
+
+// addjunction 
+when (CDC25C_p :: r_16) new(1);
+
+// deletions 
+when (CDC25C :: r_15) delete(1);
+when (CDC25C_p :: r_17) delete(1);
+
+// movements 
+when (CDC25C_p :: r_13) split(CDC25C, Nil);
+when (CDC25C_p :: r_12) split(CDC25C, Nil);
+when (CDC25C :: r_14) split(CDC25C_p, Nil);
+when (CDC25C :: r_28) split(CDC25C_p, Nil);
+
+
+// INHIBITORS
+let WEE1_p : bproc = #(z, WEE1_p) [ nil ];
+let WEE1 : bproc = #(z_p, WEE1) [ nil ];
+let p_WEE1_p : bproc = #(p_z, WEE1) [ nil ];
+let p_WEE1 : bproc = #(p_z_p, WEE1_p) [ nil ];
+
+// movements 
+when (WEE1_p :: r_6) split(WEE1, Nil);
+when (WEE1 :: r_8) split(WEE1_p, Nil);
+when (WEE1 :: r_7) split(WEE1_p, Nil);
+when (WEE1_p :: r_18) split(p_WEE1_p, Nil);
+when (p_WEE1_p :: r_19) split(WEE1_p, Nil);
+when (WEE1 :: r_20) split(p_WEE1, Nil);
+when (p_WEE1 :: r_21) split(WEE1, Nil);
+when (p_WEE1_p :: r_22) split(p_WEE1, Nil);
+when (p_WEE1 :: r_25) split(p_WEE1_p, Nil);
+when (p_WEE1 :: r_26) split(p_WEE1_p, Nil);
+
+//others 
+let FOXM1_plus_CTAK1 : bproc = #(d, FOXM1_plus_CTAK1) [ nil ];
+let CEBP_beta : bproc = #(c, CEBP_beta) [ nil ];
+let FCP1 : bproc = #(f, FCP1) [ nil ];
+let C_TAK1 : bproc = #(g, C_TAK1) [ nil ];
+let CHK1 : bproc = #(h, CHK1) [ nil ];
+let Chp_i : bproc = #(j, Chp_i) [ nil ];
+let Pho : bproc = #(k, Pho) [ nil ];
+
+run 500 WEE1 || 500 FOXM1_plus_CTAK1 || 500 FCP1 || 500 C_TAK1 || 500 CHK1 || 500 Chp_i || 500 Pho  
+
+
+
+
+

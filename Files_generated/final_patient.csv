@@ -1,0 +1,984 @@
+"","Patient","Notes_situation_cp","Mean","Percentage_switch"
+"1","TCGA-3C-AAAU-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2727.894335774,100
+"2","TCGA-3C-AALI-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2821.824410234,100
+"3","TCGA-3C-AALJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Amplification",774.9893823155,100
+"4","TCGA-3C-AALK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1404.5144453959,100
+"5","TCGA-4H-AAAK-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1687.0792464926,100
+"6","TCGA-5L-AAT0-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2686.61052373465,99
+"7","TCGA-5T-A9QA-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",1363.6394546256,100
+"8","TCGA-A1-A0SB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1963.359422084,100
+"9","TCGA-A1-A0SD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1041.7191545845,100
+"10","TCGA-A1-A0SE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1394.0543652476,100
+"11","TCGA-A1-A0SF-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1259.8542707766,100
+"12","TCGA-A1-A0SG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1868.9192195521,100
+"13","TCGA-A1-A0SH-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1432.8343973841,100
+"14","TCGA-A1-A0SI-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",3511.4999071,2
+"15","TCGA-A1-A0SJ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",973.4544019608,100
+"16","TCGA-A1-A0SK-01","WEE1 Gain | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Diploid",3809.33436643299,97
+"17","TCGA-A1-A0SM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1381.2793844732,100
+"18","TCGA-A1-A0SN-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2658.114343206,100
+"19","TCGA-A1-A0SO-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1520.1093442608,100
+"20","TCGA-A1-A0SP-01","WEE1 Diploid | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1660.9193194774,100
+"21","TCGA-A1-A0SQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1400.9692086872,100
+"22","TCGA-A2-A04N-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1885.6992999621,100
+"23","TCGA-A2-A04P-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1704.1793706135,100
+"24","TCGA-A2-A04Q-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",1264.4642850525,100
+"25","TCGA-A2-A04R-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1423.3693562619,100
+"26","TCGA-A2-A04T-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1104.2943749817,100
+"27","TCGA-A2-A04U-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Amplification",559.6893062984,100
+"28","TCGA-A2-A04V-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1385.4392952106,100
+"29","TCGA-A2-A04W-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",5248.52378502623,61
+"30","TCGA-A2-A04X-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",2526.834350354,100
+"31","TCGA-A2-A04Y-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2119.8942177268,100
+"32","TCGA-A2-A0CK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1415.3192601963,100
+"33","TCGA-A2-A0CL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Amplification",667.8294007679,100
+"34","TCGA-A2-A0CM-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1462.0992482611,100
+"35","TCGA-A2-A0CP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1947.7643687966,100
+"36","TCGA-A2-A0CQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1942.0643360858,100
+"37","TCGA-A2-A0CR-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1340.574360594,100
+"38","TCGA-A2-A0CS-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",4765.03747141646,79
+"39","TCGA-A2-A0CT-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5577.51043706304,46
+"40","TCGA-A2-A0CU-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",2796.994288166,100
+"41","TCGA-A2-A0CV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1994.3243903774,100
+"42","TCGA-A2-A0CW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1098.1642612349,100
+"43","TCGA-A2-A0CX-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",976.9343429993,100
+"44","TCGA-A2-A0D0-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",5800.12438891818,44
+"45","TCGA-A2-A0D1-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1182.4543338838,100
+"46","TCGA-A2-A0D2-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Gain",1602.4494162116,100
+"47","TCGA-A2-A0D3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1928.1292713748,100
+"48","TCGA-A2-A0D4-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1190.2145072484,100
+"49","TCGA-A2-A0EM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1873.929399631,100
+"50","TCGA-A2-A0EN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2010.1093946581,100
+"51","TCGA-A2-A0EO-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",5885.49935718077,26
+"52","TCGA-A2-A0EP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Deep Deletion | CHK1 Diploid | CDK1 Diploid",2171.259264194,100
+"53","TCGA-A2-A0EQ-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",637.5793128214,100
+"54","TCGA-A2-A0ER-01","WEE1 Amplification | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",5083.1980437137,73
+"55","TCGA-A2-A0ES-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1803.3743986434,100
+"56","TCGA-A2-A0ET-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",789.8643622078,100
+"57","TCGA-A2-A0EU-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",4334.82755736354,96
+"58","TCGA-A2-A0EV-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",5705.66557279091,33
+"59","TCGA-A2-A0EW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1391.269391538,100
+"60","TCGA-A2-A0EX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2060.4043097951,100
+"61","TCGA-A2-A0EY-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",1557.7993368746,100
+"62","TCGA-A2-A0ST-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1219.4592995822,100
+"63","TCGA-A2-A0SU-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1432.3693742473,100
+"64","TCGA-A2-A0SV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",2721.87810123576,99
+"65","TCGA-A2-A0SW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4105.24675642421,95
+"66","TCGA-A2-A0SX-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",669.0342483459,100
+"67","TCGA-A2-A0SY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1441.5842807008,100
+"68","TCGA-A2-A0T0-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",5375.24975225,2
+"69","TCGA-A2-A0T1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",995.3093266762,100
+"70","TCGA-A2-A0T2-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1819.8492974645,100
+"71","TCGA-A2-A0T3-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5923.66563196667,3
+"72","TCGA-A2-A0T4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1458.3243463895,100
+"73","TCGA-A2-A0T5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1930.4493800474,100
+"74","TCGA-A2-A0T6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1935.7293665517,100
+"75","TCGA-A2-A0T7-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1662.464297131,100
+"76","TCGA-A2-A0YC-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1407.9143640787,100
+"77","TCGA-A2-A0YD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2003.679335363,100
+"78","TCGA-A2-A0YE-01","WEE1 Gain | FOXM1 Amplification | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5652.9993558,3
+"79","TCGA-A2-A0YF-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1648.004263238,100
+"80","TCGA-A2-A0YG-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4860.37435421429,84
+"81","TCGA-A2-A0YH-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",3834.15198818737,95
+"82","TCGA-A2-A0YI-01","WEE1 Amplification | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",5283.21480206615,65
+"83","TCGA-A2-A0YJ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Shallow Deletion",1833.8044204286,100
+"84","TCGA-A2-A0YK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1496.5794366988,100
+"85","TCGA-A2-A0YL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2020.8042807601,100
+"86","TCGA-A2-A0YM-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1396.0743972742,100
+"87","TCGA-A2-A0YT-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",824.0791991486,100
+"88","TCGA-A2-A1FV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1069.7494126571,100
+"89","TCGA-A2-A1FW-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5543.78318349773,44
+"90","TCGA-A2-A1FX-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5168.21359618809,42
+"91","TCGA-A2-A1FZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1983.324336051,100
+"92","TCGA-A2-A1G0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",3442.56193077219,96
+"93","TCGA-A2-A1G1-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",7552.22674708182,11
+"94","TCGA-A2-A1G4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1377.079315755,100
+"95","TCGA-A2-A1G6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2006.154380449,100
+"96","TCGA-A2-A259-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2702.954437282,100
+"97","TCGA-A2-A25A-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1962.3594192624,100
+"98","TCGA-A2-A25B-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3663.23135961649,97
+"99","TCGA-A2-A25C-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",3680.99935513818,99
+"100","TCGA-A2-A25D-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",5009.29268491067,75
+"101","TCGA-A2-A25E-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1035.7493103114,100
+"102","TCGA-A2-A25F-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1900.534438729,100
+"103","TCGA-A2-A3KD-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",5378.11544261464,69
+"104","TCGA-A2-A3XT-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Shallow Deletion",1363.2843554441,100
+"105","TCGA-A2-A3XU-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1441.6343452816,100
+"106","TCGA-A2-A3XV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1926.5392067993,100
+"107","TCGA-A2-A3XW-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1080.3693226276,100
+"108","TCGA-A2-A3XX-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",842.5643290492,100
+"109","TCGA-A2-A3XZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1952.2392791534,100
+"110","TCGA-A2-A3Y0-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",815.0343207773,100
+"111","TCGA-A2-A4S1-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",3444.99421761837,98
+"112","TCGA-A2-A4S2-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1449.779352545,100
+"113","TCGA-A2-A4S3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1089.504366027,100
+"114","TCGA-A7-A0CD-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Diploid",5851.699363885,40
+"115","TCGA-A7-A0CE-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",819.7094009002,100
+"116","TCGA-A7-A0CG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2063.2742773854,100
+"117","TCGA-A7-A0CH-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2070.424285584,100
+"118","TCGA-A7-A0CJ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Deep Deletion",1607.0193889652,100
+"119","TCGA-A7-A0D9-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1997.4293921369,100
+"120","TCGA-A7-A0DA-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1200.9442625483,100
+"121","TCGA-A7-A0DB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4144.89824107079,89
+"122","TCGA-A7-A13D-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",661.2543911283,100
+"123","TCGA-A7-A13E-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",665.3493701537,100
+"124","TCGA-A7-A13F-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1092.394360697,100
+"125","TCGA-A7-A13G-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2024.4543184285,100
+"126","TCGA-A7-A26E-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1448.7843160742,100
+"127","TCGA-A7-A26F-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1193.9942297834,100
+"128","TCGA-A7-A26G-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Gain",1879.4644732462,100
+"129","TCGA-A7-A26H-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1981.154458394,100
+"130","TCGA-A7-A26I-01","WEE1 Deep Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",619.6292112814,100
+"131","TCGA-A7-A26J-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2387.369304454,100
+"132","TCGA-A7-A2KD-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",856.729342154,100
+"133","TCGA-A7-A3RF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1931.9193309538,100
+"134","TCGA-A7-A425-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4477.56313810213,94
+"135","TCGA-A7-A4SD-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",654.1993752091,100
+"136","TCGA-A7-A4SE-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Deep Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1134.9292207416,100
+"137","TCGA-A7-A56D-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2309.559402104,100
+"138","TCGA-A7-A5ZV-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",800.2842632756,100
+"139","TCGA-A7-A5ZW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1969.639346582,100
+"140","TCGA-A7-A5ZX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2031.8294651117,100
+"141","TCGA-A7-A6VW-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",832.5142988214,100
+"142","TCGA-A7-A6VX-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",655.2492945952,100
+"143","TCGA-A7-A6VY-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",808.9193026332,100
+"144","TCGA-A8-A06N-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5330.25442596667,51
+"145","TCGA-A8-A06O-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",647.2992980853,100
+"146","TCGA-A8-A06P-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2002.079229725,100
+"147","TCGA-A8-A06Q-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Amplification | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4864.39927004,5
+"148","TCGA-A8-A06R-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Amplification | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",3954.74878135,2
+"149","TCGA-A8-A06T-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1703.6493351252,100
+"150","TCGA-A8-A06U-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2687.0193832694,100
+"151","TCGA-A8-A06X-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",994.0643613905,100
+"152","TCGA-A8-A06Y-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2086.9044769078,100
+"153","TCGA-A8-A06Z-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",801.2843915252,100
+"154","TCGA-A8-A075-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Gain",5945.56831967586,29
+"155","TCGA-A8-A076-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",5375.27427964,20
+"156","TCGA-A8-A079-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",4652.36055478556,90
+"157","TCGA-A8-A07B-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1400.6744114236,100
+"158","TCGA-A8-A07E-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",1018.1143600539,100
+"159","TCGA-A8-A07F-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",4457.82232610104,96
+"160","TCGA-A8-A07G-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",2063.4343575186,100
+"161","TCGA-A8-A07I-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1434.6093705758,100
+"162","TCGA-A8-A07J-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1940.9343312166,100
+"163","TCGA-A8-A07L-01","WEE1 Diploid | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",993.5993767355,100
+"164","TCGA-A8-A07O-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1326.6894052524,100
+"165","TCGA-A8-A07P-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1453.3543816566,100
+"166","TCGA-A8-A07U-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1862.3844168152,100
+"167","TCGA-A8-A07W-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1486.9093497068,100
+"168","TCGA-A8-A07Z-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1256.7144035451,100
+"169","TCGA-A8-A081-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1105.4243373847,100
+"170","TCGA-A8-A082-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2320.559322206,100
+"171","TCGA-A8-A083-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1999.4693133692,100
+"172","TCGA-A8-A085-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1149.9393247403,100
+"173","TCGA-A8-A086-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",2253.244307628,100
+"174","TCGA-A8-A08A-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1018.3843194127,100
+"175","TCGA-A8-A08B-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Gain",5688.42033330526,19
+"176","TCGA-A8-A08G-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",806.7293220565,100
+"177","TCGA-A8-A08H-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Deep Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1061.0043414897,100
+"178","TCGA-A8-A08I-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Amplification | CHK1 Shallow Deletion | CDK1 Gain",1232.2944187668,100
+"179","TCGA-A8-A08J-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1090.0842693457,100
+"180","TCGA-A8-A08L-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1768.2842904223,100
+"181","TCGA-A8-A08O-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1099.7394090167,100
+"182","TCGA-A8-A08P-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",671.2142495893,100
+"183","TCGA-A8-A08R-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1417.9993616927,100
+"184","TCGA-A8-A08T-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1843.6644490997,100
+"185","TCGA-A8-A08X-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1673.4843959345,100
+"186","TCGA-A8-A08Z-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2745.6343108996,100
+"187","TCGA-A8-A090-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1397.979363797,100
+"188","TCGA-A8-A091-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",5095.37751687308,78
+"189","TCGA-A8-A092-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",1867.3943327514,100
+"190","TCGA-A8-A093-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2358.8444541231,100
+"191","TCGA-A8-A094-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",957.404301912,100
+"192","TCGA-A8-A095-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4207.60365587253,91
+"193","TCGA-A8-A096-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1913.0243034119,100
+"194","TCGA-A8-A097-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4031.52565669789,95
+"195","TCGA-A8-A099-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1404.3592977544,100
+"196","TCGA-A8-A09A-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",663.709231649,100
+"197","TCGA-A8-A09B-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1469.9293445496,100
+"198","TCGA-A8-A09C-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1258.6343033094,100
+"199","TCGA-A8-A09D-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1076.1693534113,100
+"200","TCGA-A8-A09G-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2035.1993276747,100
+"201","TCGA-A8-A09I-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1749.1493426826,100
+"202","TCGA-A8-A09M-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1481.1144016177,100
+"203","TCGA-A8-A09N-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1368.2043860346,100
+"204","TCGA-A8-A09Q-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Gain",5082.51407352647,68
+"205","TCGA-A8-A09R-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1579.2393151537,100
+"206","TCGA-A8-A09T-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1004.5343457775,100
+"207","TCGA-A8-A09V-01","WEE1 Deep Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",857.7992697072,100
+"208","TCGA-A8-A09W-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1953.1694258455,100
+"209","TCGA-A8-A09X-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",995.8292690623,100
+"210","TCGA-A8-A09Z-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2119.26446385,100
+"211","TCGA-A8-A0A1-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Deep Deletion | CDK1 Diploid",1507.3594138461,100
+"212","TCGA-A8-A0A2-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1314.7743726421,100
+"213","TCGA-A8-A0A4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1400.2093238209,100
+"214","TCGA-A8-A0A6-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3226.26748002155,97
+"215","TCGA-A8-A0A7-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",5333.16621088611,36
+"216","TCGA-A8-A0A9-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",2137.919456222,100
+"217","TCGA-A8-A0AB-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1067.1543317973,100
+"218","TCGA-A8-A0AD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",4873.37434204,80
+"219","TCGA-AC-A23C-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3189.9693890784,100
+"220","TCGA-AC-A23E-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",950.4743910574,100
+"221","TCGA-AC-A2B8-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1446.5293885381,100
+"222","TCGA-AC-A2BK-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",825.1793729095,100
+"223","TCGA-AC-A2BM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1070.8741708549,100
+"224","TCGA-AC-A2FB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1437.0393112079,100
+"225","TCGA-AC-A2FF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2021.9693896326,100
+"226","TCGA-AC-A2FG-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",983.0492330915,100
+"227","TCGA-AC-A2FK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1895.2144094975,100
+"228","TCGA-AC-A2FO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1390.794301771,100
+"229","TCGA-AC-A2QH-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1069.4543410055,100
+"230","TCGA-AC-A3HN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1377.5893083141,100
+"231","TCGA-AC-A3OD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1393.2393066305,100
+"232","TCGA-AC-A3QP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1995.984372324,100
+"233","TCGA-AC-A3QQ-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2264.264415136,100
+"234","TCGA-AC-A3W5-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1314.9992056132,100
+"235","TCGA-AC-A3YI-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1951.729346472,100
+"236","TCGA-AC-A3YJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1962.0342856414,100
+"237","TCGA-AC-A4ZE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1401.4742250683,100
+"238","TCGA-AC-A5EH-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1237.4943270653,100
+"239","TCGA-AC-A5XS-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2578.569398526,100
+"240","TCGA-AC-A5XU-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1395.9643431118,100
+"241","TCGA-AC-A62V-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1470.4593573185,100
+"242","TCGA-AC-A62X-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",961.2992863762,100
+"243","TCGA-AC-A6IV-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1692.4593385486,100
+"244","TCGA-AC-A6IW-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1530.1543007599,100
+"245","TCGA-AC-A6IX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1454.8794507286,100
+"246","TCGA-AC-A6NO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1956.4643944683,100
+"247","TCGA-AC-A7VB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4382.936271778,95
+"248","TCGA-AC-A7VC-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1151.0391967298,100
+"249","TCGA-AC-A8OP-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1516.209413311,100
+"250","TCGA-AC-A8OQ-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",1582.7793666182,100
+"251","TCGA-AC-A8OR-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1932.834325815,100
+"252","TCGA-AC-A8OS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2083.7192678378,100
+"253","TCGA-AN-A03X-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1458.7942797648,100
+"254","TCGA-AN-A03Y-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1345.3493002522,100
+"255","TCGA-AN-A041-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",988.9544188137,100
+"256","TCGA-AN-A046-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1871.6294271441,100
+"257","TCGA-AN-A049-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1394.1243210107,100
+"258","TCGA-AN-A04A-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1698.8143502674,100
+"259","TCGA-AN-A04C-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",646.6692426701,100
+"260","TCGA-AN-A04D-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1361.0942946099,100
+"261","TCGA-AN-A0AJ-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5100.8589459,57
+"262","TCGA-AN-A0AK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1635.0543090514,100
+"263","TCGA-AN-A0AL-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1687.844341486,100
+"264","TCGA-AN-A0AM-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1258.089320538,100
+"265","TCGA-AN-A0AR-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Amplification",831.6093895015,100
+"266","TCGA-AN-A0AS-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Amplification | FCP1 Gain | CHK1 Diploid | CDK1 Gain",5907.28524300476,21
+"267","TCGA-AN-A0AT-01","WEE1 Amplification | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",6083.249697025,4
+"268","TCGA-AN-A0FD-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2600.5093392588,100
+"269","TCGA-AN-A0FF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2000.8892857687,100
+"270","TCGA-AN-A0FJ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1044.9944102437,100
+"271","TCGA-AN-A0FK-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",5349.37869092069,29
+"272","TCGA-AN-A0FL-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",8163.83235656667,3
+"273","TCGA-AN-A0FN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1935.2843961206,100
+"274","TCGA-AN-A0FS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1399.3092988051,100
+"275","TCGA-AN-A0FT-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1252.234324085,100
+"276","TCGA-AN-A0FV-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Amplification",885.4342734834,100
+"277","TCGA-AN-A0FW-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2294.364332215,100
+"278","TCGA-AN-A0FX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1342.8443037776,100
+"279","TCGA-AN-A0FY-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Diploid",4145.64526252917,96
+"280","TCGA-AN-A0FZ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Amplification",650.4343613073,100
+"281","TCGA-AN-A0XL-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2532.4743370625,100
+"282","TCGA-AN-A0XN-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",817.2744097112,100
+"283","TCGA-AN-A0XO-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",3358.27729398081,99
+"284","TCGA-AN-A0XP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4616.41488849718,71
+"285","TCGA-AN-A0XR-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1932.079357039,100
+"286","TCGA-AN-A0XS-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1488.6443592613,100
+"287","TCGA-AN-A0XT-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",997.3393046255,100
+"288","TCGA-AN-A0XU-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4250.96339184124,97
+"289","TCGA-AN-A0XV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1893.9094288536,100
+"290","TCGA-AN-A0XW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1364.0993556012,100
+"291","TCGA-AO-A03L-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",6470.224241595,20
+"292","TCGA-AO-A03O-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",1291.1194502326,100
+"293","TCGA-AO-A03P-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",656.214443692,100
+"294","TCGA-AO-A03R-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2066.7042506462,100
+"295","TCGA-AO-A03T-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",865.9293277752,100
+"296","TCGA-AO-A03V-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5487.36197986452,62
+"297","TCGA-AO-A0J2-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",910.2143858402,100
+"298","TCGA-AO-A0J3-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5368.96364546071,56
+"299","TCGA-AO-A0J4-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",816.2243313882,100
+"300","TCGA-AO-A0J5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1464.734409534,100
+"301","TCGA-AO-A0J6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1064.4543046377,100
+"302","TCGA-AO-A0J7-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1353.8593222104,100
+"303","TCGA-AO-A0J8-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1962.1194110815,100
+"304","TCGA-AO-A0J9-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",764.9894036558,100
+"305","TCGA-AO-A0JA-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1428.6093849704,100
+"306","TCGA-AO-A0JB-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1232.0494490034,100
+"307","TCGA-AO-A0JC-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2031.0343429495,100
+"308","TCGA-AO-A0JD-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Amplification | FCP1 Deep Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4449.09556187692,78
+"309","TCGA-AO-A0JE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2258.709403699,100
+"310","TCGA-AO-A0JF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1975.7194193793,100
+"311","TCGA-AO-A0JG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1318.3092969073,100
+"312","TCGA-AO-A0JI-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1884.6243030883,100
+"313","TCGA-AO-A0JJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2045.4544211599,100
+"314","TCGA-AO-A0JM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2548.794358906,100
+"315","TCGA-AO-A124-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2197.6943339705,100
+"316","TCGA-AO-A125-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1991.2244349327,100
+"317","TCGA-AO-A126-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4361.01007856237,93
+"318","TCGA-AO-A128-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1200.7792491999,100
+"319","TCGA-AO-A129-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1084.0244163102,100
+"320","TCGA-AO-A12A-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Gain",3216.069346687,100
+"321","TCGA-AO-A12B-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",5772.97558635238,21
+"322","TCGA-AO-A12D-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",3218.1421931051,98
+"323","TCGA-AO-A12E-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1092.5444084196,100
+"324","TCGA-AO-A12F-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",660.3742532753,100
+"325","TCGA-AO-A12G-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",983.8595295474,100
+"326","TCGA-AO-A12H-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2109.0943512018,100
+"327","TCGA-AO-A1KO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1949.9394481003,100
+"328","TCGA-AO-A1KP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1991.329412445,100
+"329","TCGA-AO-A1KR-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",752.9543688342,100
+"330","TCGA-AO-A1KS-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",923.4044010468,100
+"331","TCGA-AO-A1KT-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",2745.184313911,100
+"332","TCGA-AQ-A04J-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1147.7293466558,100
+"333","TCGA-AQ-A0Y5-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1329.0543817418,100
+"334","TCGA-AQ-A1H2-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1015.2643819426,100
+"335","TCGA-AQ-A1H3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1977.659453425,100
+"336","TCGA-AQ-A54O-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1969.7542568775,100
+"337","TCGA-AQ-A7U7-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",4657.48028402658,79
+"338","TCGA-AR-A0TP-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1194.5942569474,100
+"339","TCGA-AR-A0TQ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1929.3394061691,100
+"340","TCGA-AR-A0TR-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",3041.604391398,100
+"341","TCGA-AR-A0TS-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",5061.71174608125,80
+"342","TCGA-AR-A0TT-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",670.8693957721,100
+"343","TCGA-AR-A0TV-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",806.4943687262,100
+"344","TCGA-AR-A0TW-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5137.77715755397,63
+"345","TCGA-AR-A0TX-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1255.7294382817,100
+"346","TCGA-AR-A0TY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1987.8043559039,100
+"347","TCGA-AR-A0TZ-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1685.5342545372,100
+"348","TCGA-AR-A0U0-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",854.5243406181,100
+"349","TCGA-AR-A0U2-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Amplification | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3559.69136427071,99
+"350","TCGA-AR-A0U3-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1361.0042824676,100
+"351","TCGA-AR-A0U4-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1090.9442765907,100
+"352","TCGA-AR-A1AH-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1342.2242705257,100
+"353","TCGA-AR-A1AI-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",864.6443026362,100
+"354","TCGA-AR-A1AJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Gain",976.6292440002,100
+"355","TCGA-AR-A1AK-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1350.219394201,100
+"356","TCGA-AR-A1AL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1393.0543874284,100
+"357","TCGA-AR-A1AN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1878.4444092295,100
+"358","TCGA-AR-A1AO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1946.829391162,100
+"359","TCGA-AR-A1AP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1086.6044600192,100
+"360","TCGA-AR-A1AQ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Shallow Deletion",2414.744340642,100
+"361","TCGA-AR-A1AR-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2777.8393509301,100
+"362","TCGA-AR-A1AS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2031.094340096,100
+"363","TCGA-AR-A1AU-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1443.04445528,100
+"364","TCGA-AR-A1AV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1475.7143173698,100
+"365","TCGA-AR-A1AW-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",654.3343990198,100
+"366","TCGA-AR-A1AX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1339.2393824028,100
+"367","TCGA-AR-A1AY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2475.844296976,100
+"368","TCGA-AR-A24H-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1089.6893531598,100
+"369","TCGA-AR-A24K-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Gain | CHK1 Gain | CDK1 Gain",4607.17816651429,14
+"370","TCGA-AR-A24L-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1033.5294378294,100
+"371","TCGA-AR-A24M-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Deep Deletion | CHK1 Diploid | CDK1 Diploid",4695.78417018101,79
+"372","TCGA-AR-A24N-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2187.514366399,100
+"373","TCGA-AR-A24O-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2032.3742894922,100
+"374","TCGA-AR-A24P-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1945.384298503,100
+"375","TCGA-AR-A24Q-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",801.5943059716,100
+"376","TCGA-AR-A24R-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",7690.12470215,4
+"377","TCGA-AR-A24S-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",929.3843937328,100
+"378","TCGA-AR-A24T-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",998.8593163743,100
+"379","TCGA-AR-A24U-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2579.2943976215,100
+"380","TCGA-AR-A24V-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1191.8541626214,100
+"381","TCGA-AR-A24W-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4806.70311685556,81
+"382","TCGA-AR-A24X-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2097.409358921,100
+"383","TCGA-AR-A24Z-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",984.9343975909,100
+"384","TCGA-AR-A250-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3327.804317748,100
+"385","TCGA-AR-A251-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1062.8793148547,100
+"386","TCGA-AR-A252-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2589.349323295,100
+"387","TCGA-AR-A254-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Amplification",1060.499481996,100
+"388","TCGA-AR-A255-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1062.124307882,100
+"389","TCGA-AR-A256-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1188.2993648145,100
+"390","TCGA-AR-A2LE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1863.829413537,100
+"391","TCGA-AR-A2LH-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1835.554204155,100
+"392","TCGA-AR-A2LK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5527.39939735091,55
+"393","TCGA-AR-A2LM-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1728.554352351,100
+"394","TCGA-AR-A2LN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2081.799313814,100
+"395","TCGA-AR-A2LO-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1446.2793496784,100
+"396","TCGA-AR-A2LQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1978.63444832,100
+"397","TCGA-AR-A5QM-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",3957.4056505875,96
+"398","TCGA-AR-A5QN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2040.2194047828,100
+"399","TCGA-AR-A5QP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1924.1793095834,100
+"400","TCGA-AR-A5QQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4660.8506437,74
+"401","TCGA-B6-A0I1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1907.8444477286,100
+"402","TCGA-B6-A0I2-01","WEE1 Deep Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",855.8893221848,100
+"403","TCGA-B6-A0I5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4278.62581038901,91
+"404","TCGA-B6-A0I9-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1329.9293773136,100
+"405","TCGA-B6-A0IA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1951.384439966,100
+"406","TCGA-B6-A0IB-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",2061.1642980348,100
+"407","TCGA-B6-A0IC-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1904.304298188,100
+"408","TCGA-B6-A0IE-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Gain",874.1342831563,100
+"409","TCGA-B6-A0IG-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1786.1692422174,100
+"410","TCGA-B6-A0IH-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1382.794287739,100
+"411","TCGA-B6-A0IJ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Amplification",540.3143064822,100
+"412","TCGA-B6-A0IK-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1784.8143335437,100
+"413","TCGA-B6-A0IM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1411.8443621054,100
+"414","TCGA-B6-A0IN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1863.5444008512,100
+"415","TCGA-B6-A0IO-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Gain",911.0242166749,100
+"416","TCGA-B6-A0IP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1908.759386161,100
+"417","TCGA-B6-A0IQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Amplification",764.8392800346,100
+"418","TCGA-B6-A0RE-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",5359.34295459583,48
+"419","TCGA-B6-A0RG-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1031.2743030591,100
+"420","TCGA-B6-A0RH-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2723.064328392,100
+"421","TCGA-B6-A0RI-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2626.9393355199,100
+"422","TCGA-B6-A0RL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1718.2293259959,100
+"423","TCGA-B6-A0RM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2052.734488742,100
+"424","TCGA-B6-A0RN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1958.1342922754,100
+"425","TCGA-B6-A0RO-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1640.2993722732,100
+"426","TCGA-B6-A0RP-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2789.17107050848,99
+"427","TCGA-B6-A0RQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1945.389406009,100
+"428","TCGA-B6-A0RS-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Amplification",743.9844417012,100
+"429","TCGA-B6-A0RT-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1895.8843374382,100
+"430","TCGA-B6-A0RU-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",6451.74925865,22
+"431","TCGA-B6-A0RV-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1840.3042342806,100
+"432","TCGA-B6-A0WS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1016.8443661392,100
+"433","TCGA-B6-A0WT-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1418.384282568,100
+"434","TCGA-B6-A0WV-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1068.564408269,100
+"435","TCGA-B6-A0WW-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",820.1742311443,100
+"436","TCGA-B6-A0WX-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",805.2892202644,100
+"437","TCGA-B6-A0WY-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1100.949402401,100
+"438","TCGA-B6-A0WZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4268.59383441667,90
+"439","TCGA-B6-A0X0-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",5665.97620562727,22
+"440","TCGA-B6-A0X1-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",981.6543984052,100
+"441","TCGA-B6-A0X4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1997.749327063,100
+"442","TCGA-B6-A0X5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2008.3793658771,100
+"443","TCGA-B6-A0X7-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1455.0742277572,100
+"444","TCGA-B6-A1KF-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",877.2342407373,100
+"445","TCGA-B6-A1KI-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",6949.56182645,8
+"446","TCGA-B6-A1KN-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3374.759256386,100
+"447","TCGA-B6-A2IU-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2074.8343416997,100
+"448","TCGA-B6-A401-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",4475.82911993404,94
+"449","TCGA-B6-A409-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Amplification",657.3691835882,100
+"450","TCGA-B6-A40B-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1376.639383014,100
+"451","TCGA-B6-A40C-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2021.4193093056,100
+"452","TCGA-BH-A0AU-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3096.39830597576,99
+"453","TCGA-BH-A0AV-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1120.4344101852,100
+"454","TCGA-BH-A0AW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1346.934271736,100
+"455","TCGA-BH-A0AY-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Gain",1081.3693451187,100
+"456","TCGA-BH-A0AZ-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1757.5244055745,100
+"457","TCGA-BH-A0B0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1936.014328596,100
+"458","TCGA-BH-A0B3-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Deep Deletion | CHK1 Gain | CDK1 Shallow Deletion",6444.59924686,5
+"459","TCGA-BH-A0B4-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1229.4543022296,100
+"460","TCGA-BH-A0B5-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",815.9692572869,100
+"461","TCGA-BH-A0B7-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1471.9993476605,100
+"462","TCGA-BH-A0B9-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1398.4894075359,100
+"463","TCGA-BH-A0BA-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2372.2193452699,100
+"464","TCGA-BH-A0BC-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1012.1792695245,100
+"465","TCGA-BH-A0BD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1492.0393465257,100
+"466","TCGA-BH-A0BF-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",1190.7994953495,100
+"467","TCGA-BH-A0BG-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1486.2143205651,100
+"468","TCGA-BH-A0BJ-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Shallow Deletion",6228.41615,6
+"469","TCGA-BH-A0BL-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Deep Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",554.0591986591,100
+"470","TCGA-BH-A0BM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1833.9043770663,100
+"471","TCGA-BH-A0BO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1968.2342071459,100
+"472","TCGA-BH-A0BP-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1174.5293071909,100
+"473","TCGA-BH-A0BQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2045.8242857253,100
+"474","TCGA-BH-A0BR-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1383.6792657579,100
+"475","TCGA-BH-A0BS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1905.3343334774,100
+"476","TCGA-BH-A0BV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2861.109231536,100
+"477","TCGA-BH-A0BW-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1591.1293870054,100
+"478","TCGA-BH-A0BZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1690.534292997,100
+"479","TCGA-BH-A0C0-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",870.439220039,100
+"480","TCGA-BH-A0C3-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",978.3843781852,100
+"481","TCGA-BH-A0DD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1331.019448653,100
+"482","TCGA-BH-A0DE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1090.5093695169,100
+"483","TCGA-BH-A0DG-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",3487.3156265102,98
+"484","TCGA-BH-A0DH-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2964.1594057654,100
+"485","TCGA-BH-A0DI-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Amplification | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2038.5344837148,100
+"486","TCGA-BH-A0DK-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1085.9944037418,100
+"487","TCGA-BH-A0DL-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1643.4894480429,100
+"488","TCGA-BH-A0DP-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Diploid",6235.96609291333,30
+"489","TCGA-BH-A0DQ-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1846.7393017058,100
+"490","TCGA-BH-A0DS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1762.8393369475,100
+"491","TCGA-BH-A0DT-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1240.7493827008,100
+"492","TCGA-BH-A0DV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1992.2894272624,100
+"493","TCGA-BH-A0DX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1929.4644035823,100
+"494","TCGA-BH-A0DZ-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1218.1993398316,100
+"495","TCGA-BH-A0E0-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1042.7593454275,100
+"496","TCGA-BH-A0E1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1897.854364619,100
+"497","TCGA-BH-A0E2-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2410.8942820118,100
+"498","TCGA-BH-A0E6-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1030.3693074771,100
+"499","TCGA-BH-A0E7-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1295.3893298964,100
+"500","TCGA-BH-A0EA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1241.1144021673,100
+"501","TCGA-BH-A0EB-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Shallow Deletion",4630.53643042593,81
+"502","TCGA-BH-A0EE-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",1067.5093154356,100
+"503","TCGA-BH-A0EI-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2471.319345742,100
+"504","TCGA-BH-A0GY-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",5536.599324155,20
+"505","TCGA-BH-A0GZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1837.8541687256,100
+"506","TCGA-BH-A0H0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1405.4094210966,100
+"507","TCGA-BH-A0H3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2072.0795472075,100
+"508","TCGA-BH-A0H5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1997.0294251218,100
+"509","TCGA-BH-A0H6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1814.0593684182,100
+"510","TCGA-BH-A0H7-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1158.9242208823,100
+"511","TCGA-BH-A0H9-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4693.16128708676,68
+"512","TCGA-BH-A0HA-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1463.1543419999,100
+"513","TCGA-BH-A0HB-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1512.109269983,100
+"514","TCGA-BH-A0HI-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",4869.87592272584,89
+"515","TCGA-BH-A0HK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1372.7293032472,100
+"516","TCGA-BH-A0HO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1968.5694157083,100
+"517","TCGA-BH-A0HP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",1034.4043226222,100
+"518","TCGA-BH-A0HQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1966.8093371666,100
+"519","TCGA-BH-A0HU-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4163.03944470299,87
+"520","TCGA-BH-A0HW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2507.434484259,100
+"521","TCGA-BH-A0HX-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",815.3993146433,100
+"522","TCGA-BH-A0HY-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Amplification | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",1224.5694148598,100
+"523","TCGA-BH-A0RX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",963.8794407193,100
+"524","TCGA-BH-A0W3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1435.5793718145,100
+"525","TCGA-BH-A0W4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2068.5443909683,100
+"526","TCGA-BH-A0W5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1987.8744628838,100
+"527","TCGA-BH-A0W7-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4165.65707006413,92
+"528","TCGA-BH-A0WA-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1910.2393037697,100
+"529","TCGA-BH-A18F-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1419.7693594888,100
+"530","TCGA-BH-A18G-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1991.694266922,100
+"531","TCGA-BH-A18H-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",909.4543261897,100
+"532","TCGA-BH-A18I-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2568.30746615657,99
+"533","TCGA-BH-A18J-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1064.7143690886,100
+"534","TCGA-BH-A18K-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",4309.45620528925,93
+"535","TCGA-BH-A18L-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",907.1193537129,100
+"536","TCGA-BH-A18M-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Deep Deletion | CDK1 Diploid",1651.2243700818,100
+"537","TCGA-BH-A18N-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1839.639307245,100
+"538","TCGA-BH-A18P-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1454.3943481195,100
+"539","TCGA-BH-A18Q-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",996.5892849517,100
+"540","TCGA-BH-A18R-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1406.9093271412,100
+"541","TCGA-BH-A18S-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2050.8843134212,100
+"542","TCGA-BH-A18T-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Shallow Deletion",1832.9043514105,100
+"543","TCGA-BH-A18U-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Deep Deletion | CHK1 Gain | CDK1 Shallow Deletion",2213.0792880746,100
+"544","TCGA-BH-A18V-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",935.7943644348,100
+"545","TCGA-BH-A1EN-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1141.9892424786,100
+"546","TCGA-BH-A1EO-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5275.0743749675,40
+"547","TCGA-BH-A1ET-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1948.554378822,100
+"548","TCGA-BH-A1EU-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2520.364234769,100
+"549","TCGA-BH-A1EV-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",2723.219338409,100
+"550","TCGA-BH-A1EW-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1075.724282263,100
+"551","TCGA-BH-A1EX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1872.1994332791,100
+"552","TCGA-BH-A1EY-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1146.9643740492,100
+"553","TCGA-BH-A1F0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",3609.53089200105,95
+"554","TCGA-BH-A1F2-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2585.0894516303,100
+"555","TCGA-BH-A1F5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2077.449369578,100
+"556","TCGA-BH-A1F6-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Amplification",1007.9743408556,100
+"557","TCGA-BH-A1F8-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1118.4093401154,100
+"558","TCGA-BH-A1FC-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1475.3492884538,100
+"559","TCGA-BH-A1FD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1045.3894621927,100
+"560","TCGA-BH-A1FE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1086.3143190951,100
+"561","TCGA-BH-A1FG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2134.0793440391,100
+"562","TCGA-BH-A1FH-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",1946.8292272268,100
+"563","TCGA-BH-A1FJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1951.7792652905,100
+"564","TCGA-BH-A1FL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1988.6793951152,100
+"565","TCGA-BH-A1FN-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Deep Deletion | CDK1 Shallow Deletion",1751.8893402406,100
+"566","TCGA-BH-A1FR-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1922.964414442,100
+"567","TCGA-BH-A1FU-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",5126.77273400156,64
+"568","TCGA-BH-A201-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1484.3342994214,100
+"569","TCGA-BH-A202-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Shallow Deletion",4993.86301940909,11
+"570","TCGA-BH-A203-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Deep Deletion | CHK1 Gain | CDK1 Diploid",1658.5443473354,100
+"571","TCGA-BH-A204-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1085.8193162489,100
+"572","TCGA-BH-A209-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",6289.811689175,24
+"573","TCGA-BH-A28Q-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1411.7843901062,100
+"574","TCGA-BH-A2L8-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1938.224362693,100
+"575","TCGA-BH-A42U-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1840.1793314357,100
+"576","TCGA-BH-A42V-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1916.254400912,100
+"577","TCGA-BH-A5IZ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1039.4093074728,100
+"578","TCGA-BH-A5J0-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1246.2743423306,100
+"579","TCGA-BH-A6R8-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1848.3693082157,100
+"580","TCGA-BH-A6R9-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",4182.77240875979,97
+"581","TCGA-BH-A8FY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1379.334411726,100
+"582","TCGA-BH-A8FZ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1988.6742783631,100
+"583","TCGA-BH-A8G0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1926.0794640075,100
+"584","TCGA-BH-AB28-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1401.2243079756,100
+"585","TCGA-C8-A12K-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1078.389401465,100
+"586","TCGA-C8-A12L-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Diploid | CDK1 Gain",1097.3092923884,100
+"587","TCGA-C8-A12M-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1097.1343265858,100
+"588","TCGA-C8-A12N-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2027.3093062406,100
+"589","TCGA-C8-A12O-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",3732.06505137172,99
+"590","TCGA-C8-A12P-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Gain",1418.2493624772,100
+"591","TCGA-C8-A12Q-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1335.8293321353,100
+"592","TCGA-C8-A12T-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Gain",1649.6392723875,100
+"593","TCGA-C8-A12U-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5107.84254244902,51
+"594","TCGA-C8-A12V-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1963.7594065557,100
+"595","TCGA-C8-A12W-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1114.6491747711,100
+"596","TCGA-C8-A12X-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1353.6893870426,100
+"597","TCGA-C8-A12Y-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1356.169258829,100
+"598","TCGA-C8-A12Z-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2040.3092944401,100
+"599","TCGA-C8-A130-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Deep Deletion | CDK1 Gain",812.0644278127,100
+"600","TCGA-C8-A131-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2788.239428046,100
+"601","TCGA-C8-A132-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1091.8442479914,100
+"602","TCGA-C8-A133-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1999.254431521,100
+"603","TCGA-C8-A134-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1190.3493554999,100
+"604","TCGA-C8-A135-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1013.7393977073,100
+"605","TCGA-C8-A137-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1408.7993664831,100
+"606","TCGA-C8-A138-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",982.0343718733,100
+"607","TCGA-C8-A1HE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1492.1393760336,100
+"608","TCGA-C8-A1HF-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1360.079395114,100
+"609","TCGA-C8-A1HG-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",804.0393083377,100
+"610","TCGA-C8-A1HI-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",6836.49914589231,13
+"611","TCGA-C8-A1HJ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2335.8143378926,100
+"612","TCGA-C8-A1HK-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",661.8493395179,100
+"613","TCGA-C8-A1HL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1475.7843910304,100
+"614","TCGA-C8-A1HM-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Amplification",806.939425993,100
+"615","TCGA-C8-A1HN-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Shallow Deletion",1359.0243173515,100
+"616","TCGA-C8-A1HO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1460.4943793556,100
+"617","TCGA-C8-A26V-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",4847.48213339425,87
+"618","TCGA-C8-A26W-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1357.2443887951,100
+"619","TCGA-C8-A26X-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2527.1992929943,100
+"620","TCGA-C8-A26Y-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1758.1591981971,100
+"621","TCGA-C8-A26Z-01","WEE1 Amplification | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",5416.9376710726,73
+"622","TCGA-C8-A273-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1973.484311641,100
+"623","TCGA-C8-A274-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",1547.2843023696,100
+"624","TCGA-C8-A275-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2225.909314701,100
+"625","TCGA-C8-A278-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1320.3043319338,100
+"626","TCGA-C8-A27B-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",856.3342940061,100
+"627","TCGA-C8-A3M7-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2080.6592925233,100
+"628","TCGA-C8-A3M8-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1365.359372965,100
+"629","TCGA-C8-A8HP-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1603.7244160979,100
+"630","TCGA-C8-A8HQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1400.84931487,100
+"631","TCGA-C8-A8HR-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4137.04389330778,90
+"632","TCGA-D8-A13Y-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1007.2443341184,100
+"633","TCGA-D8-A13Z-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",667.6643456905,100
+"634","TCGA-D8-A140-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2203.1793937773,100
+"635","TCGA-D8-A141-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4195.58532725269,93
+"636","TCGA-D8-A142-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",2522.609307059,100
+"637","TCGA-D8-A143-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1691.9494036063,100
+"638","TCGA-D8-A145-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1030.4043814345,100
+"639","TCGA-D8-A147-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Deep Deletion | FCP1 Diploid | CHK1 Deep Deletion | CDK1 Amplification",595.4641915771,100
+"640","TCGA-D8-A1J8-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2330.659364185,100
+"641","TCGA-D8-A1J9-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Deep Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1516.8192653031,100
+"642","TCGA-D8-A1JA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2169.029260924,100
+"643","TCGA-D8-A1JB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Gain",1213.1943565823,100
+"644","TCGA-D8-A1JC-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",807.9193174452,100
+"645","TCGA-D8-A1JD-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",2009.5593437346,100
+"646","TCGA-D8-A1JE-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",874.7193379795,100
+"647","TCGA-D8-A1JF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Gain | CDK1 Gain",2783.679430145,100
+"648","TCGA-D8-A1JH-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2075.1642544636,100
+"649","TCGA-D8-A1JI-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1484.9893844715,100
+"650","TCGA-D8-A1JJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1355.0792726961,100
+"651","TCGA-D8-A1JK-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Amplification | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4991.34403182973,74
+"652","TCGA-D8-A1JL-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1862.7842702736,100
+"653","TCGA-D8-A1JM-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1054.7642334608,100
+"654","TCGA-D8-A1JN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1961.7042706827,100
+"655","TCGA-D8-A1JP-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",997.1642839876,100
+"656","TCGA-D8-A1JS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1972.6643724249,100
+"657","TCGA-D8-A1JT-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1970.10945665,100
+"658","TCGA-D8-A1JU-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1903.5993062823,100
+"659","TCGA-D8-A1X5-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5325.8746088125,16
+"660","TCGA-D8-A1X6-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",963.2994253806,100
+"661","TCGA-D8-A1X7-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1946.434362203,100
+"662","TCGA-D8-A1X8-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",993.1493774162,100
+"663","TCGA-D8-A1X9-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1434.2642849943,100
+"664","TCGA-D8-A1XA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1388.2042714517,100
+"665","TCGA-D8-A1XB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2592.099400358,100
+"666","TCGA-D8-A1XC-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1892.7194163124,100
+"667","TCGA-D8-A1XF-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2692.749157,2
+"668","TCGA-D8-A1XG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1995.704425255,100
+"669","TCGA-D8-A1XJ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",3578.76559142717,92
+"670","TCGA-D8-A1XK-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",4561.44582852619,84
+"671","TCGA-D8-A1XL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1350.0493553763,100
+"672","TCGA-D8-A1XM-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2815.719314878,100
+"673","TCGA-D8-A1XO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1367.4193330071,100
+"674","TCGA-D8-A1XQ-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2780.829370674,100
+"675","TCGA-D8-A1XR-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1872.6844312533,100
+"676","TCGA-D8-A1XS-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",987.6942689009,100
+"677","TCGA-D8-A1XT-01","WEE1 Amplification | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",5373.12204199245,53
+"678","TCGA-D8-A1XU-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1119.5993370247,100
+"679","TCGA-D8-A1XV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",4467.11247393214,84
+"680","TCGA-D8-A1XW-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",1165.8243674391,100
+"681","TCGA-D8-A1XY-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",5349.69294355968,62
+"682","TCGA-D8-A1XZ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",1376.3092501834,100
+"683","TCGA-D8-A1Y0-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1101.7643671776,100
+"684","TCGA-D8-A1Y1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1880.1244507316,100
+"685","TCGA-D8-A1Y2-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1364.3843256336,100
+"686","TCGA-D8-A1Y3-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",4474.63420029888,89
+"687","TCGA-D8-A27E-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2028.229432458,100
+"688","TCGA-D8-A27F-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",913.084256707,100
+"689","TCGA-D8-A27G-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1401.6692861381,100
+"690","TCGA-D8-A27H-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Gain",871.2543158588,100
+"691","TCGA-D8-A27I-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1605.5543247514,100
+"692","TCGA-D8-A27K-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1910.1493449076,100
+"693","TCGA-D8-A27L-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1931.8942868848,100
+"694","TCGA-D8-A27M-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1078.8543549329,100
+"695","TCGA-D8-A27N-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1749.5192397502,100
+"696","TCGA-D8-A27P-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1981.3343693004,100
+"697","TCGA-D8-A27R-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1548.4043559162,100
+"698","TCGA-D8-A27T-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2494.7343412277,100
+"699","TCGA-D8-A27V-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1393.7444671004,100
+"700","TCGA-D8-A27W-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1234.104401819,100
+"701","TCGA-D8-A3Z6-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4600.79960401,10
+"702","TCGA-D8-A4Z1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1986.8593771182,100
+"703","TCGA-D8-A73U-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1995.5543260206,100
+"704","TCGA-D8-A73W-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1946.4742440213,100
+"705","TCGA-D8-A73X-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2019.504407137,100
+"706","TCGA-E2-A105-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1422.9843955988,100
+"707","TCGA-E2-A107-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1020.5392790945,100
+"708","TCGA-E2-A108-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1367.6593429419,100
+"709","TCGA-E2-A109-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1333.5093467313,100
+"710","TCGA-E2-A10A-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1643.4293644944,100
+"711","TCGA-E2-A10B-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1848.1044159726,100
+"712","TCGA-E2-A10C-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Amplification",883.9844390318,100
+"713","TCGA-E2-A10F-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1957.3641466292,100
+"714","TCGA-E2-A14N-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",5117.49923171667,18
+"715","TCGA-E2-A14O-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1382.0343388128,100
+"716","TCGA-E2-A14P-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",3699.99938007835,97
+"717","TCGA-E2-A14Q-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2809.034397114,100
+"718","TCGA-E2-A14R-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Deep Deletion | CHK1 Gain | CDK1 Gain",944.1244219122,100
+"719","TCGA-E2-A14T-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Shallow Deletion",2395.7093054318,100
+"720","TCGA-E2-A14V-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Deep Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1562.4343395429,100
+"721","TCGA-E2-A14W-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1304.0742947137,100
+"722","TCGA-E2-A14X-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Diploid",1585.5544683898,100
+"723","TCGA-E2-A14Y-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2823.9244308368,100
+"724","TCGA-E2-A14Z-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",1520.9643849778,100
+"725","TCGA-E2-A150-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",769.1044264546,100
+"726","TCGA-E2-A152-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2228.2143791372,100
+"727","TCGA-E2-A153-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4216.02685199011,91
+"728","TCGA-E2-A154-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",1829.1392456329,100
+"729","TCGA-E2-A155-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1118.4892955847,100
+"730","TCGA-E2-A156-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1909.9094264527,100
+"731","TCGA-E2-A158-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",973.2443372853,100
+"732","TCGA-E2-A159-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",1596.549413561,100
+"733","TCGA-E2-A15A-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1568.6141596598,100
+"734","TCGA-E2-A15C-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1889.1943813584,100
+"735","TCGA-E2-A15D-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1883.2044296096,100
+"736","TCGA-E2-A15E-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1357.5894122147,100
+"737","TCGA-E2-A15F-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1590.439298775,100
+"738","TCGA-E2-A15G-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",909.3593658869,100
+"739","TCGA-E2-A15H-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1967.4693951103,100
+"740","TCGA-E2-A15I-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4381.82735869194,93
+"741","TCGA-E2-A15J-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1992.5542048582,100
+"742","TCGA-E2-A15K-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2222.599356494,100
+"743","TCGA-E2-A15L-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1874.8393833625,100
+"744","TCGA-E2-A15M-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1635.4093734016,100
+"745","TCGA-E2-A15O-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1893.2793445973,100
+"746","TCGA-E2-A15P-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Amplification | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5682.49956235,2
+"747","TCGA-E2-A15R-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",2323.0443325667,100
+"748","TCGA-E2-A15S-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",816.2643991873,100
+"749","TCGA-E2-A15T-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1371.1293513337,100
+"750","TCGA-E2-A1AZ-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Gain",863.6093607275,100
+"751","TCGA-E2-A1B0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",3385.98428370404,99
+"752","TCGA-E2-A1B1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2120.364467078,100
+"753","TCGA-E2-A1B4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2116.8294077595,100
+"754","TCGA-E2-A1B5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1907.1043957962,100
+"755","TCGA-E2-A1B6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1937.3544020884,100
+"756","TCGA-E2-A1BC-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4486.37163988,90
+"757","TCGA-E2-A1BD-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1137.2442602406,100
+"758","TCGA-E2-A1IE-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3290.08518419495,99
+"759","TCGA-E2-A1IF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1978.4993265697,100
+"760","TCGA-E2-A1IG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1374.7092811592,100
+"761","TCGA-E2-A1IH-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",829.9993657116,100
+"762","TCGA-E2-A1II-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",4343.50494323846,91
+"763","TCGA-E2-A1IJ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2081.0643124702,100
+"764","TCGA-E2-A1IK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2022.7745005008,100
+"765","TCGA-E2-A1IL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1998.1793092322,100
+"766","TCGA-E2-A1IN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Deep Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4899.4020389875,72
+"767","TCGA-E2-A1IO-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2140.7094132271,100
+"768","TCGA-E2-A1IU-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",2257.8243989119,100
+"769","TCGA-E2-A1L6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1866.9343863162,100
+"770","TCGA-E2-A1L7-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1327.9944031398,100
+"771","TCGA-E2-A1L8-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",990.5943326841,100
+"772","TCGA-E2-A1L9-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4455.06043433537,82
+"773","TCGA-E2-A1LA-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1720.1843362056,100
+"774","TCGA-E2-A1LB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2010.7193018925,100
+"775","TCGA-E2-A1LG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",6636.95788413333,12
+"776","TCGA-E2-A1LH-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",1938.2693139443,100
+"777","TCGA-E2-A1LI-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",758.4742931401,100
+"778","TCGA-E2-A1LK-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Amplification",967.644344682,100
+"779","TCGA-E2-A1LL-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",3725.43362293636,99
+"780","TCGA-E2-A2P6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1462.3293779723,100
+"781","TCGA-E2-A56Z-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Deep Deletion | CDK1 Shallow Deletion",1189.8343447395,100
+"782","TCGA-E2-A570-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1915.4193393705,100
+"783","TCGA-E2-A573-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1948.9743436442,100
+"784","TCGA-E2-A574-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",6345.4993596,9
+"785","TCGA-E2-A576-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",2350.209139641,100
+"786","TCGA-E2-A9RU-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Deep Deletion | CDK1 Diploid",4594.33078444419,86
+"787","TCGA-E9-A1N3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1892.5743288684,100
+"788","TCGA-E9-A1N4-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1979.9194012028,100
+"789","TCGA-E9-A1N5-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",764.1993130045,100
+"790","TCGA-E9-A1N8-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1397.0694096605,100
+"791","TCGA-E9-A1N9-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",660.8443473863,100
+"792","TCGA-E9-A1NA-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1012.6393275288,100
+"793","TCGA-E9-A1NC-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",816.0943980515,100
+"794","TCGA-E9-A1ND-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Deep Deletion | CHK1 Gain | CDK1 Shallow Deletion",5903.56741799091,22
+"795","TCGA-E9-A1NE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1930.724359443,100
+"796","TCGA-E9-A1NF-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2293.0593802257,100
+"797","TCGA-E9-A1NG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1404.1344473201,100
+"798","TCGA-E9-A1NH-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1140.8842259851,100
+"799","TCGA-E9-A1NI-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4453.543104715,80
+"800","TCGA-E9-A1QZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1062.3993053824,100
+"801","TCGA-E9-A1R0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1957.9893124762,100
+"802","TCGA-E9-A1R2-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",799.3794095238,100
+"803","TCGA-E9-A1R3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Shallow Deletion",4755.05054587386,88
+"804","TCGA-E9-A1R4-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",2718.009361299,100
+"805","TCGA-E9-A1R5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1408.424282145,100
+"806","TCGA-E9-A1R6-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Diploid",4264.55496263333,99
+"807","TCGA-E9-A1R7-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",820.5743949727,100
+"808","TCGA-E9-A1RA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1898.7744794332,100
+"809","TCGA-E9-A1RB-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Gain",1881.3993751286,100
+"810","TCGA-E9-A1RC-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",6462.86862108696,23
+"811","TCGA-E9-A1RD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1877.1544015375,100
+"812","TCGA-E9-A1RE-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",5442.58509237,70
+"813","TCGA-E9-A1RF-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Deep Deletion | CDK1 Shallow Deletion",1618.6394068706,100
+"814","TCGA-E9-A1RG-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",2105.184364473,100
+"815","TCGA-E9-A1RH-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Amplification",1027.1493511691,100
+"816","TCGA-E9-A1RI-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",997.1443456995,100
+"817","TCGA-E9-A226-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2482.9093783407,100
+"818","TCGA-E9-A227-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1946.984300698,100
+"819","TCGA-E9-A228-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1226.0042755356,100
+"820","TCGA-E9-A229-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1134.9244166569,100
+"821","TCGA-E9-A22A-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1338.2592907044,100
+"822","TCGA-E9-A22B-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1435.6243929174,100
+"823","TCGA-E9-A22D-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4976.96605949833,60
+"824","TCGA-E9-A22E-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2526.7295132374,100
+"825","TCGA-E9-A22G-01","WEE1 Shallow Deletion | FOXM1 Amplification | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",802.5593192688,100
+"826","TCGA-E9-A22H-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1394.0543121255,100
+"827","TCGA-E9-A243-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",4736.81331298954,86
+"828","TCGA-E9-A244-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Gain | CDK1 Gain",1412.4844386772,100
+"829","TCGA-E9-A245-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1864.6542962272,100
+"830","TCGA-E9-A247-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",2014.8544133433,100
+"831","TCGA-E9-A248-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",5544.96921072424,33
+"832","TCGA-E9-A249-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Gain | CDK1 Diploid",5637.79938442,35
+"833","TCGA-E9-A24A-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1954.279387497,100
+"834","TCGA-E9-A295-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",931.0942959097,100
+"835","TCGA-E9-A2JS-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",1372.9943669528,100
+"836","TCGA-E9-A2JT-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2006.304445432,100
+"837","TCGA-E9-A3HO-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",786.204317825,100
+"838","TCGA-E9-A3QA-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",818.804285579,100
+"839","TCGA-E9-A3X8-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2817.6295107252,100
+"840","TCGA-E9-A54Y-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",5110.45616232099,81
+"841","TCGA-E9-A5FK-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",4801.636981065,80
+"842","TCGA-E9-A5FL-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",2667.054294128,100
+"843","TCGA-E9-A5UO-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1124.2041510911,100
+"844","TCGA-E9-A6HE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1336.9844992146,100
+"845","TCGA-EW-A1IW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1403.9593808719,100
+"846","TCGA-EW-A1IX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1817.899192798,100
+"847","TCGA-EW-A1IY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4074.66256089158,95
+"848","TCGA-EW-A1IZ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1378.2792506792,100
+"849","TCGA-EW-A1J1-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1006.2344582956,100
+"850","TCGA-EW-A1J2-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1086.2693160045,100
+"851","TCGA-EW-A1J3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1431.9243378622,100
+"852","TCGA-EW-A1J5-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1407.0993079879,100
+"853","TCGA-EW-A1J6-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2967.709255227,100
+"854","TCGA-EW-A1OV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",816.1993857996,100
+"855","TCGA-EW-A1OX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Deep Deletion | CDK1 Diploid",1117.6292821788,100
+"856","TCGA-EW-A1OY-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",4215.00456497629,97
+"857","TCGA-EW-A1OZ-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Amplification",642.8942591127,100
+"858","TCGA-EW-A1P0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1958.819413381,100
+"859","TCGA-EW-A1P1-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2006.1942992436,100
+"860","TCGA-EW-A1P3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",4715.14310703563,87
+"861","TCGA-EW-A1P4-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Amplification | CHK1 Shallow Deletion | CDK1 Gain",811.359309726,100
+"862","TCGA-EW-A1P5-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",8344.49908715,2
+"863","TCGA-EW-A1P6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1899.519403642,100
+"864","TCGA-EW-A1P7-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4351.35892916854,89
+"865","TCGA-EW-A1P8-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Gain",902.7092937033,100
+"866","TCGA-EW-A1PA-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5804.95756077222,36
+"867","TCGA-EW-A1PB-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1873.8694008257,100
+"868","TCGA-EW-A1PD-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1111.5243478689,100
+"869","TCGA-EW-A1PE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1892.364296198,100
+"870","TCGA-EW-A1PG-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4722.08628220435,92
+"871","TCGA-EW-A1PH-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2193.864340052,100
+"872","TCGA-EW-A2FR-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",816.5942969214,100
+"873","TCGA-EW-A2FS-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1622.4493131287,100
+"874","TCGA-EW-A2FV-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1947.9492894592,100
+"875","TCGA-EW-A2FW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1374.1394678281,100
+"876","TCGA-EW-A423-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1049.1593722077,100
+"877","TCGA-EW-A6S9-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2033.769325008,100
+"878","TCGA-EW-A6SA-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",5067.86957451111,27
+"879","TCGA-EW-A6SB-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Gain | CDK1 Diploid",3897.98855242872,94
+"880","TCGA-EW-A6SC-01","WEE1 Gain | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1686.8742211751,100
+"881","TCGA-EW-A6SD-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1215.3092665412,100
+"882","TCGA-GI-A2C8-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",2121.3293126208,100
+"883","TCGA-GM-A2D9-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1400.9043703101,100
+"884","TCGA-GM-A2DA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2094.8392906829,100
+"885","TCGA-GM-A2DB-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Gain | CDK1 Gain",5825.72998731282,39
+"886","TCGA-GM-A2DC-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1349.999419114,100
+"887","TCGA-GM-A2DD-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",994.5844033715,100
+"888","TCGA-GM-A2DF-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",961.7542988799,100
+"889","TCGA-GM-A2DH-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Gain | CDK1 Gain",880.8143673163,100
+"890","TCGA-GM-A2DI-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1422.1743122027,100
+"891","TCGA-GM-A2DK-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",3316.27200598586,99
+"892","TCGA-GM-A2DL-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1569.3844496702,100
+"893","TCGA-GM-A2DM-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1927.9742587316,100
+"894","TCGA-GM-A2DN-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1975.739392836,100
+"895","TCGA-GM-A2DO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1419.9644016441,100
+"896","TCGA-GM-A3NW-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1409.2543729603,100
+"897","TCGA-GM-A3XL-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Amplification | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1050.0444230674,100
+"898","TCGA-GM-A4E0-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1972.7144870672,100
+"899","TCGA-GM-A5PV-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1865.4093104089,100
+"900","TCGA-GM-A5PX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1356.9841727497,100
+"901","TCGA-HN-A2NL-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",4998.114720325,52
+"902","TCGA-HN-A2OB-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1959.0292715606,100
+"903","TCGA-JL-A3YX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Shallow Deletion",2510.429472199,100
+"904","TCGA-LD-A66U-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1458.2393170804,100
+"905","TCGA-LD-A74U-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2057.159368847,100
+"906","TCGA-LD-A7W5-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Amplification",620.8743379502,100
+"907","TCGA-LD-A7W6-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1412.4992864434,100
+"908","TCGA-LD-A9QF-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Gain",1243.8994055481,100
+"909","TCGA-LL-A440-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1952.6494361663,100
+"910","TCGA-LL-A50Y-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1812.4743771311,100
+"911","TCGA-LL-A5YL-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2140.569388047,100
+"912","TCGA-LL-A5YM-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",3954.63622092632,95
+"913","TCGA-LL-A5YN-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",998.9892883024,100
+"914","TCGA-LL-A5YO-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1421.9143608288,100
+"915","TCGA-LL-A5YP-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Shallow Deletion",1839.754366945,100
+"916","TCGA-LL-A6FP-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Deep Deletion | CDK1 Shallow Deletion",1797.3093450493,100
+"917","TCGA-LL-A6FQ-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",918.5242504414,100
+"918","TCGA-LL-A6FR-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1148.7192222976,100
+"919","TCGA-LL-A73Y-01","WEE1 Gain | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",4632.80041424731,93
+"920","TCGA-LL-A73Z-01","WEE1 Diploid | FOXM1 Shallow Deletion | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",1147.0894238969,100
+"921","TCGA-LL-A740-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1946.969315013,100
+"922","TCGA-LL-A7SZ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Diploid",1270.6742812612,100
+"923","TCGA-LL-A7T0-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",873.9892371846,100
+"924","TCGA-LL-A8F5-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Amplification | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Shallow Deletion",4177.11737690899,89
+"925","TCGA-LL-A9Q3-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2074.974380101,100
+"926","TCGA-OK-A5Q2-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1408.1294115977,100
+"927","TCGA-OL-A5D6-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1210.6893291451,100
+"928","TCGA-OL-A5D7-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Gain",825.5242662378,100
+"929","TCGA-OL-A5D8-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1947.3393652273,100
+"930","TCGA-OL-A5DA-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1379.0592542208,100
+"931","TCGA-OL-A5RU-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2017.5344561816,100
+"932","TCGA-OL-A5RV-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",3675.83267230208,96
+"933","TCGA-OL-A5RW-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Diploid | FCP1 Deep Deletion | CHK1 Gain | CDK1 Gain",1811.879294745,100
+"934","TCGA-OL-A5RX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2016.5743628051,100
+"935","TCGA-OL-A5RY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1361.0992344654,100
+"936","TCGA-OL-A5RZ-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1088.4942901873,100
+"937","TCGA-OL-A5S0-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",669.1541940379,100
+"938","TCGA-OL-A66H-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1905.749424807,100
+"939","TCGA-OL-A66I-01","WEE1 Shallow Deletion | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Amplification | CHK1 Diploid | CDK1 Shallow Deletion",1322.5893724617,100
+"940","TCGA-OL-A66J-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1437.0144464191,100
+"941","TCGA-OL-A66K-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",856.6592607899,100
+"942","TCGA-OL-A66L-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1954.9243113969,100
+"943","TCGA-OL-A66N-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1113.6441770798,100
+"944","TCGA-OL-A66O-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1372.2592844344,100
+"945","TCGA-OL-A66P-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1414.6393776386,100
+"946","TCGA-OL-A6VO-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",5501.24948184808,52
+"947","TCGA-OL-A6VQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",1950.8944200245,100
+"948","TCGA-OL-A6VR-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1345.6293872779,100
+"949","TCGA-OL-A97C-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Gain | CHK1 Diploid | CDK1 Diploid",1943.134310083,100
+"950","TCGA-PE-A5DC-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1507.1893438548,100
+"951","TCGA-PE-A5DD-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",2013.5993564711,100
+"952","TCGA-PE-A5DE-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Shallow Deletion",5295.82363791351,74
+"953","TCGA-PL-A8LV-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Gain",1123.7093659469,100
+"954","TCGA-PL-A8LX-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",1761.7293590468,100
+"955","TCGA-PL-A8LY-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1957.974355391,100
+"956","TCGA-PL-A8LZ-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",4910.979547252,25
+"957","TCGA-S3-A6ZF-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",815.6943351371,100
+"958","TCGA-S3-A6ZG-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2071.2593295374,100
+"959","TCGA-S3-A6ZH-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Shallow Deletion",2945.04477247576,99
+"960","TCGA-S3-AA0Z-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1372.6743272868,100
+"961","TCGA-S3-AA10-01","WEE1 Diploid | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Gain | CHK1 Diploid | CDK1 Gain",951.2943851867,100
+"962","TCGA-S3-AA11-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2023.9193722196,100
+"963","TCGA-S3-AA12-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1384.0693374558,100
+"964","TCGA-S3-AA14-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1926.6644026096,100
+"965","TCGA-S3-AA15-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1948.0744035147,100
+"966","TCGA-S3-AA17-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Gain | CHK1 Shallow Deletion | CDK1 Gain",2201.239336457,100
+"967","TCGA-UL-AAZ6-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",830.3192475392,100
+"968","TCGA-UU-A93S-01","WEE1 Shallow Deletion | FOXM1 Shallow Deletion | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Gain | CDK1 Diploid",1338.8493627276,100
+"969","TCGA-V7-A7HQ-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",2013.3394135556,100
+"970","TCGA-W8-A86G-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Diploid | FCP1 Diploid | CHK1 Diploid | CDK1 Diploid",1961.4842690644,100
+"971","TCGA-WT-AB41-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1070.6143236724,100
+"972","TCGA-WT-AB44-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Gain | FCP1 Shallow Deletion | CHK1 Diploid | CDK1 Diploid",4742.66210013855,83
+"973","TCGA-XX-A899-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1052.2843740019,100
+"974","TCGA-XX-A89A-01","WEE1 Diploid | FOXM1 Diploid | C-TAK1 Shallow Deletion | FCP1 Shallow Deletion | CHK1 Shallow Deletion | CDK1 Diploid",1103.8392877462,100
+"975","TCGA-Z7-A8R5-01","WEE1 Shallow Deletion | FOXM1 Gain | C-TAK1 Diploid | FCP1 Diploid | CHK1 Shallow Deletion | CDK1 Diploid",1012.9444757638,100
+"976","TCGA-Z7-A8R6-01","WEE1 Gain | FOXM1 Diploid | C-TAK1 Gain | FCP1 Diploid | CHK1 Gain | CDK1 Diploid",5223.9999971,1
+"977","TCGA-BH-A208-01"," CTDP1 Gain| MARK3 Amplification| FOXM1 Diploid| CHEK1 Gain| WEE1 Gain| CDK1 Shallow Deletion| CEBPB Gain|",NA,0
+"978","TCGA-AC-A23H-01"," CTDP1 Shallow Deletion| MARK3 Diploid| FOXM1 Shallow Deletion| CHEK1 Diploid| WEE1 Gain| CDK1 Shallow Deletion| CEBPB Gain|",NA,0
+"979","TCGA-A7-A6VV-01"," CTDP1 Shallow Deletion| MARK3 Gain| FOXM1 Shallow Deletion| CHEK1 Shallow Deletion| WEE1 Gain| CDK1 Shallow Deletion| CEBPB Diploid|",NA,0
+"980","TCGA-AC-A62Y-01"," CTDP1 Diploid| MARK3 Gain| FOXM1 Diploid| CHEK1 Gain| WEE1 Gain| CDK1 Shallow Deletion| CEBPB Gain|",NA,0
+"981","TCGA-C8-A27A-01"," CTDP1 Shallow Deletion| MARK3 Gain| FOXM1 Shallow Deletion| CHEK1 Shallow Deletion| WEE1 Gain| CDK1 Shallow Deletion| CEBPB Gain|",NA,0
+"982","TCGA-BH-A1FM-01"," CTDP1 Shallow Deletion| MARK3 Amplification| FOXM1 Shallow Deletion| CHEK1 Diploid| WEE1 Diploid| CDK1 Shallow Deletion| CEBPB Gain|",NA,0
+"983","TCGA-BH-A0BT-01"," CTDP1 Shallow Deletion| MARK3 Gain| FOXM1 Gain| CHEK1 Gain| WEE1 Gain| CDK1 Shallow Deletion| CEBPB Gain|",NA,0

@@ -1,0 +1,995 @@
+Sample Id	CDK1: Putative copy-number alterations from GISTIC	CDK1: mRNA Expression, RSEM (Batch normalized from Illumina HiSeq_RNASeqV2)	Copy Number Alterations
+TCGA-A7-A0CJ-01	Deep Deletion	389.471	CDK1: Deep Deletion
+TCGA-3C-AAAU-01	Shallow Deletion	957.117	CDK1: Shallow Deletion
+TCGA-3C-AALI-01	Shallow Deletion	1045.13	CDK1: Shallow Deletion
+TCGA-A1-A0SN-01	Shallow Deletion	990.378	CDK1: Shallow Deletion
+TCGA-A1-A0SO-01	Shallow Deletion	1014.64	CDK1: Shallow Deletion
+TCGA-A1-A0SP-01	Shallow Deletion	973.367	CDK1: Shallow Deletion
+TCGA-A2-A04T-01	Shallow Deletion	1234.46	CDK1: Shallow Deletion
+TCGA-A2-A04W-01	Shallow Deletion	662.975	CDK1: Shallow Deletion
+TCGA-A2-A0CS-01	Shallow Deletion	378.403	CDK1: Shallow Deletion
+TCGA-A2-A0CT-01	Shallow Deletion	910.117	CDK1: Shallow Deletion
+TCGA-A2-A0CU-01	Shallow Deletion	588.011	CDK1: Shallow Deletion
+TCGA-A2-A0D0-01	Shallow Deletion	1893.74	CDK1: Shallow Deletion
+TCGA-A2-A0D4-01	Shallow Deletion	1087.62	CDK1: Shallow Deletion
+TCGA-A2-A0EV-01	Shallow Deletion	416.14	CDK1: Shallow Deletion
+TCGA-A2-A0SV-01	Shallow Deletion	868.401	CDK1: Shallow Deletion
+TCGA-A2-A0T0-01	Shallow Deletion	815.515	CDK1: Shallow Deletion
+TCGA-A2-A0T3-01	Shallow Deletion	809.126	CDK1: Shallow Deletion
+TCGA-A2-A0YE-01	Shallow Deletion	680.925	CDK1: Shallow Deletion
+TCGA-A2-A0YG-01	Shallow Deletion	785.89	CDK1: Shallow Deletion
+TCGA-A2-A0YJ-01	Shallow Deletion	511.391	CDK1: Shallow Deletion
+TCGA-A2-A1FW-01	Shallow Deletion	651.88	CDK1: Shallow Deletion
+TCGA-A2-A1FX-01	Shallow Deletion	1486.97	CDK1: Shallow Deletion
+TCGA-A2-A1G1-01	Shallow Deletion	1251.05	CDK1: Shallow Deletion
+TCGA-A2-A25B-01	Shallow Deletion	1974.25	CDK1: Shallow Deletion
+TCGA-A2-A25D-01	Shallow Deletion	544.935	CDK1: Shallow Deletion
+TCGA-A2-A3XT-01	Shallow Deletion	1065.36	CDK1: Shallow Deletion
+TCGA-A2-A4S1-01	Shallow Deletion	192.291	CDK1: Shallow Deletion
+TCGA-A7-A0DA-01	Shallow Deletion	333.333	CDK1: Shallow Deletion
+TCGA-A7-A13F-01	Shallow Deletion	1371.49	CDK1: Shallow Deletion
+TCGA-A7-A26E-01	Shallow Deletion	453.942	CDK1: Shallow Deletion
+TCGA-A7-A4SE-01	Shallow Deletion	917.396	CDK1: Shallow Deletion
+TCGA-A7-A56D-01	Shallow Deletion	447.263	CDK1: Shallow Deletion
+TCGA-A7-A6VV-01	Shallow Deletion	1121.84	CDK1: Shallow Deletion
+TCGA-A8-A06N-01	Shallow Deletion	253.327	CDK1: Shallow Deletion
+TCGA-A8-A06Q-01	Shallow Deletion	988.151	CDK1: Shallow Deletion
+TCGA-A8-A06R-01	Shallow Deletion	828.77	CDK1: Shallow Deletion
+TCGA-A8-A06U-01	Shallow Deletion	806.69	CDK1: Shallow Deletion
+TCGA-A8-A076-01	Shallow Deletion	1011.66	CDK1: Shallow Deletion
+TCGA-A8-A08J-01	Shallow Deletion	982.701	CDK1: Shallow Deletion
+TCGA-A8-A08L-01	Shallow Deletion	915.926	CDK1: Shallow Deletion
+TCGA-A8-A08R-01	Shallow Deletion	722.46	CDK1: Shallow Deletion
+TCGA-A8-A08X-01	Shallow Deletion	902.642	CDK1: Shallow Deletion
+TCGA-A8-A097-01	Shallow Deletion	768.078	CDK1: Shallow Deletion
+TCGA-A8-A09B-01	Shallow Deletion	268.541	CDK1: Shallow Deletion
+TCGA-A8-A09I-01	Shallow Deletion	1742.29	CDK1: Shallow Deletion
+TCGA-A8-A09R-01	Shallow Deletion	548.111	CDK1: Shallow Deletion
+TCGA-A8-A0A6-01	Shallow Deletion	320.255	CDK1: Shallow Deletion
+TCGA-A8-A0AB-01	Shallow Deletion	666.337	CDK1: Shallow Deletion
+TCGA-A8-A0AD-01	Shallow Deletion	405.229	CDK1: Shallow Deletion
+TCGA-AC-A23C-01	Shallow Deletion	369.379	CDK1: Shallow Deletion
+TCGA-AC-A23H-01	Shallow Deletion	855.166	CDK1: Shallow Deletion
+TCGA-AC-A2QH-01	Shallow Deletion	715.581	CDK1: Shallow Deletion
+TCGA-AC-A5XU-01	Shallow Deletion	664.463	CDK1: Shallow Deletion
+TCGA-AC-A62Y-01	Shallow Deletion	484.137	CDK1: Shallow Deletion
+TCGA-AC-A6IW-01	Shallow Deletion	1216.33	CDK1: Shallow Deletion
+TCGA-AC-A7VC-01	Shallow Deletion	764.87	CDK1: Shallow Deletion
+TCGA-AC-A8OQ-01	Shallow Deletion	745.602	CDK1: Shallow Deletion
+TCGA-AN-A0AJ-01	Shallow Deletion	2375.78	CDK1: Shallow Deletion
+TCGA-AN-A0AK-01	Shallow Deletion	1536.1	CDK1: Shallow Deletion
+TCGA-AN-A0AT-01	Shallow Deletion	1411.36	CDK1: Shallow Deletion
+TCGA-AN-A0FW-01	Shallow Deletion	647.536	CDK1: Shallow Deletion
+TCGA-AN-A0XP-01	Shallow Deletion	289.711	CDK1: Shallow Deletion
+TCGA-AN-A0XS-01	Shallow Deletion	263.181	CDK1: Shallow Deletion
+TCGA-AN-A0XU-01	Shallow Deletion	1220.54	CDK1: Shallow Deletion
+TCGA-AO-A03M-01	Shallow Deletion	833.623	CDK1: Shallow Deletion
+TCGA-AO-A03U-01	Shallow Deletion	237.107	CDK1: Shallow Deletion
+TCGA-AO-A03V-01	Shallow Deletion	267.059	CDK1: Shallow Deletion
+TCGA-AO-A0J3-01	Shallow Deletion	734.456	CDK1: Shallow Deletion
+TCGA-AO-A0JA-01	Shallow Deletion	534.863	CDK1: Shallow Deletion
+TCGA-AO-A0JD-01	Shallow Deletion	1985.14	CDK1: Shallow Deletion
+TCGA-AO-A124-01	Shallow Deletion	923.914	CDK1: Shallow Deletion
+TCGA-AQ-A04J-01	Shallow Deletion	855.919	CDK1: Shallow Deletion
+TCGA-AQ-A54O-01	Shallow Deletion	473.655	CDK1: Shallow Deletion
+TCGA-AQ-A7U7-01	Shallow Deletion	199.889	CDK1: Shallow Deletion
+TCGA-AR-A0TR-01	Shallow Deletion	217.526	CDK1: Shallow Deletion
+TCGA-AR-A0TS-01	Shallow Deletion	1004.58	CDK1: Shallow Deletion
+TCGA-AR-A0TW-01	Shallow Deletion	414.812	CDK1: Shallow Deletion
+TCGA-AR-A0U2-01	Shallow Deletion	2018.14	CDK1: Shallow Deletion
+TCGA-AR-A0U4-01	Shallow Deletion	1105.46	CDK1: Shallow Deletion
+TCGA-AR-A1AQ-01	Shallow Deletion	1137.4	CDK1: Shallow Deletion
+TCGA-AR-A1AY-01	Shallow Deletion	1198.13	CDK1: Shallow Deletion
+TCGA-AR-A24H-01	Shallow Deletion	1745.22	CDK1: Shallow Deletion
+TCGA-AR-A24L-01	Shallow Deletion	572.734	CDK1: Shallow Deletion
+TCGA-AR-A24R-01	Shallow Deletion	979.497	CDK1: Shallow Deletion
+TCGA-AR-A24U-01	Shallow Deletion	759.036	CDK1: Shallow Deletion
+TCGA-AR-A24W-01	Shallow Deletion	145.061	CDK1: Shallow Deletion
+TCGA-AR-A250-01	Shallow Deletion	1364.79	CDK1: Shallow Deletion
+TCGA-AR-A256-01	Shallow Deletion	1618.46	CDK1: Shallow Deletion
+TCGA-AR-A2LK-01	Shallow Deletion	1094.23	CDK1: Shallow Deletion
+TCGA-AR-A2LO-01	Shallow Deletion	423.215	CDK1: Shallow Deletion
+TCGA-AR-A5QQ-01	Shallow Deletion	1284.15	CDK1: Shallow Deletion
+TCGA-B6-A0IK-01	Shallow Deletion	725.433	CDK1: Shallow Deletion
+TCGA-B6-A0RE-01	Shallow Deletion	1219.25	CDK1: Shallow Deletion
+TCGA-B6-A0RL-01	Shallow Deletion	1037.23	CDK1: Shallow Deletion
+TCGA-B6-A0RU-01	Shallow Deletion	1407.94	CDK1: Shallow Deletion
+TCGA-B6-A1KI-01	Shallow Deletion	163.145	CDK1: Shallow Deletion
+TCGA-B6-A1KN-01	Shallow Deletion	1499.27	CDK1: Shallow Deletion
+TCGA-BH-A0AU-01	Shallow Deletion	538.809	CDK1: Shallow Deletion
+TCGA-BH-A0AV-01	Shallow Deletion	772.33	CDK1: Shallow Deletion
+TCGA-BH-A0B3-01	Shallow Deletion	1359.44	CDK1: Shallow Deletion
+TCGA-BH-A0BA-01	Shallow Deletion	522.663	CDK1: Shallow Deletion
+TCGA-BH-A0BJ-01	Shallow Deletion	372.635	CDK1: Shallow Deletion
+TCGA-BH-A0BR-01	Shallow Deletion	345.923	CDK1: Shallow Deletion
+TCGA-BH-A0BT-01	Shallow Deletion	249.642	CDK1: Shallow Deletion
+TCGA-BH-A0BV-01	Shallow Deletion	320.414	CDK1: Shallow Deletion
+TCGA-BH-A0BZ-01	Shallow Deletion	1068.46	CDK1: Shallow Deletion
+TCGA-BH-A0C1-01	Shallow Deletion	690.133	CDK1: Shallow Deletion
+TCGA-BH-A0EB-01	Shallow Deletion	345.077	CDK1: Shallow Deletion
+TCGA-BH-A0H7-01	Shallow Deletion	722.587	CDK1: Shallow Deletion
+TCGA-BH-A0H9-01	Shallow Deletion	697.879	CDK1: Shallow Deletion
+TCGA-BH-A0HA-01	Shallow Deletion	443.929	CDK1: Shallow Deletion
+TCGA-BH-A0HU-01	Shallow Deletion	997.399	CDK1: Shallow Deletion
+TCGA-BH-A0HW-01	Shallow Deletion	689.095	CDK1: Shallow Deletion
+TCGA-BH-A0WA-01	Shallow Deletion	905.828	CDK1: Shallow Deletion
+TCGA-BH-A18I-01	Shallow Deletion	599.439	CDK1: Shallow Deletion
+TCGA-BH-A18T-01	Shallow Deletion	1544.03	CDK1: Shallow Deletion
+TCGA-BH-A18U-01	Shallow Deletion	1907.84	CDK1: Shallow Deletion
+TCGA-BH-A1EO-01	Shallow Deletion	356.497	CDK1: Shallow Deletion
+TCGA-BH-A1EU-01	Shallow Deletion	280.582	CDK1: Shallow Deletion
+TCGA-BH-A1EY-01	Shallow Deletion	730.426	CDK1: Shallow Deletion
+TCGA-BH-A1FC-01	Shallow Deletion	2048.11	CDK1: Shallow Deletion
+TCGA-BH-A1FH-01	Shallow Deletion	109.916	CDK1: Shallow Deletion
+TCGA-BH-A1FM-01	Shallow Deletion	1587.68	CDK1: Shallow Deletion
+TCGA-BH-A1FN-01	Shallow Deletion	1497.6	CDK1: Shallow Deletion
+TCGA-BH-A202-01	Shallow Deletion	1235.01	CDK1: Shallow Deletion
+TCGA-BH-A208-01	Shallow Deletion	281.512	CDK1: Shallow Deletion
+TCGA-C8-A12M-01	Shallow Deletion	498.343	CDK1: Shallow Deletion
+TCGA-C8-A12U-01	Shallow Deletion	1458.48	CDK1: Shallow Deletion
+TCGA-C8-A12W-01	Shallow Deletion	800.173	CDK1: Shallow Deletion
+TCGA-C8-A132-01	Shallow Deletion	698.842	CDK1: Shallow Deletion
+TCGA-C8-A1HI-01	Shallow Deletion	399.586	CDK1: Shallow Deletion
+TCGA-C8-A1HJ-01	Shallow Deletion	2908.61	CDK1: Shallow Deletion
+TCGA-C8-A1HN-01	Shallow Deletion	1650.81	CDK1: Shallow Deletion
+TCGA-C8-A26V-01	Shallow Deletion	533.405	CDK1: Shallow Deletion
+TCGA-C8-A26X-01	Shallow Deletion	1186.95	CDK1: Shallow Deletion
+TCGA-C8-A26Y-01	Shallow Deletion	1551.48	CDK1: Shallow Deletion
+TCGA-C8-A27A-01	Shallow Deletion	1572.06	CDK1: Shallow Deletion
+TCGA-C8-A8HP-01	Shallow Deletion	676.287	CDK1: Shallow Deletion
+TCGA-D8-A142-01	Shallow Deletion	554.051	CDK1: Shallow Deletion
+TCGA-D8-A1J8-01	Shallow Deletion	2028.49	CDK1: Shallow Deletion
+TCGA-D8-A1J9-01	Shallow Deletion	984.825	CDK1: Shallow Deletion
+TCGA-D8-A1JG-01	Shallow Deletion	1426.82	CDK1: Shallow Deletion
+TCGA-D8-A1JK-01	Shallow Deletion	776.653	CDK1: Shallow Deletion
+TCGA-D8-A1X5-01	Shallow Deletion	377.877	CDK1: Shallow Deletion
+TCGA-D8-A1XB-01	Shallow Deletion	363.969	CDK1: Shallow Deletion
+TCGA-D8-A1XF-01	Shallow Deletion	961.3	CDK1: Shallow Deletion
+TCGA-D8-A1XJ-01	Shallow Deletion	1571.68	CDK1: Shallow Deletion
+TCGA-D8-A1XQ-01	Shallow Deletion	848.372	CDK1: Shallow Deletion
+TCGA-D8-A1XU-01	Shallow Deletion	261.393	CDK1: Shallow Deletion
+TCGA-D8-A1XV-01	Shallow Deletion	538.382	CDK1: Shallow Deletion
+TCGA-D8-A1XZ-01	Shallow Deletion	677.881	CDK1: Shallow Deletion
+TCGA-D8-A27I-01	Shallow Deletion	227.339	CDK1: Shallow Deletion
+TCGA-D8-A27T-01	Shallow Deletion	507.09	CDK1: Shallow Deletion
+TCGA-D8-A3Z6-01	Shallow Deletion	152.031	CDK1: Shallow Deletion
+TCGA-E2-A14N-01	Shallow Deletion	1587.22	CDK1: Shallow Deletion
+TCGA-E2-A14T-01	Shallow Deletion	617.855	CDK1: Shallow Deletion
+TCGA-E2-A14Y-01	Shallow Deletion	2471.15	CDK1: Shallow Deletion
+TCGA-E2-A14Z-01	Shallow Deletion	763.229	CDK1: Shallow Deletion
+TCGA-E2-A152-01	Shallow Deletion	692.589	CDK1: Shallow Deletion
+TCGA-E2-A159-01	Shallow Deletion	1184.75	CDK1: Shallow Deletion
+TCGA-E2-A15F-01	Shallow Deletion	870.814	CDK1: Shallow Deletion
+TCGA-E2-A15P-01	Shallow Deletion	223.907	CDK1: Shallow Deletion
+TCGA-E2-A1IE-01	Shallow Deletion	467.144	CDK1: Shallow Deletion
+TCGA-E2-A1IN-01	Shallow Deletion	349.319	CDK1: Shallow Deletion
+TCGA-E2-A1LA-01	Shallow Deletion	990.654	CDK1: Shallow Deletion
+TCGA-E2-A1LG-01	Shallow Deletion	1839.07	CDK1: Shallow Deletion
+TCGA-E2-A1LH-01	Shallow Deletion	1036.47	CDK1: Shallow Deletion
+TCGA-E2-A56Z-01	Shallow Deletion	867.899	CDK1: Shallow Deletion
+TCGA-E2-A574-01	Shallow Deletion	1466.89	CDK1: Shallow Deletion
+TCGA-E9-A1ND-01	Shallow Deletion	1036.98	CDK1: Shallow Deletion
+TCGA-E9-A1NF-01	Shallow Deletion	581.385	CDK1: Shallow Deletion
+TCGA-E9-A1NI-01	Shallow Deletion	949.948	CDK1: Shallow Deletion
+TCGA-E9-A1R3-01	Shallow Deletion	22.0441	CDK1: Shallow Deletion
+TCGA-E9-A1RC-01	Shallow Deletion	544.395	CDK1: Shallow Deletion
+TCGA-E9-A1RF-01	Shallow Deletion	371.7	CDK1: Shallow Deletion
+TCGA-E9-A1RG-01	Shallow Deletion	658.965	CDK1: Shallow Deletion
+TCGA-E9-A226-01	Shallow Deletion	1006.49	CDK1: Shallow Deletion
+TCGA-E9-A22B-01	Shallow Deletion	465.998	CDK1: Shallow Deletion
+TCGA-E9-A22D-01	Shallow Deletion	1192.06	CDK1: Shallow Deletion
+TCGA-E9-A22E-01	Shallow Deletion	463.122	CDK1: Shallow Deletion
+TCGA-E9-A248-01	Shallow Deletion	1630.95	CDK1: Shallow Deletion
+TCGA-E9-A2JS-01	Shallow Deletion	1170.98	CDK1: Shallow Deletion
+TCGA-E9-A54Y-01	Shallow Deletion	1406.4	CDK1: Shallow Deletion
+TCGA-E9-A5FK-01	Shallow Deletion	156.069	CDK1: Shallow Deletion
+TCGA-EW-A1J6-01	Shallow Deletion	1008.98	CDK1: Shallow Deletion
+TCGA-EW-A1P5-01	Shallow Deletion	307.224	CDK1: Shallow Deletion
+TCGA-EW-A1PA-01	Shallow Deletion	538.524	CDK1: Shallow Deletion
+TCGA-EW-A2FS-01	Shallow Deletion	653.318	CDK1: Shallow Deletion
+TCGA-EW-A2FV-01	Shallow Deletion	1569.43	CDK1: Shallow Deletion
+TCGA-EW-A6S9-01	Shallow Deletion	632.505	CDK1: Shallow Deletion
+TCGA-EW-A6SD-01	Shallow Deletion	765.057	CDK1: Shallow Deletion
+TCGA-GI-A2C8-01	Shallow Deletion	52.5435	CDK1: Shallow Deletion
+TCGA-GM-A2DK-01	Shallow Deletion	637.999	CDK1: Shallow Deletion
+TCGA-GM-A3XL-01	Shallow Deletion	1687.78	CDK1: Shallow Deletion
+TCGA-HN-A2NL-01	Shallow Deletion	1771.61	CDK1: Shallow Deletion
+TCGA-JL-A3YX-01	Shallow Deletion	928.151	CDK1: Shallow Deletion
+TCGA-LL-A5YM-01	Shallow Deletion	387.212	CDK1: Shallow Deletion
+TCGA-LL-A5YP-01	Shallow Deletion	781.646	CDK1: Shallow Deletion
+TCGA-LL-A6FP-01	Shallow Deletion	120.968	CDK1: Shallow Deletion
+TCGA-LL-A8F5-01	Shallow Deletion	1292.76	CDK1: Shallow Deletion
+TCGA-OL-A66I-01	Shallow Deletion	1206.89	CDK1: Shallow Deletion
+TCGA-OL-A6VO-01	Shallow Deletion	1311.28	CDK1: Shallow Deletion
+TCGA-PE-A5DE-01	Shallow Deletion	441.928	CDK1: Shallow Deletion
+TCGA-PL-A8LX-01	Shallow Deletion	100.59	CDK1: Shallow Deletion
+TCGA-S3-A6ZG-01	Shallow Deletion	1185.01	CDK1: Shallow Deletion
+TCGA-S3-A6ZH-01	Shallow Deletion	671.758	CDK1: Shallow Deletion
+TCGA-3C-AALK-01	Diploid	625.983	CDK1: Diploid
+TCGA-4H-AAAK-01	Diploid	544.255	CDK1: Diploid
+TCGA-5L-AAT0-01	Diploid	247.544	CDK1: Diploid
+TCGA-A1-A0SB-01	Diploid	250.479	CDK1: Diploid
+TCGA-A1-A0SE-01	Diploid	787.824	CDK1: Diploid
+TCGA-A1-A0SG-01	Diploid	367.204	CDK1: Diploid
+TCGA-A1-A0SH-01	Diploid	260.03	CDK1: Diploid
+TCGA-A1-A0SI-01	Diploid	1328.72	CDK1: Diploid
+TCGA-A1-A0SK-01	Diploid	3303.5	CDK1: Diploid
+TCGA-A1-A0SM-01	Diploid	786.932	CDK1: Diploid
+TCGA-A1-A0SQ-01	Diploid	509.531	CDK1: Diploid
+TCGA-A2-A04N-01	Diploid	372.029	CDK1: Diploid
+TCGA-A2-A04P-01	Diploid	1539.94	CDK1: Diploid
+TCGA-A2-A04R-01	Diploid	1641.95	CDK1: Diploid
+TCGA-A2-A04V-01	Diploid	1014.46	CDK1: Diploid
+TCGA-A2-A04X-01	Diploid	1640.8	CDK1: Diploid
+TCGA-A2-A04Y-01	Diploid	2082.3	CDK1: Diploid
+TCGA-A2-A0CK-01	Diploid	467.475	CDK1: Diploid
+TCGA-A2-A0CP-01	Diploid	116.622	CDK1: Diploid
+TCGA-A2-A0CQ-01	Diploid	859.669	CDK1: Diploid
+TCGA-A2-A0CR-01	Diploid	302.753	CDK1: Diploid
+TCGA-A2-A0CV-01	Diploid	237.818	CDK1: Diploid
+TCGA-A2-A0CW-01	Diploid	1900.85	CDK1: Diploid
+TCGA-A2-A0CX-01	Diploid	1296.34	CDK1: Diploid
+TCGA-A2-A0D1-01	Diploid	866.863	CDK1: Diploid
+TCGA-A2-A0D3-01	Diploid	177.978	CDK1: Diploid
+TCGA-A2-A0EM-01	Diploid	569.957	CDK1: Diploid
+TCGA-A2-A0EN-01	Diploid	362.937	CDK1: Diploid
+TCGA-A2-A0EO-01	Diploid	392.037	CDK1: Diploid
+TCGA-A2-A0EP-01	Diploid	442.858	CDK1: Diploid
+TCGA-A2-A0ER-01	Diploid	1323.56	CDK1: Diploid
+TCGA-A2-A0ES-01	Diploid	286.431	CDK1: Diploid
+TCGA-A2-A0ET-01	Diploid	709.101	CDK1: Diploid
+TCGA-A2-A0EU-01	Diploid	942.471	CDK1: Diploid
+TCGA-A2-A0EW-01	Diploid	232.731	CDK1: Diploid
+TCGA-A2-A0EX-01	Diploid	267.075	CDK1: Diploid
+TCGA-A2-A0EY-01	Diploid	1012.07	CDK1: Diploid
+TCGA-A2-A0SU-01	Diploid	582.437	CDK1: Diploid
+TCGA-A2-A0SW-01	Diploid	1249.93	CDK1: Diploid
+TCGA-A2-A0SY-01	Diploid	608.014	CDK1: Diploid
+TCGA-A2-A0T4-01	Diploid	1294.78	CDK1: Diploid
+TCGA-A2-A0T5-01	Diploid	699.918	CDK1: Diploid
+TCGA-A2-A0T6-01	Diploid	189.541	CDK1: Diploid
+TCGA-A2-A0YC-01	Diploid	518.793	CDK1: Diploid
+TCGA-A2-A0YD-01	Diploid	392.624	CDK1: Diploid
+TCGA-A2-A0YF-01	Diploid	1329.17	CDK1: Diploid
+TCGA-A2-A0YH-01	Diploid	1106.52	CDK1: Diploid
+TCGA-A2-A0YI-01	Diploid	153.25	CDK1: Diploid
+TCGA-A2-A0YK-01	Diploid	334.123	CDK1: Diploid
+TCGA-A2-A0YL-01	Diploid	600.625	CDK1: Diploid
+TCGA-A2-A0YM-01	Diploid	1460.71	CDK1: Diploid
+TCGA-A2-A0YT-01	Diploid	1292.43	CDK1: Diploid
+TCGA-A2-A1FV-01	Diploid	602.907	CDK1: Diploid
+TCGA-A2-A1FZ-01	Diploid	522.962	CDK1: Diploid
+TCGA-A2-A1G0-01	Diploid	165.023	CDK1: Diploid
+TCGA-A2-A1G4-01	Diploid	886.057	CDK1: Diploid
+TCGA-A2-A1G6-01	Diploid	74.7165	CDK1: Diploid
+TCGA-A2-A259-01	Diploid	279.013	CDK1: Diploid
+TCGA-A2-A25A-01	Diploid	747.056	CDK1: Diploid
+TCGA-A2-A25C-01	Diploid	1586.46	CDK1: Diploid
+TCGA-A2-A25E-01	Diploid	1672.01	CDK1: Diploid
+TCGA-A2-A25F-01	Diploid	1035.28	CDK1: Diploid
+TCGA-A2-A3KD-01	Diploid	468.136	CDK1: Diploid
+TCGA-A2-A3XU-01	Diploid	1013.32	CDK1: Diploid
+TCGA-A2-A3XV-01	Diploid	658.495	CDK1: Diploid
+TCGA-A2-A3XW-01	Diploid	207.3	CDK1: Diploid
+TCGA-A2-A3XX-01	Diploid	1240.68	CDK1: Diploid
+TCGA-A2-A3XZ-01	Diploid	608.546	CDK1: Diploid
+TCGA-A2-A3Y0-01	Diploid	1958.3	CDK1: Diploid
+TCGA-A2-A4S2-01	Diploid	247.692	CDK1: Diploid
+TCGA-A2-A4S3-01	Diploid	2114.04	CDK1: Diploid
+TCGA-A7-A0CD-01	Diploid	495.346	CDK1: Diploid
+TCGA-A7-A0CE-01	Diploid	1306.21	CDK1: Diploid
+TCGA-A7-A0CG-01	Diploid	545.918	CDK1: Diploid
+TCGA-A7-A0CH-01	Diploid	414.759	CDK1: Diploid
+TCGA-A7-A0D9-01	Diploid	274.599	CDK1: Diploid
+TCGA-A7-A0DB-01	Diploid	623.814	CDK1: Diploid
+TCGA-A7-A13G-01	Diploid	302.415	CDK1: Diploid
+TCGA-A7-A26F-01	Diploid	1308.05	CDK1: Diploid
+TCGA-A7-A26H-01	Diploid	573.629	CDK1: Diploid
+TCGA-A7-A26J-01	Diploid	895.926	CDK1: Diploid
+TCGA-A7-A3RF-01	Diploid	284.038	CDK1: Diploid
+TCGA-A7-A425-01	Diploid	529.602	CDK1: Diploid
+TCGA-A7-A5ZW-01	Diploid	305.528	CDK1: Diploid
+TCGA-A7-A5ZX-01	Diploid	93.7084	CDK1: Diploid
+TCGA-A7-A6VW-01	Diploid	2429.26	CDK1: Diploid
+TCGA-A7-A6VY-01	Diploid	1511.59	CDK1: Diploid
+TCGA-A8-A06P-01	Diploid	222.406	CDK1: Diploid
+TCGA-A8-A06T-01	Diploid	585.308	CDK1: Diploid
+TCGA-A8-A06Y-01	Diploid	358.629	CDK1: Diploid
+TCGA-A8-A06Z-01	Diploid	1080.11	CDK1: Diploid
+TCGA-A8-A079-01	Diploid	1720.97	CDK1: Diploid
+TCGA-A8-A07B-01	Diploid	1383.77	CDK1: Diploid
+TCGA-A8-A07F-01	Diploid	587.8	CDK1: Diploid
+TCGA-A8-A07G-01	Diploid	326.58	CDK1: Diploid
+TCGA-A8-A07I-01	Diploid	948.076	CDK1: Diploid
+TCGA-A8-A07J-01	Diploid	220.357	CDK1: Diploid
+TCGA-A8-A07L-01	Diploid	2291.3	CDK1: Diploid
+TCGA-A8-A07O-01	Diploid	1669.86	CDK1: Diploid
+TCGA-A8-A07P-01	Diploid	995.508	CDK1: Diploid
+TCGA-A8-A07U-01	Diploid	1307.76	CDK1: Diploid
+TCGA-A8-A07W-01	Diploid	1264.16	CDK1: Diploid
+TCGA-A8-A081-01	Diploid	1782.31	CDK1: Diploid
+TCGA-A8-A082-01	Diploid	772.4	CDK1: Diploid
+TCGA-A8-A083-01	Diploid	570.13	CDK1: Diploid
+TCGA-A8-A085-01	Diploid	769.677	CDK1: Diploid
+TCGA-A8-A086-01	Diploid	914.759	CDK1: Diploid
+TCGA-A8-A08A-01	Diploid	368.688	CDK1: Diploid
+TCGA-A8-A08G-01	Diploid	911.426	CDK1: Diploid
+TCGA-A8-A08H-01	Diploid	533.69	CDK1: Diploid
+TCGA-A8-A08O-01	Diploid	891.388	CDK1: Diploid
+TCGA-A8-A08T-01	Diploid	404.992	CDK1: Diploid
+TCGA-A8-A08Z-01	Diploid	627.611	CDK1: Diploid
+TCGA-A8-A090-01	Diploid	949.638	CDK1: Diploid
+TCGA-A8-A091-01	Diploid	417.625	CDK1: Diploid
+TCGA-A8-A093-01	Diploid	480.366	CDK1: Diploid
+TCGA-A8-A095-01	Diploid	1583.8	CDK1: Diploid
+TCGA-A8-A096-01	Diploid	577.011	CDK1: Diploid
+TCGA-A8-A099-01	Diploid	417.887	CDK1: Diploid
+TCGA-A8-A09C-01	Diploid	894.798	CDK1: Diploid
+TCGA-A8-A09D-01	Diploid	1037.29	CDK1: Diploid
+TCGA-A8-A09G-01	Diploid	1284.97	CDK1: Diploid
+TCGA-A8-A09M-01	Diploid	872.41	CDK1: Diploid
+TCGA-A8-A09N-01	Diploid	1603.75	CDK1: Diploid
+TCGA-A8-A09T-01	Diploid	860.063	CDK1: Diploid
+TCGA-A8-A09V-01	Diploid	570.8	CDK1: Diploid
+TCGA-A8-A09W-01	Diploid	2472.38	CDK1: Diploid
+TCGA-A8-A09Z-01	Diploid	440.043	CDK1: Diploid
+TCGA-A8-A0A1-01	Diploid	566.265	CDK1: Diploid
+TCGA-A8-A0A2-01	Diploid	407.67	CDK1: Diploid
+TCGA-A8-A0A4-01	Diploid	572.348	CDK1: Diploid
+TCGA-A8-A0A7-01	Diploid	1506.48	CDK1: Diploid
+TCGA-A8-A0A9-01	Diploid	558.289	CDK1: Diploid
+TCGA-AC-A2B8-01	Diploid	282.943	CDK1: Diploid
+TCGA-AC-A2BK-01	Diploid	1716.02	CDK1: Diploid
+TCGA-AC-A2BM-01	Diploid	1502.5	CDK1: Diploid
+TCGA-AC-A2FB-01	Diploid	456.115	CDK1: Diploid
+TCGA-AC-A2FF-01	Diploid	534.944	CDK1: Diploid
+TCGA-AC-A2FG-01	Diploid	195.647	CDK1: Diploid
+TCGA-AC-A2FK-01	Diploid	70.2534	CDK1: Diploid
+TCGA-AC-A2FO-01	Diploid	415.05	CDK1: Diploid
+TCGA-AC-A3HN-01	Diploid	441.902	CDK1: Diploid
+TCGA-AC-A3OD-01	Diploid	627.125	CDK1: Diploid
+TCGA-AC-A3QP-01	Diploid	180.359	CDK1: Diploid
+TCGA-AC-A3QQ-01	Diploid	618.953	CDK1: Diploid
+TCGA-AC-A3W5-01	Diploid	955.985	CDK1: Diploid
+TCGA-AC-A3YI-01	Diploid	171.075	CDK1: Diploid
+TCGA-AC-A3YJ-01	Diploid	465.73	CDK1: Diploid
+TCGA-AC-A4ZE-01	Diploid	681.295	CDK1: Diploid
+TCGA-AC-A5EH-01	Diploid	978.557	CDK1: Diploid
+TCGA-AC-A5XS-01	Diploid	833.395	CDK1: Diploid
+TCGA-AC-A6IV-01	Diploid	437.467	CDK1: Diploid
+TCGA-AC-A6IX-01	Diploid	438.976	CDK1: Diploid
+TCGA-AC-A6NO-01	Diploid	726.769	CDK1: Diploid
+TCGA-AC-A7VB-01	Diploid	1424.35	CDK1: Diploid
+TCGA-AC-A8OP-01	Diploid	957.173	CDK1: Diploid
+TCGA-AC-A8OR-01	Diploid	223.814	CDK1: Diploid
+TCGA-AC-A8OS-01	Diploid	394.644	CDK1: Diploid
+TCGA-AN-A03X-01	Diploid	230.904	CDK1: Diploid
+TCGA-AN-A03Y-01	Diploid	1200.43	CDK1: Diploid
+TCGA-AN-A041-01	Diploid	536.521	CDK1: Diploid
+TCGA-AN-A046-01	Diploid	408.936	CDK1: Diploid
+TCGA-AN-A049-01	Diploid	913.211	CDK1: Diploid
+TCGA-AN-A04A-01	Diploid	456.933	CDK1: Diploid
+TCGA-AN-A04D-01	Diploid	2435.07	CDK1: Diploid
+TCGA-AN-A0AL-01	Diploid	1559.18	CDK1: Diploid
+TCGA-AN-A0AM-01	Diploid	1088.22	CDK1: Diploid
+TCGA-AN-A0FD-01	Diploid	979.304	CDK1: Diploid
+TCGA-AN-A0FF-01	Diploid	1229.04	CDK1: Diploid
+TCGA-AN-A0FJ-01	Diploid	1566.63	CDK1: Diploid
+TCGA-AN-A0FK-01	Diploid	719.084	CDK1: Diploid
+TCGA-AN-A0FL-01	Diploid	844.311	CDK1: Diploid
+TCGA-AN-A0FN-01	Diploid	494.263	CDK1: Diploid
+TCGA-AN-A0FS-01	Diploid	424.171	CDK1: Diploid
+TCGA-AN-A0FT-01	Diploid	708.265	CDK1: Diploid
+TCGA-AN-A0FX-01	Diploid	959.809	CDK1: Diploid
+TCGA-AN-A0FY-01	Diploid	1635.6	CDK1: Diploid
+TCGA-AN-A0XL-01	Diploid	554.664	CDK1: Diploid
+TCGA-AN-A0XN-01	Diploid	506.6	CDK1: Diploid
+TCGA-AN-A0XO-01	Diploid	567.977	CDK1: Diploid
+TCGA-AN-A0XR-01	Diploid	1434.06	CDK1: Diploid
+TCGA-AN-A0XT-01	Diploid	390.423	CDK1: Diploid
+TCGA-AN-A0XV-01	Diploid	761.506	CDK1: Diploid
+TCGA-AN-A0XW-01	Diploid	1583.35	CDK1: Diploid
+TCGA-AO-A03L-01	Diploid	1507.07	CDK1: Diploid
+TCGA-AO-A03R-01	Diploid	2500.42	CDK1: Diploid
+TCGA-AO-A03T-01	Diploid	1134.85	CDK1: Diploid
+TCGA-AO-A0J4-01	Diploid	968.708	CDK1: Diploid
+TCGA-AO-A0J5-01	Diploid	398.654	CDK1: Diploid
+TCGA-AO-A0J6-01	Diploid	1225.76	CDK1: Diploid
+TCGA-AO-A0J7-01	Diploid	1786.97	CDK1: Diploid
+TCGA-AO-A0J8-01	Diploid	343.458	CDK1: Diploid
+TCGA-AO-A0JB-01	Diploid	816.689	CDK1: Diploid
+TCGA-AO-A0JC-01	Diploid	593.257	CDK1: Diploid
+TCGA-AO-A0JE-01	Diploid	677.079	CDK1: Diploid
+TCGA-AO-A0JF-01	Diploid	425.826	CDK1: Diploid
+TCGA-AO-A0JG-01	Diploid	129.437	CDK1: Diploid
+TCGA-AO-A0JI-01	Diploid	1115.87	CDK1: Diploid
+TCGA-AO-A0JJ-01	Diploid	796.543	CDK1: Diploid
+TCGA-AO-A0JM-01	Diploid	1044.66	CDK1: Diploid
+TCGA-AO-A125-01	Diploid	591.887	CDK1: Diploid
+TCGA-AO-A126-01	Diploid	528.518	CDK1: Diploid
+TCGA-AO-A129-01	Diploid	1700.77	CDK1: Diploid
+TCGA-AO-A12B-01	Diploid	640.237	CDK1: Diploid
+TCGA-AO-A12D-01	Diploid	921.302	CDK1: Diploid
+TCGA-AO-A12E-01	Diploid	895.355	CDK1: Diploid
+TCGA-AO-A12G-01	Diploid	679.2	CDK1: Diploid
+TCGA-AO-A12H-01	Diploid	1007.07	CDK1: Diploid
+TCGA-AO-A1KO-01	Diploid	92.6731	CDK1: Diploid
+TCGA-AO-A1KP-01	Diploid	1616.4	CDK1: Diploid
+TCGA-AO-A1KT-01	Diploid	1281.72	CDK1: Diploid
+TCGA-AQ-A04H-01	Diploid	1129.3	CDK1: Diploid
+TCGA-AQ-A0Y5-01	Diploid	293.707	CDK1: Diploid
+TCGA-AQ-A1H2-01	Diploid	208.48	CDK1: Diploid
+TCGA-AQ-A1H3-01	Diploid	554.995	CDK1: Diploid
+TCGA-AR-A0TP-01	Diploid	1424.69	CDK1: Diploid
+TCGA-AR-A0TQ-01	Diploid	2058.84	CDK1: Diploid
+TCGA-AR-A0TV-01	Diploid	1422.2	CDK1: Diploid
+TCGA-AR-A0TX-01	Diploid	983.08	CDK1: Diploid
+TCGA-AR-A0TY-01	Diploid	2071.59	CDK1: Diploid
+TCGA-AR-A0TZ-01	Diploid	1357.26	CDK1: Diploid
+TCGA-AR-A0U0-01	Diploid	1150.29	CDK1: Diploid
+TCGA-AR-A0U1-01	Diploid	1513.47	CDK1: Diploid
+TCGA-AR-A0U3-01	Diploid	1969.77	CDK1: Diploid
+TCGA-AR-A1AH-01	Diploid	2215.5	CDK1: Diploid
+TCGA-AR-A1AI-01	Diploid	1349.56	CDK1: Diploid
+TCGA-AR-A1AK-01	Diploid	428.628	CDK1: Diploid
+TCGA-AR-A1AL-01	Diploid	551.911	CDK1: Diploid
+TCGA-AR-A1AN-01	Diploid	415.169	CDK1: Diploid
+TCGA-AR-A1AO-01	Diploid	426.776	CDK1: Diploid
+TCGA-AR-A1AP-01	Diploid	609.087	CDK1: Diploid
+TCGA-AR-A1AR-01	Diploid	2737.27	CDK1: Diploid
+TCGA-AR-A1AS-01	Diploid	546.15	CDK1: Diploid
+TCGA-AR-A1AU-01	Diploid	589.868	CDK1: Diploid
+TCGA-AR-A1AV-01	Diploid	449.377	CDK1: Diploid
+TCGA-AR-A1AX-01	Diploid	663.894	CDK1: Diploid
+TCGA-AR-A24M-01	Diploid	412.998	CDK1: Diploid
+TCGA-AR-A24N-01	Diploid	1161.84	CDK1: Diploid
+TCGA-AR-A24O-01	Diploid	820.774	CDK1: Diploid
+TCGA-AR-A24P-01	Diploid	908.723	CDK1: Diploid
+TCGA-AR-A24Q-01	Diploid	1097.23	CDK1: Diploid
+TCGA-AR-A24T-01	Diploid	216.765	CDK1: Diploid
+TCGA-AR-A24X-01	Diploid	628.214	CDK1: Diploid
+TCGA-AR-A24Z-01	Diploid	1166.53	CDK1: Diploid
+TCGA-AR-A251-01	Diploid	1785.59	CDK1: Diploid
+TCGA-AR-A252-01	Diploid	490.074	CDK1: Diploid
+TCGA-AR-A255-01	Diploid	963.997	CDK1: Diploid
+TCGA-AR-A2LE-01	Diploid	384.731	CDK1: Diploid
+TCGA-AR-A2LH-01	Diploid	809.148	CDK1: Diploid
+TCGA-AR-A2LM-01	Diploid	370.996	CDK1: Diploid
+TCGA-AR-A2LN-01	Diploid	128.494	CDK1: Diploid
+TCGA-AR-A2LQ-01	Diploid	307.022	CDK1: Diploid
+TCGA-AR-A5QM-01	Diploid	462.988	CDK1: Diploid
+TCGA-AR-A5QN-01	Diploid	523.781	CDK1: Diploid
+TCGA-AR-A5QP-01	Diploid	592.221	CDK1: Diploid
+TCGA-B6-A0I1-01	Diploid	1242.16	CDK1: Diploid
+TCGA-B6-A0I2-01	Diploid	873.957	CDK1: Diploid
+TCGA-B6-A0I5-01	Diploid	575.062	CDK1: Diploid
+TCGA-B6-A0I9-01	Diploid	1732.95	CDK1: Diploid
+TCGA-B6-A0IA-01	Diploid	1577.01	CDK1: Diploid
+TCGA-B6-A0IC-01	Diploid	603.891	CDK1: Diploid
+TCGA-B6-A0IG-01	Diploid	1256.61	CDK1: Diploid
+TCGA-B6-A0IM-01	Diploid	826.898	CDK1: Diploid
+TCGA-B6-A0IN-01	Diploid	670.046	CDK1: Diploid
+TCGA-B6-A0IP-01	Diploid	754.047	CDK1: Diploid
+TCGA-B6-A0RG-01	Diploid	852.662	CDK1: Diploid
+TCGA-B6-A0RH-01	Diploid	1288.86	CDK1: Diploid
+TCGA-B6-A0RI-01	Diploid	920.026	CDK1: Diploid
+TCGA-B6-A0RM-01	Diploid	696.076	CDK1: Diploid
+TCGA-B6-A0RN-01	Diploid	231.115	CDK1: Diploid
+TCGA-B6-A0RP-01	Diploid	203.346	CDK1: Diploid
+TCGA-B6-A0RQ-01	Diploid	98.758	CDK1: Diploid
+TCGA-B6-A0RT-01	Diploid	988.714	CDK1: Diploid
+TCGA-B6-A0RV-01	Diploid	737.097	CDK1: Diploid
+TCGA-B6-A0WS-01	Diploid	431.655	CDK1: Diploid
+TCGA-B6-A0WT-01	Diploid	599.751	CDK1: Diploid
+TCGA-B6-A0WW-01	Diploid	989.211	CDK1: Diploid
+TCGA-B6-A0WX-01	Diploid	1011.03	CDK1: Diploid
+TCGA-B6-A0WY-01	Diploid	423.816	CDK1: Diploid
+TCGA-B6-A0WZ-01	Diploid	707.99	CDK1: Diploid
+TCGA-B6-A0X0-01	Diploid	420.894	CDK1: Diploid
+TCGA-B6-A0X1-01	Diploid	1628.48	CDK1: Diploid
+TCGA-B6-A0X4-01	Diploid	274.498	CDK1: Diploid
+TCGA-B6-A0X5-01	Diploid	2343.07	CDK1: Diploid
+TCGA-B6-A0X7-01	Diploid	295.228	CDK1: Diploid
+TCGA-B6-A1KF-01	Diploid	2205.75	CDK1: Diploid
+TCGA-B6-A2IU-01	Diploid	1073.33	CDK1: Diploid
+TCGA-B6-A401-01	Diploid	456.038	CDK1: Diploid
+TCGA-B6-A40B-01	Diploid	800.84	CDK1: Diploid
+TCGA-B6-A40C-01	Diploid	846.481	CDK1: Diploid
+TCGA-BH-A0AW-01	Diploid	1471.42	CDK1: Diploid
+TCGA-BH-A0AZ-01	Diploid	422.616	CDK1: Diploid
+TCGA-BH-A0B0-01	Diploid	598.926	CDK1: Diploid
+TCGA-BH-A0B4-01	Diploid	1006.53	CDK1: Diploid
+TCGA-BH-A0B5-01	Diploid	1846.9	CDK1: Diploid
+TCGA-BH-A0B7-01	Diploid	748.749	CDK1: Diploid
+TCGA-BH-A0B9-01	Diploid	1718.54	CDK1: Diploid
+TCGA-BH-A0BC-01	Diploid	919.085	CDK1: Diploid
+TCGA-BH-A0BD-01	Diploid	1454.55	CDK1: Diploid
+TCGA-BH-A0BF-01	Diploid	868.728	CDK1: Diploid
+TCGA-BH-A0BG-01	Diploid	835.023	CDK1: Diploid
+TCGA-BH-A0BM-01	Diploid	123.567	CDK1: Diploid
+TCGA-BH-A0BO-01	Diploid	164.393	CDK1: Diploid
+TCGA-BH-A0BP-01	Diploid	410.231	CDK1: Diploid
+TCGA-BH-A0BQ-01	Diploid	398.056	CDK1: Diploid
+TCGA-BH-A0BS-01	Diploid	776.504	CDK1: Diploid
+TCGA-BH-A0BW-01	Diploid	1077.38	CDK1: Diploid
+TCGA-BH-A0C3-01	Diploid	576.142	CDK1: Diploid
+TCGA-BH-A0C7-01	Diploid	4019.02	CDK1: Diploid
+TCGA-BH-A0DD-01	Diploid	2315.13	CDK1: Diploid
+TCGA-BH-A0DE-01	Diploid	375.686	CDK1: Diploid
+TCGA-BH-A0DG-01	Diploid	504.038	CDK1: Diploid
+TCGA-BH-A0DH-01	Diploid	683.478	CDK1: Diploid
+TCGA-BH-A0DI-01	Diploid	234.037	CDK1: Diploid
+TCGA-BH-A0DK-01	Diploid	631.863	CDK1: Diploid
+TCGA-BH-A0DL-01	Diploid	1100.99	CDK1: Diploid
+TCGA-BH-A0DO-01	Diploid	210.738	CDK1: Diploid
+TCGA-BH-A0DP-01	Diploid	491.213	CDK1: Diploid
+TCGA-BH-A0DQ-01	Diploid	873.314	CDK1: Diploid
+TCGA-BH-A0DV-01	Diploid	196.712	CDK1: Diploid
+TCGA-BH-A0DX-01	Diploid	816.896	CDK1: Diploid
+TCGA-BH-A0DZ-01	Diploid	1768.64	CDK1: Diploid
+TCGA-BH-A0E0-01	Diploid	1400.37	CDK1: Diploid
+TCGA-BH-A0E1-01	Diploid	1736.54	CDK1: Diploid
+TCGA-BH-A0E2-01	Diploid	2264.91	CDK1: Diploid
+TCGA-BH-A0E9-01	Diploid	515.615	CDK1: Diploid
+TCGA-BH-A0EI-01	Diploid	470.066	CDK1: Diploid
+TCGA-BH-A0GY-01	Diploid	781.785	CDK1: Diploid
+TCGA-BH-A0GZ-01	Diploid	1248.02	CDK1: Diploid
+TCGA-BH-A0H0-01	Diploid	1467.54	CDK1: Diploid
+TCGA-BH-A0H3-01	Diploid	236.205	CDK1: Diploid
+TCGA-BH-A0H5-01	Diploid	393.251	CDK1: Diploid
+TCGA-BH-A0H6-01	Diploid	309.813	CDK1: Diploid
+TCGA-BH-A0HB-01	Diploid	1517.46	CDK1: Diploid
+TCGA-BH-A0HI-01	Diploid	446.593	CDK1: Diploid
+TCGA-BH-A0HK-01	Diploid	522.129	CDK1: Diploid
+TCGA-BH-A0HO-01	Diploid	711.256	CDK1: Diploid
+TCGA-BH-A0HQ-01	Diploid	367.547	CDK1: Diploid
+TCGA-BH-A0HX-01	Diploid	792.298	CDK1: Diploid
+TCGA-BH-A0W3-01	Diploid	1710.14	CDK1: Diploid
+TCGA-BH-A0W4-01	Diploid	645.915	CDK1: Diploid
+TCGA-BH-A0W5-01	Diploid	374.901	CDK1: Diploid
+TCGA-BH-A0W7-01	Diploid	882.98	CDK1: Diploid
+TCGA-BH-A18F-01	Diploid	1560.22	CDK1: Diploid
+TCGA-BH-A18G-01	Diploid	1100	CDK1: Diploid
+TCGA-BH-A18J-01	Diploid	839.412	CDK1: Diploid
+TCGA-BH-A18K-01	Diploid	1165.12	CDK1: Diploid
+TCGA-BH-A18M-01	Diploid	543.622	CDK1: Diploid
+TCGA-BH-A18N-01	Diploid	322.924	CDK1: Diploid
+TCGA-BH-A18P-01	Diploid	1050.63	CDK1: Diploid
+TCGA-BH-A18Q-01	Diploid	1504.18	CDK1: Diploid
+TCGA-BH-A18R-01	Diploid	1826.15	CDK1: Diploid
+TCGA-BH-A18S-01	Diploid	202.812	CDK1: Diploid
+TCGA-BH-A1ET-01	Diploid	243.69	CDK1: Diploid
+TCGA-BH-A1EW-01	Diploid	764.917	CDK1: Diploid
+TCGA-BH-A1EX-01	Diploid	375.376	CDK1: Diploid
+TCGA-BH-A1F0-01	Diploid	921.174	CDK1: Diploid
+TCGA-BH-A1F2-01	Diploid	2043.43	CDK1: Diploid
+TCGA-BH-A1F5-01	Diploid	660.28	CDK1: Diploid
+TCGA-BH-A1F8-01	Diploid	1946.18	CDK1: Diploid
+TCGA-BH-A1FD-01	Diploid	1110.21	CDK1: Diploid
+TCGA-BH-A1FE-01	Diploid	1008.15	CDK1: Diploid
+TCGA-BH-A1FG-01	Diploid	532.775	CDK1: Diploid
+TCGA-BH-A1FJ-01	Diploid	1656.55	CDK1: Diploid
+TCGA-BH-A1FL-01	Diploid	680.647	CDK1: Diploid
+TCGA-BH-A1FR-01	Diploid	823.299	CDK1: Diploid
+TCGA-BH-A1FU-01	Diploid	885.665	CDK1: Diploid
+TCGA-BH-A201-01	Diploid	698.427	CDK1: Diploid
+TCGA-BH-A203-01	Diploid	2839.58	CDK1: Diploid
+TCGA-BH-A204-01	Diploid	1890.82	CDK1: Diploid
+TCGA-BH-A209-01	Diploid	1712.05	CDK1: Diploid
+TCGA-BH-A28Q-01	Diploid	379.494	CDK1: Diploid
+TCGA-BH-A2L8-01	Diploid	805.114	CDK1: Diploid
+TCGA-BH-A42U-01	Diploid	180.548	CDK1: Diploid
+TCGA-BH-A42V-01	Diploid	216.562	CDK1: Diploid
+TCGA-BH-A5IZ-01	Diploid	1636.14	CDK1: Diploid
+TCGA-BH-A5J0-01	Diploid	664.504	CDK1: Diploid
+TCGA-BH-A6R8-01	Diploid	313.928	CDK1: Diploid
+TCGA-BH-A6R9-01	Diploid	350.163	CDK1: Diploid
+TCGA-BH-A8FY-01	Diploid	951.324	CDK1: Diploid
+TCGA-BH-A8FZ-01	Diploid	308.306	CDK1: Diploid
+TCGA-BH-A8G0-01	Diploid	130.468	CDK1: Diploid
+TCGA-BH-AB28-01	Diploid	411.319	CDK1: Diploid
+TCGA-C8-A12K-01	Diploid	1849.48	CDK1: Diploid
+TCGA-C8-A12N-01	Diploid	341.026	CDK1: Diploid
+TCGA-C8-A12Q-01	Diploid	599.448	CDK1: Diploid
+TCGA-C8-A12V-01	Diploid	518.248	CDK1: Diploid
+TCGA-C8-A12X-01	Diploid	431.655	CDK1: Diploid
+TCGA-C8-A12Y-01	Diploid	560.895	CDK1: Diploid
+TCGA-C8-A12Z-01	Diploid	1474.62	CDK1: Diploid
+TCGA-C8-A131-01	Diploid	1538.02	CDK1: Diploid
+TCGA-C8-A133-01	Diploid	296.279	CDK1: Diploid
+TCGA-C8-A134-01	Diploid	2399.2	CDK1: Diploid
+TCGA-C8-A135-01	Diploid	1411.52	CDK1: Diploid
+TCGA-C8-A137-01	Diploid	1643.12	CDK1: Diploid
+TCGA-C8-A1HE-01	Diploid	504.253	CDK1: Diploid
+TCGA-C8-A1HF-01	Diploid	2736.26	CDK1: Diploid
+TCGA-C8-A1HG-01	Diploid	1885.63	CDK1: Diploid
+TCGA-C8-A1HL-01	Diploid	2556.01	CDK1: Diploid
+TCGA-C8-A1HO-01	Diploid	775.139	CDK1: Diploid
+TCGA-C8-A26W-01	Diploid	2316.17	CDK1: Diploid
+TCGA-C8-A26Z-01	Diploid	773.585	CDK1: Diploid
+TCGA-C8-A273-01	Diploid	857.017	CDK1: Diploid
+TCGA-C8-A275-01	Diploid	3253.9	CDK1: Diploid
+TCGA-C8-A278-01	Diploid	1574.54	CDK1: Diploid
+TCGA-C8-A27B-01	Diploid	2192.9	CDK1: Diploid
+TCGA-C8-A3M7-01	Diploid	765.092	CDK1: Diploid
+TCGA-C8-A3M8-01	Diploid	617.333	CDK1: Diploid
+TCGA-C8-A8HQ-01	Diploid	1580.34	CDK1: Diploid
+TCGA-C8-A8HR-01	Diploid	852.123	CDK1: Diploid
+TCGA-D8-A13Y-01	Diploid	3106.95	CDK1: Diploid
+TCGA-D8-A140-01	Diploid	712.323	CDK1: Diploid
+TCGA-D8-A141-01	Diploid	335.262	CDK1: Diploid
+TCGA-D8-A143-01	Diploid	1839.63	CDK1: Diploid
+TCGA-D8-A145-01	Diploid	287.732	CDK1: Diploid
+TCGA-D8-A1JA-01	Diploid	697.725	CDK1: Diploid
+TCGA-D8-A1JC-01	Diploid	1508.08	CDK1: Diploid
+TCGA-D8-A1JH-01	Diploid	251.322	CDK1: Diploid
+TCGA-D8-A1JI-01	Diploid	574.061	CDK1: Diploid
+TCGA-D8-A1JJ-01	Diploid	1405.4	CDK1: Diploid
+TCGA-D8-A1JL-01	Diploid	1252.34	CDK1: Diploid
+TCGA-D8-A1JM-01	Diploid	3008.21	CDK1: Diploid
+TCGA-D8-A1JN-01	Diploid	167.886	CDK1: Diploid
+TCGA-D8-A1JP-01	Diploid	1118.16	CDK1: Diploid
+TCGA-D8-A1JS-01	Diploid	264.943	CDK1: Diploid
+TCGA-D8-A1JT-01	Diploid	1277.55	CDK1: Diploid
+TCGA-D8-A1JU-01	Diploid	88.4099	CDK1: Diploid
+TCGA-D8-A1X6-01	Diploid	979.917	CDK1: Diploid
+TCGA-D8-A1X7-01	Diploid	461.549	CDK1: Diploid
+TCGA-D8-A1X8-01	Diploid	654.412	CDK1: Diploid
+TCGA-D8-A1X9-01	Diploid	688.504	CDK1: Diploid
+TCGA-D8-A1XA-01	Diploid	634.483	CDK1: Diploid
+TCGA-D8-A1XC-01	Diploid	404.783	CDK1: Diploid
+TCGA-D8-A1XG-01	Diploid	502.808	CDK1: Diploid
+TCGA-D8-A1XK-01	Diploid	2886.43	CDK1: Diploid
+TCGA-D8-A1XL-01	Diploid	1111.61	CDK1: Diploid
+TCGA-D8-A1XM-01	Diploid	627.637	CDK1: Diploid
+TCGA-D8-A1XO-01	Diploid	412.909	CDK1: Diploid
+TCGA-D8-A1XR-01	Diploid	929.558	CDK1: Diploid
+TCGA-D8-A1XS-01	Diploid	1178.73	CDK1: Diploid
+TCGA-D8-A1XT-01	Diploid	905.615	CDK1: Diploid
+TCGA-D8-A1XW-01	Diploid	602.513	CDK1: Diploid
+TCGA-D8-A1XY-01	Diploid	153.338	CDK1: Diploid
+TCGA-D8-A1Y0-01	Diploid	1342.73	CDK1: Diploid
+TCGA-D8-A1Y1-01	Diploid	1266.06	CDK1: Diploid
+TCGA-D8-A1Y2-01	Diploid	461.464	CDK1: Diploid
+TCGA-D8-A1Y3-01	Diploid	1369.94	CDK1: Diploid
+TCGA-D8-A27E-01	Diploid	117.774	CDK1: Diploid
+TCGA-D8-A27G-01	Diploid	786.015	CDK1: Diploid
+TCGA-D8-A27K-01	Diploid	511.234	CDK1: Diploid
+TCGA-D8-A27L-01	Diploid	561.874	CDK1: Diploid
+TCGA-D8-A27M-01	Diploid	941.81	CDK1: Diploid
+TCGA-D8-A27N-01	Diploid	687.246	CDK1: Diploid
+TCGA-D8-A27P-01	Diploid	326.635	CDK1: Diploid
+TCGA-D8-A27R-01	Diploid	1073.66	CDK1: Diploid
+TCGA-D8-A27V-01	Diploid	347.106	CDK1: Diploid
+TCGA-D8-A27W-01	Diploid	923.436	CDK1: Diploid
+TCGA-D8-A4Z1-01	Diploid	157.061	CDK1: Diploid
+TCGA-D8-A73U-01	Diploid	129.41	CDK1: Diploid
+TCGA-D8-A73W-01	Diploid	405.518	CDK1: Diploid
+TCGA-D8-A73X-01	Diploid	401.83	CDK1: Diploid
+TCGA-E2-A105-01	Diploid	831.09	CDK1: Diploid
+TCGA-E2-A108-01	Diploid	795.86	CDK1: Diploid
+TCGA-E2-A109-01	Diploid	1574.13	CDK1: Diploid
+TCGA-E2-A10A-01	Diploid	1408.24	CDK1: Diploid
+TCGA-E2-A10B-01	Diploid	751.351	CDK1: Diploid
+TCGA-E2-A10F-01	Diploid	619.744	CDK1: Diploid
+TCGA-E2-A14P-01	Diploid	1303.96	CDK1: Diploid
+TCGA-E2-A14Q-01	Diploid	621.308	CDK1: Diploid
+TCGA-E2-A14V-01	Diploid	2994.97	CDK1: Diploid
+TCGA-E2-A14W-01	Diploid	1407.76	CDK1: Diploid
+TCGA-E2-A14X-01	Diploid	733.945	CDK1: Diploid
+TCGA-E2-A153-01	Diploid	240.823	CDK1: Diploid
+TCGA-E2-A155-01	Diploid	1391.65	CDK1: Diploid
+TCGA-E2-A156-01	Diploid	485.284	CDK1: Diploid
+TCGA-E2-A158-01	Diploid	932.225	CDK1: Diploid
+TCGA-E2-A15A-01	Diploid	1166.76	CDK1: Diploid
+TCGA-E2-A15C-01	Diploid	235.6	CDK1: Diploid
+TCGA-E2-A15D-01	Diploid	265.149	CDK1: Diploid
+TCGA-E2-A15E-01	Diploid	372.976	CDK1: Diploid
+TCGA-E2-A15H-01	Diploid	909.054	CDK1: Diploid
+TCGA-E2-A15I-01	Diploid	336.644	CDK1: Diploid
+TCGA-E2-A15J-01	Diploid	641.343	CDK1: Diploid
+TCGA-E2-A15K-01	Diploid	1226.68	CDK1: Diploid
+TCGA-E2-A15L-01	Diploid	1231.04	CDK1: Diploid
+TCGA-E2-A15M-01	Diploid	1544.14	CDK1: Diploid
+TCGA-E2-A15O-01	Diploid	939.94	CDK1: Diploid
+TCGA-E2-A15R-01	Diploid	1209.27	CDK1: Diploid
+TCGA-E2-A15T-01	Diploid	983.139	CDK1: Diploid
+TCGA-E2-A1B0-01	Diploid	908.652	CDK1: Diploid
+TCGA-E2-A1B1-01	Diploid	716.405	CDK1: Diploid
+TCGA-E2-A1B4-01	Diploid	166.81	CDK1: Diploid
+TCGA-E2-A1B5-01	Diploid	392.659	CDK1: Diploid
+TCGA-E2-A1B6-01	Diploid	1305.22	CDK1: Diploid
+TCGA-E2-A1BC-01	Diploid	182.975	CDK1: Diploid
+TCGA-E2-A1BD-01	Diploid	666.583	CDK1: Diploid
+TCGA-E2-A1IF-01	Diploid	631.512	CDK1: Diploid
+TCGA-E2-A1IG-01	Diploid	376.776	CDK1: Diploid
+TCGA-E2-A1IH-01	Diploid	962.677	CDK1: Diploid
+TCGA-E2-A1II-01	Diploid	1486.97	CDK1: Diploid
+TCGA-E2-A1IJ-01	Diploid	298.651	CDK1: Diploid
+TCGA-E2-A1IK-01	Diploid	455	CDK1: Diploid
+TCGA-E2-A1IL-01	Diploid	154.534	CDK1: Diploid
+TCGA-E2-A1IO-01	Diploid	543.568	CDK1: Diploid
+TCGA-E2-A1IU-01	Diploid	409.455	CDK1: Diploid
+TCGA-E2-A1L6-01	Diploid	768.524	CDK1: Diploid
+TCGA-E2-A1L7-01	Diploid	2782.97	CDK1: Diploid
+TCGA-E2-A1L8-01	Diploid	707.557	CDK1: Diploid
+TCGA-E2-A1L9-01	Diploid	541.633	CDK1: Diploid
+TCGA-E2-A1LB-01	Diploid	761.092	CDK1: Diploid
+TCGA-E2-A1LL-01	Diploid	1833.89	CDK1: Diploid
+TCGA-E2-A2P6-01	Diploid	1115	CDK1: Diploid
+TCGA-E2-A570-01	Diploid	861.423	CDK1: Diploid
+TCGA-E2-A573-01	Diploid	3078.97	CDK1: Diploid
+TCGA-E2-A576-01	Diploid	1047.66	CDK1: Diploid
+TCGA-E2-A9RU-01	Diploid	1928.22	CDK1: Diploid
+TCGA-E9-A1N3-01	Diploid	752.085	CDK1: Diploid
+TCGA-E9-A1N4-01	Diploid	830.47	CDK1: Diploid
+TCGA-E9-A1N8-01	Diploid	780.648	CDK1: Diploid
+TCGA-E9-A1NA-01	Diploid	693.259	CDK1: Diploid
+TCGA-E9-A1NC-01	Diploid	1116.99	CDK1: Diploid
+TCGA-E9-A1NE-01	Diploid	996.396	CDK1: Diploid
+TCGA-E9-A1NG-01	Diploid	295.676	CDK1: Diploid
+TCGA-E9-A1NH-01	Diploid	398.032	CDK1: Diploid
+TCGA-E9-A1QZ-01	Diploid	823.034	CDK1: Diploid
+TCGA-E9-A1R0-01	Diploid	776.641	CDK1: Diploid
+TCGA-E9-A1R2-01	Diploid	561.178	CDK1: Diploid
+TCGA-E9-A1R4-01	Diploid	788.469	CDK1: Diploid
+TCGA-E9-A1R5-01	Diploid	343.747	CDK1: Diploid
+TCGA-E9-A1R6-01	Diploid	635.24	CDK1: Diploid
+TCGA-E9-A1RA-01	Diploid	799.435	CDK1: Diploid
+TCGA-E9-A1RD-01	Diploid	545.186	CDK1: Diploid
+TCGA-E9-A1RE-01	Diploid	1243.29	CDK1: Diploid
+TCGA-E9-A1RI-01	Diploid	358.142	CDK1: Diploid
+TCGA-E9-A227-01	Diploid	739.021	CDK1: Diploid
+TCGA-E9-A228-01	Diploid	1805.09	CDK1: Diploid
+TCGA-E9-A229-01	Diploid	648.433	CDK1: Diploid
+TCGA-E9-A22A-01	Diploid	1646.02	CDK1: Diploid
+TCGA-E9-A22G-01	Diploid	3073.62	CDK1: Diploid
+TCGA-E9-A22H-01	Diploid	1511.44	CDK1: Diploid
+TCGA-E9-A243-01	Diploid	1044.57	CDK1: Diploid
+TCGA-E9-A245-01	Diploid	539.873	CDK1: Diploid
+TCGA-E9-A249-01	Diploid	1585.02	CDK1: Diploid
+TCGA-E9-A24A-01	Diploid	547.091	CDK1: Diploid
+TCGA-E9-A2JT-01	Diploid	470.963	CDK1: Diploid
+TCGA-E9-A3HO-01	Diploid	1522.89	CDK1: Diploid
+TCGA-E9-A3QA-01	Diploid	899.626	CDK1: Diploid
+TCGA-E9-A3X8-01	Diploid	412.519	CDK1: Diploid
+TCGA-E9-A5FL-01	Diploid	1124.68	CDK1: Diploid
+TCGA-E9-A5UO-01	Diploid	762.26	CDK1: Diploid
+TCGA-E9-A6HE-01	Diploid	1045.63	CDK1: Diploid
+TCGA-EW-A1IW-01	Diploid	1565.73	CDK1: Diploid
+TCGA-EW-A1IX-01	Diploid	129.643	CDK1: Diploid
+TCGA-EW-A1IY-01	Diploid	1858.45	CDK1: Diploid
+TCGA-EW-A1IZ-01	Diploid	897.06	CDK1: Diploid
+TCGA-EW-A1J1-01	Diploid	528.072	CDK1: Diploid
+TCGA-EW-A1J2-01	Diploid	151.654	CDK1: Diploid
+TCGA-EW-A1J3-01	Diploid	2590.08	CDK1: Diploid
+TCGA-EW-A1J5-01	Diploid	881.842	CDK1: Diploid
+TCGA-EW-A1OX-01	Diploid	300.553	CDK1: Diploid
+TCGA-EW-A1OY-01	Diploid	1302.33	CDK1: Diploid
+TCGA-EW-A1P0-01	Diploid	379.357	CDK1: Diploid
+TCGA-EW-A1P1-01	Diploid	242.901	CDK1: Diploid
+TCGA-EW-A1P3-01	Diploid	1044.59	CDK1: Diploid
+TCGA-EW-A1P6-01	Diploid	695.33	CDK1: Diploid
+TCGA-EW-A1P7-01	Diploid	208.195	CDK1: Diploid
+TCGA-EW-A1PB-01	Diploid	896.839	CDK1: Diploid
+TCGA-EW-A1PD-01	Diploid	1507.66	CDK1: Diploid
+TCGA-EW-A1PE-01	Diploid	459.35	CDK1: Diploid
+TCGA-EW-A1PG-01	Diploid	90.6077	CDK1: Diploid
+TCGA-EW-A1PH-01	Diploid	1582.85	CDK1: Diploid
+TCGA-EW-A2FR-01	Diploid	733.353	CDK1: Diploid
+TCGA-EW-A2FW-01	Diploid	2343.13	CDK1: Diploid
+TCGA-EW-A6SA-01	Diploid	1997.05	CDK1: Diploid
+TCGA-EW-A6SB-01	Diploid	1287.59	CDK1: Diploid
+TCGA-EW-A6SC-01	Diploid	1416.46	CDK1: Diploid
+TCGA-GM-A2D9-01	Diploid	329.718	CDK1: Diploid
+TCGA-GM-A2DA-01	Diploid	1145.49	CDK1: Diploid
+TCGA-GM-A2DC-01	Diploid	86.4451	CDK1: Diploid
+TCGA-GM-A2DD-01	Diploid	643.463	CDK1: Diploid
+TCGA-GM-A2DF-01	Diploid	1306.73	CDK1: Diploid
+TCGA-GM-A2DI-01	Diploid	433.544	CDK1: Diploid
+TCGA-GM-A2DL-01	Diploid	1211.02	CDK1: Diploid
+TCGA-GM-A2DM-01	Diploid	161.037	CDK1: Diploid
+TCGA-GM-A2DN-01	Diploid	861.165	CDK1: Diploid
+TCGA-GM-A2DO-01	Diploid	1232.28	CDK1: Diploid
+TCGA-GM-A3NW-01	Diploid	504.804	CDK1: Diploid
+TCGA-GM-A4E0-01	Diploid	173.296	CDK1: Diploid
+TCGA-GM-A5PV-01	Diploid	278.637	CDK1: Diploid
+TCGA-GM-A5PX-01	Diploid	130.129	CDK1: Diploid
+TCGA-HN-A2OB-01	Diploid	133.993	CDK1: Diploid
+TCGA-LD-A66U-01	Diploid	284.27	CDK1: Diploid
+TCGA-LD-A74U-01	Diploid	472.319	CDK1: Diploid
+TCGA-LD-A7W6-01	Diploid	675.482	CDK1: Diploid
+TCGA-LL-A440-01	Diploid	269.022	CDK1: Diploid
+TCGA-LL-A50Y-01	Diploid	433.912	CDK1: Diploid
+TCGA-LL-A5YL-01	Diploid	821.565	CDK1: Diploid
+TCGA-LL-A5YN-01	Diploid	381.4	CDK1: Diploid
+TCGA-LL-A6FR-01	Diploid	978.982	CDK1: Diploid
+TCGA-LL-A73Y-01	Diploid	427.52	CDK1: Diploid
+TCGA-LL-A740-01	Diploid	503.028	CDK1: Diploid
+TCGA-LL-A7SZ-01	Diploid	926.132	CDK1: Diploid
+TCGA-LL-A7T0-01	Diploid	1362.99	CDK1: Diploid
+TCGA-LL-A9Q3-01	Diploid	240.622	CDK1: Diploid
+TCGA-OK-A5Q2-01	Diploid	744.389	CDK1: Diploid
+TCGA-OL-A5D6-01	Diploid	309.585	CDK1: Diploid
+TCGA-OL-A5D8-01	Diploid	618.693	CDK1: Diploid
+TCGA-OL-A5DA-01	Diploid	339.293	CDK1: Diploid
+TCGA-OL-A5RU-01	Diploid	201.728	CDK1: Diploid
+TCGA-OL-A5RV-01	Diploid	316.236	CDK1: Diploid
+TCGA-OL-A5RX-01	Diploid	199.192	CDK1: Diploid
+TCGA-OL-A5RY-01	Diploid	792.559	CDK1: Diploid
+TCGA-OL-A5RZ-01	Diploid	973.402	CDK1: Diploid
+TCGA-OL-A66H-01	Diploid	798.165	CDK1: Diploid
+TCGA-OL-A66J-01	Diploid	250.113	CDK1: Diploid
+TCGA-OL-A66K-01	Diploid	351.881	CDK1: Diploid
+TCGA-OL-A66L-01	Diploid	186.157	CDK1: Diploid
+TCGA-OL-A66N-01	Diploid	123.056	CDK1: Diploid
+TCGA-OL-A66O-01	Diploid	1327.16	CDK1: Diploid
+TCGA-OL-A66P-01	Diploid	544.604	CDK1: Diploid
+TCGA-OL-A6VQ-01	Diploid	290.93	CDK1: Diploid
+TCGA-OL-A6VR-01	Diploid	265.288	CDK1: Diploid
+TCGA-OL-A97C-01	Diploid	682.647	CDK1: Diploid
+TCGA-PE-A5DC-01	Diploid	1263.65	CDK1: Diploid
+TCGA-PE-A5DD-01	Diploid	659.543	CDK1: Diploid
+TCGA-PL-A8LY-01	Diploid	380.952	CDK1: Diploid
+TCGA-PL-A8LZ-01	Diploid	1046.65	CDK1: Diploid
+TCGA-S3-A6ZF-01	Diploid	1077.86	CDK1: Diploid
+TCGA-S3-AA0Z-01	Diploid	3339.16	CDK1: Diploid
+TCGA-S3-AA11-01	Diploid	642.825	CDK1: Diploid
+TCGA-S3-AA12-01	Diploid	938.271	CDK1: Diploid
+TCGA-S3-AA14-01	Diploid	772.014	CDK1: Diploid
+TCGA-S3-AA15-01	Diploid	934.386	CDK1: Diploid
+TCGA-UL-AAZ6-01	Diploid	847.151	CDK1: Diploid
+TCGA-UU-A93S-01	Diploid	1622.29	CDK1: Diploid
+TCGA-V7-A7HQ-01	Diploid	301.76	CDK1: Diploid
+TCGA-W8-A86G-01	Diploid	243.474	CDK1: Diploid
+TCGA-WT-AB41-01	Diploid	320.189	CDK1: Diploid
+TCGA-WT-AB44-01	Diploid	98.5543	CDK1: Diploid
+TCGA-XX-A899-01	Diploid	409.449	CDK1: Diploid
+TCGA-XX-A89A-01	Diploid	606.046	CDK1: Diploid
+TCGA-Z7-A8R5-01	Diploid	170.236	CDK1: Diploid
+TCGA-Z7-A8R6-01	Diploid	2016.53	CDK1: Diploid
+TCGA-5T-A9QA-01	Gain	1044.46	CDK1: Gain
+TCGA-A1-A0SD-01	Gain	604.747	CDK1: Gain
+TCGA-A1-A0SF-01	Gain	1201.67	CDK1: Gain
+TCGA-A1-A0SJ-01	Gain	1206.4	CDK1: Gain
+TCGA-A2-A04Q-01	Gain	1296.57	CDK1: Gain
+TCGA-A2-A0CM-01	Gain	2321.91	CDK1: Gain
+TCGA-A2-A0D2-01	Gain	2758.82	CDK1: Gain
+TCGA-A2-A0EQ-01	Gain	2247.46	CDK1: Gain
+TCGA-A2-A0ST-01	Gain	1031.33	CDK1: Gain
+TCGA-A2-A0SX-01	Gain	1701.35	CDK1: Gain
+TCGA-A2-A0T1-01	Gain	973.047	CDK1: Gain
+TCGA-A2-A0T2-01	Gain	729.826	CDK1: Gain
+TCGA-A2-A0T7-01	Gain	643.316	CDK1: Gain
+TCGA-A7-A13D-01	Gain	1499.75	CDK1: Gain
+TCGA-A7-A13E-01	Gain	1712.82	CDK1: Gain
+TCGA-A7-A26G-01	Gain	1536.26	CDK1: Gain
+TCGA-A7-A26I-01	Gain	2612.17	CDK1: Gain
+TCGA-A7-A2KD-01	Gain	1629.68	CDK1: Gain
+TCGA-A7-A4SD-01	Gain	1378.11	CDK1: Gain
+TCGA-A7-A5ZV-01	Gain	1831.43	CDK1: Gain
+TCGA-A7-A6VX-01	Gain	1134.28	CDK1: Gain
+TCGA-A8-A06O-01	Gain	1224.44	CDK1: Gain
+TCGA-A8-A06X-01	Gain	1415.8	CDK1: Gain
+TCGA-A8-A075-01	Gain	1692.72	CDK1: Gain
+TCGA-A8-A07E-01	Gain	1638.97	CDK1: Gain
+TCGA-A8-A07Z-01	Gain	1024.38	CDK1: Gain
+TCGA-A8-A08B-01	Gain	1885.16	CDK1: Gain
+TCGA-A8-A08I-01	Gain	1312.52	CDK1: Gain
+TCGA-A8-A08P-01	Gain	1305.19	CDK1: Gain
+TCGA-A8-A092-01	Gain	1990.33	CDK1: Gain
+TCGA-A8-A094-01	Gain	2236.73	CDK1: Gain
+TCGA-A8-A09A-01	Gain	522.882	CDK1: Gain
+TCGA-A8-A09Q-01	Gain	1315.01	CDK1: Gain
+TCGA-A8-A09X-01	Gain	1185.14	CDK1: Gain
+TCGA-AC-A23E-01	Gain	396.82	CDK1: Gain
+TCGA-AC-A62V-01	Gain	1644.51	CDK1: Gain
+TCGA-AC-A62X-01	Gain	2404.5	CDK1: Gain
+TCGA-AN-A04C-01	Gain	1450.26	CDK1: Gain
+TCGA-AN-A0AS-01	Gain	756.026	CDK1: Gain
+TCGA-AO-A03N-01	Gain	2956.94	CDK1: Gain
+TCGA-AO-A03O-01	Gain	1915.28	CDK1: Gain
+TCGA-AO-A03P-01	Gain	2485.35	CDK1: Gain
+TCGA-AO-A0J2-01	Gain	2277.53	CDK1: Gain
+TCGA-AO-A0J9-01	Gain	1101.75	CDK1: Gain
+TCGA-AO-A128-01	Gain	843.419	CDK1: Gain
+TCGA-AO-A12A-01	Gain	801.092	CDK1: Gain
+TCGA-AO-A12F-01	Gain	2445.94	CDK1: Gain
+TCGA-AO-A1KR-01	Gain	1355.18	CDK1: Gain
+TCGA-AO-A1KS-01	Gain	2269.85	CDK1: Gain
+TCGA-AR-A0TT-01	Gain	1044.45	CDK1: Gain
+TCGA-AR-A1AJ-01	Gain	1967.47	CDK1: Gain
+TCGA-AR-A1AW-01	Gain	794.93	CDK1: Gain
+TCGA-AR-A24K-01	Gain	1409.76	CDK1: Gain
+TCGA-AR-A24S-01	Gain	1155.48	CDK1: Gain
+TCGA-AR-A24V-01	Gain	631.338	CDK1: Gain
+TCGA-B6-A0IB-01	Gain	1096.64	CDK1: Gain
+TCGA-B6-A0IE-01	Gain	1350.61	CDK1: Gain
+TCGA-B6-A0IH-01	Gain	81.4806	CDK1: Gain
+TCGA-B6-A0IO-01	Gain	925.734	CDK1: Gain
+TCGA-B6-A0RO-01	Gain	793.121	CDK1: Gain
+TCGA-B6-A0WV-01	Gain	1523.62	CDK1: Gain
+TCGA-B6-A1KC-01	Gain	729.529	CDK1: Gain
+TCGA-BH-A0AY-01	Gain	519.339	CDK1: Gain
+TCGA-BH-A0BL-01	Gain	1506.11	CDK1: Gain
+TCGA-BH-A0C0-01	Gain	1534.95	CDK1: Gain
+TCGA-BH-A0DS-01	Gain	487.278	CDK1: Gain
+TCGA-BH-A0DT-01	Gain	472.096	CDK1: Gain
+TCGA-BH-A0E6-01	Gain	1364.95	CDK1: Gain
+TCGA-BH-A0E7-01	Gain	424.116	CDK1: Gain
+TCGA-BH-A0EA-01	Gain	108.147	CDK1: Gain
+TCGA-BH-A0EE-01	Gain	2686.53	CDK1: Gain
+TCGA-BH-A0HP-01	Gain	1188.28	CDK1: Gain
+TCGA-BH-A0HY-01	Gain	1044.49	CDK1: Gain
+TCGA-BH-A0RX-01	Gain	1340.34	CDK1: Gain
+TCGA-BH-A18H-01	Gain	654.762	CDK1: Gain
+TCGA-BH-A18L-01	Gain	1645.66	CDK1: Gain
+TCGA-BH-A18V-01	Gain	2685.23	CDK1: Gain
+TCGA-BH-A1EN-01	Gain	701.762	CDK1: Gain
+TCGA-BH-A1EV-01	Gain	955.079	CDK1: Gain
+TCGA-C8-A12L-01	Gain	2495.05	CDK1: Gain
+TCGA-C8-A12O-01	Gain	915.866	CDK1: Gain
+TCGA-C8-A12P-01	Gain	1216.28	CDK1: Gain
+TCGA-C8-A12T-01	Gain	2595.61	CDK1: Gain
+TCGA-C8-A130-01	Gain	2373.81	CDK1: Gain
+TCGA-C8-A138-01	Gain	2222.17	CDK1: Gain
+TCGA-C8-A1HK-01	Gain	1971.99	CDK1: Gain
+TCGA-C8-A274-01	Gain	1497.44	CDK1: Gain
+TCGA-D8-A13Z-01	Gain	1794.87	CDK1: Gain
+TCGA-D8-A1JB-01	Gain	347.142	CDK1: Gain
+TCGA-D8-A1JD-01	Gain	1722.46	CDK1: Gain
+TCGA-D8-A1JE-01	Gain	967.008	CDK1: Gain
+TCGA-D8-A1JF-01	Gain	886.731	CDK1: Gain
+TCGA-D8-A27F-01	Gain	2776.03	CDK1: Gain
+TCGA-D8-A27H-01	Gain	1089.45	CDK1: Gain
+TCGA-E2-A107-01	Gain	1646.94	CDK1: Gain
+TCGA-E2-A14O-01	Gain	1369.14	CDK1: Gain
+TCGA-E2-A14R-01	Gain	2688.98	CDK1: Gain
+TCGA-E2-A150-01	Gain	1237.56	CDK1: Gain
+TCGA-E2-A154-01	Gain	863.32	CDK1: Gain
+TCGA-E2-A15G-01	Gain	317.213	CDK1: Gain
+TCGA-E2-A15S-01	Gain	2247.02	CDK1: Gain
+TCGA-E2-A1AZ-01	Gain	3051.01	CDK1: Gain
+TCGA-E2-A1LI-01	Gain	2968.15	CDK1: Gain
+TCGA-E9-A1N5-01	Gain	1009.05	CDK1: Gain
+TCGA-E9-A1N9-01	Gain	1408.57	CDK1: Gain
+TCGA-E9-A1R7-01	Gain	2230.82	CDK1: Gain
+TCGA-E9-A1RB-01	Gain	2522.89	CDK1: Gain
+TCGA-E9-A244-01	Gain	2200.26	CDK1: Gain
+TCGA-E9-A247-01	Gain	1997.13	CDK1: Gain
+TCGA-E9-A295-01	Gain	512.375	CDK1: Gain
+TCGA-EW-A1OV-01	Gain	816.456	CDK1: Gain
+TCGA-EW-A1P4-01	Gain	2765.76	CDK1: Gain
+TCGA-EW-A1P8-01	Gain	2040.5	CDK1: Gain
+TCGA-EW-A423-01	Gain	608.66	CDK1: Gain
+TCGA-GM-A2DB-01	Gain	1486.95	CDK1: Gain
+TCGA-GM-A2DH-01	Gain	2727.51	CDK1: Gain
+TCGA-LD-A9QF-01	Gain	678.414	CDK1: Gain
+TCGA-LL-A5YO-01	Gain	1890.68	CDK1: Gain
+TCGA-LL-A6FQ-01	Gain	667.923	CDK1: Gain
+TCGA-LL-A73Z-01	Gain	1042.24	CDK1: Gain
+TCGA-OL-A5D7-01	Gain	2102.5	CDK1: Gain
+TCGA-OL-A5RW-01	Gain	1552.49	CDK1: Gain
+TCGA-OL-A5S0-01	Gain	1425.93	CDK1: Gain
+TCGA-PL-A8LV-01	Gain	1663.01	CDK1: Gain
+TCGA-S3-AA10-01	Gain	2575.5	CDK1: Gain
+TCGA-S3-AA17-01	Gain	1315.41	CDK1: Gain
+TCGA-3C-AALJ-01	Amplification	2620.13	CDK1: Amplification
+TCGA-A2-A04U-01	Amplification	5420.96	CDK1: Amplification
+TCGA-A2-A0CL-01	Amplification	10009.3	CDK1: Amplification
+TCGA-AN-A0AR-01	Amplification	2974.66	CDK1: Amplification
+TCGA-AN-A0FV-01	Amplification	1621.89	CDK1: Amplification
+TCGA-AN-A0FZ-01	Amplification	2913.32	CDK1: Amplification
+TCGA-AR-A254-01	Amplification	5316.28	CDK1: Amplification
+TCGA-B6-A0IJ-01	Amplification	5565.41	CDK1: Amplification
+TCGA-B6-A0IQ-01	Amplification	11476.2	CDK1: Amplification
+TCGA-B6-A0RS-01	Amplification	2349.12	CDK1: Amplification
+TCGA-B6-A409-01	Amplification	2177.11	CDK1: Amplification
+TCGA-BH-A1F6-01	Amplification	4314.95	CDK1: Amplification
+TCGA-C8-A1HM-01	Amplification	8008.52	CDK1: Amplification
+TCGA-D8-A147-01	Amplification	2108.5	CDK1: Amplification
+TCGA-E2-A10C-01	Amplification	6474.79	CDK1: Amplification
+TCGA-E2-A1LK-01	Amplification	2962.73	CDK1: Amplification
+TCGA-E9-A1RH-01	Amplification	5313.14	CDK1: Amplification
+TCGA-EW-A1OZ-01	Amplification	4993.19	CDK1: Amplification
+TCGA-LD-A7W5-01	Amplification	1602.76	CDK1: Amplification

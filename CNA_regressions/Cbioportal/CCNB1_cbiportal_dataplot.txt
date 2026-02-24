@@ -1,0 +1,995 @@
+Sample Id	CCNB1: Putative copy-number alterations from GISTIC	CCNB1: mRNA Expression, RSEM (Batch normalized from Illumina HiSeq_RNASeqV2)	Copy Number Alterations
+TCGA-A2-A0SX-01	Deep Deletion	815.671	CCNB1: Deep Deletion
+TCGA-A8-A08T-01	Deep Deletion	335.108	CCNB1: Deep Deletion
+TCGA-AR-A0U0-01	Deep Deletion	800.783	CCNB1: Deep Deletion
+TCGA-B6-A0IQ-01	Deep Deletion	2169.5	CCNB1: Deep Deletion
+TCGA-B6-A1KF-01	Deep Deletion	1284.24	CCNB1: Deep Deletion
+TCGA-BH-A0B3-01	Deep Deletion	1960.65	CCNB1: Deep Deletion
+TCGA-BH-A0WA-01	Deep Deletion	803.546	CCNB1: Deep Deletion
+TCGA-GM-A3XL-01	Deep Deletion	2411.91	CCNB1: Deep Deletion
+TCGA-S3-AA10-01	Deep Deletion	2543.17	CCNB1: Deep Deletion
+TCGA-A1-A0SK-01	Shallow Deletion	1981.72	CCNB1: Shallow Deletion
+TCGA-A1-A0SO-01	Shallow Deletion	1770.27	CCNB1: Shallow Deletion
+TCGA-A1-A0SP-01	Shallow Deletion	1873.77	CCNB1: Shallow Deletion
+TCGA-A2-A04P-01	Shallow Deletion	1423.76	CCNB1: Shallow Deletion
+TCGA-A2-A04Q-01	Shallow Deletion	1371.77	CCNB1: Shallow Deletion
+TCGA-A2-A04T-01	Shallow Deletion	2027.3	CCNB1: Shallow Deletion
+TCGA-A2-A04W-01	Shallow Deletion	1047.14	CCNB1: Shallow Deletion
+TCGA-A2-A0CM-01	Shallow Deletion	2464.06	CCNB1: Shallow Deletion
+TCGA-A2-A0CX-01	Shallow Deletion	1048.13	CCNB1: Shallow Deletion
+TCGA-A2-A0D0-01	Shallow Deletion	2505.77	CCNB1: Shallow Deletion
+TCGA-A2-A0D1-01	Shallow Deletion	1095.7	CCNB1: Shallow Deletion
+TCGA-A2-A0EQ-01	Shallow Deletion	1340.1	CCNB1: Shallow Deletion
+TCGA-A2-A0EY-01	Shallow Deletion	676.546	CCNB1: Shallow Deletion
+TCGA-A2-A0T0-01	Shallow Deletion	1037	CCNB1: Shallow Deletion
+TCGA-A2-A0T1-01	Shallow Deletion	820.61	CCNB1: Shallow Deletion
+TCGA-A2-A0YE-01	Shallow Deletion	2423.95	CCNB1: Shallow Deletion
+TCGA-A2-A0YH-01	Shallow Deletion	1507.76	CCNB1: Shallow Deletion
+TCGA-A2-A0YJ-01	Shallow Deletion	1165.58	CCNB1: Shallow Deletion
+TCGA-A2-A0YM-01	Shallow Deletion	1814.7	CCNB1: Shallow Deletion
+TCGA-A2-A1G1-01	Shallow Deletion	2837.47	CCNB1: Shallow Deletion
+TCGA-A2-A25E-01	Shallow Deletion	807.233	CCNB1: Shallow Deletion
+TCGA-A2-A3XT-01	Shallow Deletion	1936.56	CCNB1: Shallow Deletion
+TCGA-A2-A3XX-01	Shallow Deletion	1565.59	CCNB1: Shallow Deletion
+TCGA-A2-A3Y0-01	Shallow Deletion	2519.79	CCNB1: Shallow Deletion
+TCGA-A2-A4S3-01	Shallow Deletion	1512.1	CCNB1: Shallow Deletion
+TCGA-A7-A0DA-01	Shallow Deletion	567.938	CCNB1: Shallow Deletion
+TCGA-A7-A13D-01	Shallow Deletion	1145.12	CCNB1: Shallow Deletion
+TCGA-A7-A13E-01	Shallow Deletion	751.575	CCNB1: Shallow Deletion
+TCGA-A7-A26G-01	Shallow Deletion	732.949	CCNB1: Shallow Deletion
+TCGA-A7-A26I-01	Shallow Deletion	1911.76	CCNB1: Shallow Deletion
+TCGA-A7-A2KD-01	Shallow Deletion	894.642	CCNB1: Shallow Deletion
+TCGA-A7-A4SD-01	Shallow Deletion	966.169	CCNB1: Shallow Deletion
+TCGA-A7-A4SE-01	Shallow Deletion	1776.72	CCNB1: Shallow Deletion
+TCGA-A7-A56D-01	Shallow Deletion	707.61	CCNB1: Shallow Deletion
+TCGA-A7-A5ZV-01	Shallow Deletion	740.811	CCNB1: Shallow Deletion
+TCGA-A7-A6VV-01	Shallow Deletion	1591.26	CCNB1: Shallow Deletion
+TCGA-A7-A6VW-01	Shallow Deletion	2921.48	CCNB1: Shallow Deletion
+TCGA-A7-A6VY-01	Shallow Deletion	1702.53	CCNB1: Shallow Deletion
+TCGA-A8-A06R-01	Shallow Deletion	876.118	CCNB1: Shallow Deletion
+TCGA-A8-A06X-01	Shallow Deletion	1015.9	CCNB1: Shallow Deletion
+TCGA-A8-A076-01	Shallow Deletion	844.498	CCNB1: Shallow Deletion
+TCGA-A8-A07O-01	Shallow Deletion	1994.02	CCNB1: Shallow Deletion
+TCGA-A8-A07U-01	Shallow Deletion	1079.4	CCNB1: Shallow Deletion
+TCGA-A8-A081-01	Shallow Deletion	869.181	CCNB1: Shallow Deletion
+TCGA-A8-A08L-01	Shallow Deletion	1070.43	CCNB1: Shallow Deletion
+TCGA-A8-A08R-01	Shallow Deletion	1069.46	CCNB1: Shallow Deletion
+TCGA-A8-A08X-01	Shallow Deletion	1008.34	CCNB1: Shallow Deletion
+TCGA-A8-A094-01	Shallow Deletion	1657.09	CCNB1: Shallow Deletion
+TCGA-A8-A09A-01	Shallow Deletion	323.063	CCNB1: Shallow Deletion
+TCGA-A8-A09C-01	Shallow Deletion	919.782	CCNB1: Shallow Deletion
+TCGA-A8-A09M-01	Shallow Deletion	891.26	CCNB1: Shallow Deletion
+TCGA-AC-A2BK-01	Shallow Deletion	1539.17	CCNB1: Shallow Deletion
+TCGA-AC-A62X-01	Shallow Deletion	1369.42	CCNB1: Shallow Deletion
+TCGA-AC-A6IW-01	Shallow Deletion	3152.96	CCNB1: Shallow Deletion
+TCGA-AN-A041-01	Shallow Deletion	431.939	CCNB1: Shallow Deletion
+TCGA-AN-A04C-01	Shallow Deletion	1414.79	CCNB1: Shallow Deletion
+TCGA-AN-A04D-01	Shallow Deletion	1781.46	CCNB1: Shallow Deletion
+TCGA-AN-A0AK-01	Shallow Deletion	2478.17	CCNB1: Shallow Deletion
+TCGA-AN-A0AL-01	Shallow Deletion	1362.32	CCNB1: Shallow Deletion
+TCGA-AN-A0AR-01	Shallow Deletion	1730.77	CCNB1: Shallow Deletion
+TCGA-AN-A0AS-01	Shallow Deletion	743.861	CCNB1: Shallow Deletion
+TCGA-AN-A0AT-01	Shallow Deletion	2568.18	CCNB1: Shallow Deletion
+TCGA-AN-A0FJ-01	Shallow Deletion	1441.78	CCNB1: Shallow Deletion
+TCGA-AN-A0FL-01	Shallow Deletion	526.946	CCNB1: Shallow Deletion
+TCGA-AN-A0FT-01	Shallow Deletion	299.331	CCNB1: Shallow Deletion
+TCGA-AN-A0FV-01	Shallow Deletion	737.014	CCNB1: Shallow Deletion
+TCGA-AN-A0FX-01	Shallow Deletion	858.692	CCNB1: Shallow Deletion
+TCGA-AN-A0FY-01	Shallow Deletion	1455.71	CCNB1: Shallow Deletion
+TCGA-AN-A0FZ-01	Shallow Deletion	585.734	CCNB1: Shallow Deletion
+TCGA-AN-A0XN-01	Shallow Deletion	420.423	CCNB1: Shallow Deletion
+TCGA-AN-A0XU-01	Shallow Deletion	1597.17	CCNB1: Shallow Deletion
+TCGA-AO-A03M-01	Shallow Deletion	1101.7	CCNB1: Shallow Deletion
+TCGA-AO-A0J2-01	Shallow Deletion	1952.13	CCNB1: Shallow Deletion
+TCGA-AO-A0J4-01	Shallow Deletion	1334.27	CCNB1: Shallow Deletion
+TCGA-AO-A0J5-01	Shallow Deletion	547.239	CCNB1: Shallow Deletion
+TCGA-AO-A0J6-01	Shallow Deletion	1360.57	CCNB1: Shallow Deletion
+TCGA-AO-A0JB-01	Shallow Deletion	560.875	CCNB1: Shallow Deletion
+TCGA-AO-A124-01	Shallow Deletion	1758.21	CCNB1: Shallow Deletion
+TCGA-AO-A129-01	Shallow Deletion	1716.99	CCNB1: Shallow Deletion
+TCGA-AO-A12F-01	Shallow Deletion	1257.68	CCNB1: Shallow Deletion
+TCGA-AO-A1KR-01	Shallow Deletion	2347.16	CCNB1: Shallow Deletion
+TCGA-AQ-A04J-01	Shallow Deletion	1076.17	CCNB1: Shallow Deletion
+TCGA-AR-A0TP-01	Shallow Deletion	725.923	CCNB1: Shallow Deletion
+TCGA-AR-A0TT-01	Shallow Deletion	564.437	CCNB1: Shallow Deletion
+TCGA-AR-A0TV-01	Shallow Deletion	881.877	CCNB1: Shallow Deletion
+TCGA-AR-A0TW-01	Shallow Deletion	411.528	CCNB1: Shallow Deletion
+TCGA-AR-A0U1-01	Shallow Deletion	1339.96	CCNB1: Shallow Deletion
+TCGA-AR-A0U2-01	Shallow Deletion	3136.06	CCNB1: Shallow Deletion
+TCGA-AR-A0U4-01	Shallow Deletion	1145.65	CCNB1: Shallow Deletion
+TCGA-AR-A1AH-01	Shallow Deletion	1964.64	CCNB1: Shallow Deletion
+TCGA-AR-A1AI-01	Shallow Deletion	1055.82	CCNB1: Shallow Deletion
+TCGA-AR-A1AJ-01	Shallow Deletion	1595.41	CCNB1: Shallow Deletion
+TCGA-AR-A1AQ-01	Shallow Deletion	2211.78	CCNB1: Shallow Deletion
+TCGA-AR-A1AR-01	Shallow Deletion	2014.09	CCNB1: Shallow Deletion
+TCGA-AR-A1AU-01	Shallow Deletion	507.806	CCNB1: Shallow Deletion
+TCGA-AR-A1AY-01	Shallow Deletion	1957.2	CCNB1: Shallow Deletion
+TCGA-AR-A24K-01	Shallow Deletion	904.468	CCNB1: Shallow Deletion
+TCGA-AR-A24Q-01	Shallow Deletion	1201.46	CCNB1: Shallow Deletion
+TCGA-AR-A24S-01	Shallow Deletion	739.247	CCNB1: Shallow Deletion
+TCGA-AR-A24U-01	Shallow Deletion	1020.54	CCNB1: Shallow Deletion
+TCGA-AR-A24Z-01	Shallow Deletion	1103.35	CCNB1: Shallow Deletion
+TCGA-AR-A250-01	Shallow Deletion	1213.02	CCNB1: Shallow Deletion
+TCGA-AR-A251-01	Shallow Deletion	887.302	CCNB1: Shallow Deletion
+TCGA-AR-A256-01	Shallow Deletion	2681.56	CCNB1: Shallow Deletion
+TCGA-B6-A0I1-01	Shallow Deletion	1477.21	CCNB1: Shallow Deletion
+TCGA-B6-A0IB-01	Shallow Deletion	1039.43	CCNB1: Shallow Deletion
+TCGA-B6-A0IE-01	Shallow Deletion	874.159	CCNB1: Shallow Deletion
+TCGA-B6-A0IG-01	Shallow Deletion	631.53	CCNB1: Shallow Deletion
+TCGA-B6-A0IJ-01	Shallow Deletion	2281.83	CCNB1: Shallow Deletion
+TCGA-B6-A0IO-01	Shallow Deletion	461.88	CCNB1: Shallow Deletion
+TCGA-B6-A0RP-01	Shallow Deletion	281.223	CCNB1: Shallow Deletion
+TCGA-B6-A0RS-01	Shallow Deletion	837.121	CCNB1: Shallow Deletion
+TCGA-B6-A0RU-01	Shallow Deletion	2445.09	CCNB1: Shallow Deletion
+TCGA-B6-A0WV-01	Shallow Deletion	744.489	CCNB1: Shallow Deletion
+TCGA-B6-A0WX-01	Shallow Deletion	780.835	CCNB1: Shallow Deletion
+TCGA-B6-A0X1-01	Shallow Deletion	2933.01	CCNB1: Shallow Deletion
+TCGA-B6-A409-01	Shallow Deletion	1447.06	CCNB1: Shallow Deletion
+TCGA-BH-A0AU-01	Shallow Deletion	679.152	CCNB1: Shallow Deletion
+TCGA-BH-A0AV-01	Shallow Deletion	1249.16	CCNB1: Shallow Deletion
+TCGA-BH-A0B7-01	Shallow Deletion	726.59	CCNB1: Shallow Deletion
+TCGA-BH-A0B9-01	Shallow Deletion	1875.5	CCNB1: Shallow Deletion
+TCGA-BH-A0BF-01	Shallow Deletion	622.941	CCNB1: Shallow Deletion
+TCGA-BH-A0BG-01	Shallow Deletion	790.71	CCNB1: Shallow Deletion
+TCGA-BH-A0BL-01	Shallow Deletion	1157.47	CCNB1: Shallow Deletion
+TCGA-BH-A0BP-01	Shallow Deletion	304.915	CCNB1: Shallow Deletion
+TCGA-BH-A0BT-01	Shallow Deletion	415.304	CCNB1: Shallow Deletion
+TCGA-BH-A0BW-01	Shallow Deletion	542.741	CCNB1: Shallow Deletion
+TCGA-BH-A0C0-01	Shallow Deletion	1118.32	CCNB1: Shallow Deletion
+TCGA-BH-A0E0-01	Shallow Deletion	2610.6	CCNB1: Shallow Deletion
+TCGA-BH-A0E6-01	Shallow Deletion	1785.05	CCNB1: Shallow Deletion
+TCGA-BH-A0HA-01	Shallow Deletion	555.259	CCNB1: Shallow Deletion
+TCGA-BH-A0HY-01	Shallow Deletion	872.059	CCNB1: Shallow Deletion
+TCGA-BH-A18T-01	Shallow Deletion	2921.36	CCNB1: Shallow Deletion
+TCGA-BH-A18V-01	Shallow Deletion	2008.78	CCNB1: Shallow Deletion
+TCGA-BH-A1EU-01	Shallow Deletion	280.376	CCNB1: Shallow Deletion
+TCGA-BH-A1EV-01	Shallow Deletion	742.408	CCNB1: Shallow Deletion
+TCGA-BH-A1F0-01	Shallow Deletion	760.082	CCNB1: Shallow Deletion
+TCGA-BH-A1F2-01	Shallow Deletion	1285.55	CCNB1: Shallow Deletion
+TCGA-BH-A1F6-01	Shallow Deletion	1288.54	CCNB1: Shallow Deletion
+TCGA-BH-A1FC-01	Shallow Deletion	2461.49	CCNB1: Shallow Deletion
+TCGA-BH-A1FD-01	Shallow Deletion	1230.28	CCNB1: Shallow Deletion
+TCGA-BH-A1FE-01	Shallow Deletion	942.428	CCNB1: Shallow Deletion
+TCGA-BH-A1FG-01	Shallow Deletion	325.2	CCNB1: Shallow Deletion
+TCGA-BH-A1FN-01	Shallow Deletion	1193.7	CCNB1: Shallow Deletion
+TCGA-BH-A1FU-01	Shallow Deletion	568.644	CCNB1: Shallow Deletion
+TCGA-BH-A203-01	Shallow Deletion	1388.42	CCNB1: Shallow Deletion
+TCGA-BH-A208-01	Shallow Deletion	424.447	CCNB1: Shallow Deletion
+TCGA-BH-A209-01	Shallow Deletion	2162.77	CCNB1: Shallow Deletion
+TCGA-BH-A5IZ-01	Shallow Deletion	1658.62	CCNB1: Shallow Deletion
+TCGA-C8-A12K-01	Shallow Deletion	1867.06	CCNB1: Shallow Deletion
+TCGA-C8-A12L-01	Shallow Deletion	1315.39	CCNB1: Shallow Deletion
+TCGA-C8-A12O-01	Shallow Deletion	416.335	CCNB1: Shallow Deletion
+TCGA-C8-A12Q-01	Shallow Deletion	514.367	CCNB1: Shallow Deletion
+TCGA-C8-A12W-01	Shallow Deletion	856.28	CCNB1: Shallow Deletion
+TCGA-C8-A12X-01	Shallow Deletion	452.518	CCNB1: Shallow Deletion
+TCGA-C8-A130-01	Shallow Deletion	1338.14	CCNB1: Shallow Deletion
+TCGA-C8-A131-01	Shallow Deletion	1253.13	CCNB1: Shallow Deletion
+TCGA-C8-A134-01	Shallow Deletion	1791.19	CCNB1: Shallow Deletion
+TCGA-C8-A135-01	Shallow Deletion	1955.3	CCNB1: Shallow Deletion
+TCGA-C8-A138-01	Shallow Deletion	1462.95	CCNB1: Shallow Deletion
+TCGA-C8-A1HF-01	Shallow Deletion	2738.64	CCNB1: Shallow Deletion
+TCGA-C8-A1HJ-01	Shallow Deletion	4662.11	CCNB1: Shallow Deletion
+TCGA-C8-A1HM-01	Shallow Deletion	1708.33	CCNB1: Shallow Deletion
+TCGA-C8-A26X-01	Shallow Deletion	1078.55	CCNB1: Shallow Deletion
+TCGA-C8-A278-01	Shallow Deletion	1481.18	CCNB1: Shallow Deletion
+TCGA-C8-A27A-01	Shallow Deletion	1586.31	CCNB1: Shallow Deletion
+TCGA-C8-A27B-01	Shallow Deletion	2316.11	CCNB1: Shallow Deletion
+TCGA-C8-A8HR-01	Shallow Deletion	453.563	CCNB1: Shallow Deletion
+TCGA-D8-A13Y-01	Shallow Deletion	1654.05	CCNB1: Shallow Deletion
+TCGA-D8-A13Z-01	Shallow Deletion	1030.23	CCNB1: Shallow Deletion
+TCGA-D8-A142-01	Shallow Deletion	632.138	CCNB1: Shallow Deletion
+TCGA-D8-A143-01	Shallow Deletion	1308.89	CCNB1: Shallow Deletion
+TCGA-D8-A147-01	Shallow Deletion	1165.28	CCNB1: Shallow Deletion
+TCGA-D8-A1JA-01	Shallow Deletion	573.944	CCNB1: Shallow Deletion
+TCGA-D8-A1JB-01	Shallow Deletion	234.422	CCNB1: Shallow Deletion
+TCGA-D8-A1JF-01	Shallow Deletion	597.725	CCNB1: Shallow Deletion
+TCGA-D8-A1JG-01	Shallow Deletion	850.14	CCNB1: Shallow Deletion
+TCGA-D8-A1JK-01	Shallow Deletion	962.478	CCNB1: Shallow Deletion
+TCGA-D8-A1JL-01	Shallow Deletion	938.214	CCNB1: Shallow Deletion
+TCGA-D8-A1JM-01	Shallow Deletion	2470.11	CCNB1: Shallow Deletion
+TCGA-D8-A1JP-01	Shallow Deletion	417.867	CCNB1: Shallow Deletion
+TCGA-D8-A1XA-01	Shallow Deletion	338.742	CCNB1: Shallow Deletion
+TCGA-D8-A1XF-01	Shallow Deletion	1109.11	CCNB1: Shallow Deletion
+TCGA-D8-A1XJ-01	Shallow Deletion	1504.65	CCNB1: Shallow Deletion
+TCGA-D8-A1XK-01	Shallow Deletion	3402.35	CCNB1: Shallow Deletion
+TCGA-D8-A1XL-01	Shallow Deletion	1020.22	CCNB1: Shallow Deletion
+TCGA-D8-A1XQ-01	Shallow Deletion	720.716	CCNB1: Shallow Deletion
+TCGA-D8-A1XT-01	Shallow Deletion	770.686	CCNB1: Shallow Deletion
+TCGA-D8-A1XW-01	Shallow Deletion	377.097	CCNB1: Shallow Deletion
+TCGA-D8-A1XZ-01	Shallow Deletion	1122.51	CCNB1: Shallow Deletion
+TCGA-D8-A1Y3-01	Shallow Deletion	2894.83	CCNB1: Shallow Deletion
+TCGA-D8-A27F-01	Shallow Deletion	1734.72	CCNB1: Shallow Deletion
+TCGA-D8-A27H-01	Shallow Deletion	618.334	CCNB1: Shallow Deletion
+TCGA-D8-A27M-01	Shallow Deletion	697.66	CCNB1: Shallow Deletion
+TCGA-D8-A27R-01	Shallow Deletion	1220.43	CCNB1: Shallow Deletion
+TCGA-E2-A14N-01	Shallow Deletion	2230.06	CCNB1: Shallow Deletion
+TCGA-E2-A14R-01	Shallow Deletion	1729.68	CCNB1: Shallow Deletion
+TCGA-E2-A150-01	Shallow Deletion	1059.89	CCNB1: Shallow Deletion
+TCGA-E2-A155-01	Shallow Deletion	639.111	CCNB1: Shallow Deletion
+TCGA-E2-A158-01	Shallow Deletion	641.933	CCNB1: Shallow Deletion
+TCGA-E2-A159-01	Shallow Deletion	1210.82	CCNB1: Shallow Deletion
+TCGA-E2-A15A-01	Shallow Deletion	1050.95	CCNB1: Shallow Deletion
+TCGA-E2-A1AZ-01	Shallow Deletion	2606.15	CCNB1: Shallow Deletion
+TCGA-E2-A1B0-01	Shallow Deletion	1427.59	CCNB1: Shallow Deletion
+TCGA-E2-A1B6-01	Shallow Deletion	1378.18	CCNB1: Shallow Deletion
+TCGA-E2-A1II-01	Shallow Deletion	1492.7	CCNB1: Shallow Deletion
+TCGA-E2-A1IO-01	Shallow Deletion	279.941	CCNB1: Shallow Deletion
+TCGA-E2-A1L6-01	Shallow Deletion	374.289	CCNB1: Shallow Deletion
+TCGA-E2-A1L7-01	Shallow Deletion	1910.95	CCNB1: Shallow Deletion
+TCGA-E2-A1LH-01	Shallow Deletion	1344.4	CCNB1: Shallow Deletion
+TCGA-E2-A1LI-01	Shallow Deletion	2073.32	CCNB1: Shallow Deletion
+TCGA-E2-A1LK-01	Shallow Deletion	1277.12	CCNB1: Shallow Deletion
+TCGA-E2-A1LL-01	Shallow Deletion	2601.41	CCNB1: Shallow Deletion
+TCGA-E2-A573-01	Shallow Deletion	1585.72	CCNB1: Shallow Deletion
+TCGA-E2-A574-01	Shallow Deletion	2292.37	CCNB1: Shallow Deletion
+TCGA-E9-A1N8-01	Shallow Deletion	866.134	CCNB1: Shallow Deletion
+TCGA-E9-A1NC-01	Shallow Deletion	907.795	CCNB1: Shallow Deletion
+TCGA-E9-A1ND-01	Shallow Deletion	1319.33	CCNB1: Shallow Deletion
+TCGA-E9-A1RB-01	Shallow Deletion	2101.72	CCNB1: Shallow Deletion
+TCGA-E9-A1RH-01	Shallow Deletion	1184.68	CCNB1: Shallow Deletion
+TCGA-E9-A22A-01	Shallow Deletion	964.897	CCNB1: Shallow Deletion
+TCGA-E9-A22D-01	Shallow Deletion	1586.23	CCNB1: Shallow Deletion
+TCGA-E9-A22E-01	Shallow Deletion	656.683	CCNB1: Shallow Deletion
+TCGA-E9-A22G-01	Shallow Deletion	2669.98	CCNB1: Shallow Deletion
+TCGA-E9-A244-01	Shallow Deletion	1574	CCNB1: Shallow Deletion
+TCGA-E9-A247-01	Shallow Deletion	1045.19	CCNB1: Shallow Deletion
+TCGA-E9-A2JS-01	Shallow Deletion	1125.47	CCNB1: Shallow Deletion
+TCGA-E9-A3QA-01	Shallow Deletion	1221.01	CCNB1: Shallow Deletion
+TCGA-EW-A1J1-01	Shallow Deletion	405.839	CCNB1: Shallow Deletion
+TCGA-EW-A1OV-01	Shallow Deletion	680.38	CCNB1: Shallow Deletion
+TCGA-EW-A1P4-01	Shallow Deletion	2305.62	CCNB1: Shallow Deletion
+TCGA-EW-A1P8-01	Shallow Deletion	2389.61	CCNB1: Shallow Deletion
+TCGA-EW-A1PA-01	Shallow Deletion	760.106	CCNB1: Shallow Deletion
+TCGA-EW-A1PH-01	Shallow Deletion	1703.17	CCNB1: Shallow Deletion
+TCGA-EW-A2FV-01	Shallow Deletion	1984.2	CCNB1: Shallow Deletion
+TCGA-EW-A6S9-01	Shallow Deletion	523.901	CCNB1: Shallow Deletion
+TCGA-EW-A6SA-01	Shallow Deletion	2027.47	CCNB1: Shallow Deletion
+TCGA-EW-A6SB-01	Shallow Deletion	824.561	CCNB1: Shallow Deletion
+TCGA-EW-A6SD-01	Shallow Deletion	848.434	CCNB1: Shallow Deletion
+TCGA-GM-A2DD-01	Shallow Deletion	955.848	CCNB1: Shallow Deletion
+TCGA-GM-A2DF-01	Shallow Deletion	1515.56	CCNB1: Shallow Deletion
+TCGA-GM-A2DH-01	Shallow Deletion	1843.02	CCNB1: Shallow Deletion
+TCGA-HN-A2NL-01	Shallow Deletion	2291.07	CCNB1: Shallow Deletion
+TCGA-LL-A5YM-01	Shallow Deletion	964.463	CCNB1: Shallow Deletion
+TCGA-LL-A5YN-01	Shallow Deletion	604.493	CCNB1: Shallow Deletion
+TCGA-LL-A5YP-01	Shallow Deletion	1033	CCNB1: Shallow Deletion
+TCGA-LL-A6FR-01	Shallow Deletion	1122.84	CCNB1: Shallow Deletion
+TCGA-LL-A7SZ-01	Shallow Deletion	1703.14	CCNB1: Shallow Deletion
+TCGA-LL-A7T0-01	Shallow Deletion	1349.81	CCNB1: Shallow Deletion
+TCGA-LL-A8F5-01	Shallow Deletion	2060.86	CCNB1: Shallow Deletion
+TCGA-OL-A5D7-01	Shallow Deletion	2263.05	CCNB1: Shallow Deletion
+TCGA-OL-A5RW-01	Shallow Deletion	1681.06	CCNB1: Shallow Deletion
+TCGA-OL-A5RZ-01	Shallow Deletion	1051.66	CCNB1: Shallow Deletion
+TCGA-OL-A5S0-01	Shallow Deletion	2129.51	CCNB1: Shallow Deletion
+TCGA-OL-A66I-01	Shallow Deletion	1544.08	CCNB1: Shallow Deletion
+TCGA-OL-A66J-01	Shallow Deletion	282.56	CCNB1: Shallow Deletion
+TCGA-OL-A6VO-01	Shallow Deletion	1778.71	CCNB1: Shallow Deletion
+TCGA-PL-A8LV-01	Shallow Deletion	910.837	CCNB1: Shallow Deletion
+TCGA-PL-A8LX-01	Shallow Deletion	293.313	CCNB1: Shallow Deletion
+TCGA-PL-A8LZ-01	Shallow Deletion	828.013	CCNB1: Shallow Deletion
+TCGA-WT-AB41-01	Shallow Deletion	298.107	CCNB1: Shallow Deletion
+TCGA-3C-AALJ-01	Diploid	1822.3	CCNB1: Diploid
+TCGA-3C-AALK-01	Diploid	827.058	CCNB1: Diploid
+TCGA-4H-AAAK-01	Diploid	647.66	CCNB1: Diploid
+TCGA-5L-AAT0-01	Diploid	381.874	CCNB1: Diploid
+TCGA-5T-A9QA-01	Diploid	1023.01	CCNB1: Diploid
+TCGA-A1-A0SB-01	Diploid	409.956	CCNB1: Diploid
+TCGA-A1-A0SD-01	Diploid	609.71	CCNB1: Diploid
+TCGA-A1-A0SE-01	Diploid	1075.77	CCNB1: Diploid
+TCGA-A1-A0SF-01	Diploid	716.291	CCNB1: Diploid
+TCGA-A1-A0SG-01	Diploid	534.605	CCNB1: Diploid
+TCGA-A1-A0SH-01	Diploid	410.269	CCNB1: Diploid
+TCGA-A1-A0SI-01	Diploid	1484.11	CCNB1: Diploid
+TCGA-A1-A0SM-01	Diploid	972.538	CCNB1: Diploid
+TCGA-A1-A0SQ-01	Diploid	806.455	CCNB1: Diploid
+TCGA-A2-A04N-01	Diploid	469.889	CCNB1: Diploid
+TCGA-A2-A04R-01	Diploid	1478.58	CCNB1: Diploid
+TCGA-A2-A04U-01	Diploid	2512.01	CCNB1: Diploid
+TCGA-A2-A04V-01	Diploid	1152.58	CCNB1: Diploid
+TCGA-A2-A04X-01	Diploid	1440.75	CCNB1: Diploid
+TCGA-A2-A04Y-01	Diploid	1780.53	CCNB1: Diploid
+TCGA-A2-A0CK-01	Diploid	712.727	CCNB1: Diploid
+TCGA-A2-A0CL-01	Diploid	730.541	CCNB1: Diploid
+TCGA-A2-A0CP-01	Diploid	241.287	CCNB1: Diploid
+TCGA-A2-A0CQ-01	Diploid	856.096	CCNB1: Diploid
+TCGA-A2-A0CR-01	Diploid	490.023	CCNB1: Diploid
+TCGA-A2-A0CS-01	Diploid	727.734	CCNB1: Diploid
+TCGA-A2-A0CT-01	Diploid	1166.39	CCNB1: Diploid
+TCGA-A2-A0CU-01	Diploid	1080.57	CCNB1: Diploid
+TCGA-A2-A0CV-01	Diploid	347.844	CCNB1: Diploid
+TCGA-A2-A0CW-01	Diploid	2582.55	CCNB1: Diploid
+TCGA-A2-A0D2-01	Diploid	2891.52	CCNB1: Diploid
+TCGA-A2-A0D3-01	Diploid	302.112	CCNB1: Diploid
+TCGA-A2-A0D4-01	Diploid	2117.2	CCNB1: Diploid
+TCGA-A2-A0EM-01	Diploid	508.168	CCNB1: Diploid
+TCGA-A2-A0EO-01	Diploid	581.779	CCNB1: Diploid
+TCGA-A2-A0EP-01	Diploid	488.705	CCNB1: Diploid
+TCGA-A2-A0ER-01	Diploid	1300.36	CCNB1: Diploid
+TCGA-A2-A0ES-01	Diploid	333.612	CCNB1: Diploid
+TCGA-A2-A0EW-01	Diploid	297.202	CCNB1: Diploid
+TCGA-A2-A0EX-01	Diploid	408.932	CCNB1: Diploid
+TCGA-A2-A0ST-01	Diploid	1008.66	CCNB1: Diploid
+TCGA-A2-A0SU-01	Diploid	742.574	CCNB1: Diploid
+TCGA-A2-A0SV-01	Diploid	2207.71	CCNB1: Diploid
+TCGA-A2-A0SW-01	Diploid	1403.49	CCNB1: Diploid
+TCGA-A2-A0SY-01	Diploid	698.258	CCNB1: Diploid
+TCGA-A2-A0T2-01	Diploid	1057.51	CCNB1: Diploid
+TCGA-A2-A0T3-01	Diploid	1690.76	CCNB1: Diploid
+TCGA-A2-A0T4-01	Diploid	1472.91	CCNB1: Diploid
+TCGA-A2-A0T5-01	Diploid	849.093	CCNB1: Diploid
+TCGA-A2-A0YC-01	Diploid	634.966	CCNB1: Diploid
+TCGA-A2-A0YD-01	Diploid	315.323	CCNB1: Diploid
+TCGA-A2-A0YF-01	Diploid	979.012	CCNB1: Diploid
+TCGA-A2-A0YI-01	Diploid	246.571	CCNB1: Diploid
+TCGA-A2-A0YK-01	Diploid	352.183	CCNB1: Diploid
+TCGA-A2-A0YL-01	Diploid	849.203	CCNB1: Diploid
+TCGA-A2-A0YT-01	Diploid	2033.58	CCNB1: Diploid
+TCGA-A2-A1FZ-01	Diploid	457.592	CCNB1: Diploid
+TCGA-A2-A1G4-01	Diploid	982.254	CCNB1: Diploid
+TCGA-A2-A1G6-01	Diploid	249.166	CCNB1: Diploid
+TCGA-A2-A259-01	Diploid	372.951	CCNB1: Diploid
+TCGA-A2-A25A-01	Diploid	638.134	CCNB1: Diploid
+TCGA-A2-A25B-01	Diploid	1906.37	CCNB1: Diploid
+TCGA-A2-A25C-01	Diploid	1344.07	CCNB1: Diploid
+TCGA-A2-A25D-01	Diploid	844.631	CCNB1: Diploid
+TCGA-A2-A25F-01	Diploid	1481.07	CCNB1: Diploid
+TCGA-A2-A3KD-01	Diploid	723.995	CCNB1: Diploid
+TCGA-A2-A3XV-01	Diploid	1005.59	CCNB1: Diploid
+TCGA-A2-A3XW-01	Diploid	373.14	CCNB1: Diploid
+TCGA-A2-A3XZ-01	Diploid	1037.22	CCNB1: Diploid
+TCGA-A7-A0CE-01	Diploid	2458.51	CCNB1: Diploid
+TCGA-A7-A0CG-01	Diploid	598.509	CCNB1: Diploid
+TCGA-A7-A0CH-01	Diploid	520.738	CCNB1: Diploid
+TCGA-A7-A0D9-01	Diploid	422.396	CCNB1: Diploid
+TCGA-A7-A13G-01	Diploid	366.987	CCNB1: Diploid
+TCGA-A7-A26E-01	Diploid	734.006	CCNB1: Diploid
+TCGA-A7-A26F-01	Diploid	1760.05	CCNB1: Diploid
+TCGA-A7-A26H-01	Diploid	581.462	CCNB1: Diploid
+TCGA-A7-A3RF-01	Diploid	459.903	CCNB1: Diploid
+TCGA-A7-A5ZW-01	Diploid	352.429	CCNB1: Diploid
+TCGA-A7-A5ZX-01	Diploid	249.616	CCNB1: Diploid
+TCGA-A7-A6VX-01	Diploid	957.964	CCNB1: Diploid
+TCGA-A8-A06P-01	Diploid	391.276	CCNB1: Diploid
+TCGA-A8-A06T-01	Diploid	850.192	CCNB1: Diploid
+TCGA-A8-A06U-01	Diploid	1090.63	CCNB1: Diploid
+TCGA-A8-A06Y-01	Diploid	621.596	CCNB1: Diploid
+TCGA-A8-A075-01	Diploid	1713.88	CCNB1: Diploid
+TCGA-A8-A079-01	Diploid	3526.3	CCNB1: Diploid
+TCGA-A8-A07B-01	Diploid	1783.6	CCNB1: Diploid
+TCGA-A8-A07E-01	Diploid	1131.52	CCNB1: Diploid
+TCGA-A8-A07F-01	Diploid	562.399	CCNB1: Diploid
+TCGA-A8-A07I-01	Diploid	1385.07	CCNB1: Diploid
+TCGA-A8-A07J-01	Diploid	316.044	CCNB1: Diploid
+TCGA-A8-A07L-01	Diploid	2752.23	CCNB1: Diploid
+TCGA-A8-A07P-01	Diploid	925.363	CCNB1: Diploid
+TCGA-A8-A082-01	Diploid	1201.6	CCNB1: Diploid
+TCGA-A8-A085-01	Diploid	612.743	CCNB1: Diploid
+TCGA-A8-A086-01	Diploid	978.827	CCNB1: Diploid
+TCGA-A8-A08A-01	Diploid	538.379	CCNB1: Diploid
+TCGA-A8-A08B-01	Diploid	2067.14	CCNB1: Diploid
+TCGA-A8-A08H-01	Diploid	1000.56	CCNB1: Diploid
+TCGA-A8-A08J-01	Diploid	1027.94	CCNB1: Diploid
+TCGA-A8-A08O-01	Diploid	943.872	CCNB1: Diploid
+TCGA-A8-A08P-01	Diploid	1437.88	CCNB1: Diploid
+TCGA-A8-A08Z-01	Diploid	607.05	CCNB1: Diploid
+TCGA-A8-A090-01	Diploid	981.267	CCNB1: Diploid
+TCGA-A8-A091-01	Diploid	478.335	CCNB1: Diploid
+TCGA-A8-A092-01	Diploid	2223.97	CCNB1: Diploid
+TCGA-A8-A096-01	Diploid	691.118	CCNB1: Diploid
+TCGA-A8-A099-01	Diploid	428.267	CCNB1: Diploid
+TCGA-A8-A09D-01	Diploid	1414.19	CCNB1: Diploid
+TCGA-A8-A09G-01	Diploid	1624.43	CCNB1: Diploid
+TCGA-A8-A09I-01	Diploid	2298.96	CCNB1: Diploid
+TCGA-A8-A09N-01	Diploid	1582.81	CCNB1: Diploid
+TCGA-A8-A09T-01	Diploid	878.145	CCNB1: Diploid
+TCGA-A8-A09V-01	Diploid	610.668	CCNB1: Diploid
+TCGA-A8-A09W-01	Diploid	2298.77	CCNB1: Diploid
+TCGA-A8-A09Z-01	Diploid	348.68	CCNB1: Diploid
+TCGA-A8-A0A2-01	Diploid	651.032	CCNB1: Diploid
+TCGA-A8-A0A6-01	Diploid	499.534	CCNB1: Diploid
+TCGA-A8-A0A7-01	Diploid	974.872	CCNB1: Diploid
+TCGA-A8-A0AB-01	Diploid	891.371	CCNB1: Diploid
+TCGA-A8-A0AD-01	Diploid	617.429	CCNB1: Diploid
+TCGA-AC-A23C-01	Diploid	797.413	CCNB1: Diploid
+TCGA-AC-A23H-01	Diploid	1172.95	CCNB1: Diploid
+TCGA-AC-A2B8-01	Diploid	364.575	CCNB1: Diploid
+TCGA-AC-A2BM-01	Diploid	995.687	CCNB1: Diploid
+TCGA-AC-A2FB-01	Diploid	405.543	CCNB1: Diploid
+TCGA-AC-A2FF-01	Diploid	597.746	CCNB1: Diploid
+TCGA-AC-A2FG-01	Diploid	253.952	CCNB1: Diploid
+TCGA-AC-A2FK-01	Diploid	179.191	CCNB1: Diploid
+TCGA-AC-A2FO-01	Diploid	382.467	CCNB1: Diploid
+TCGA-AC-A2QH-01	Diploid	1478.98	CCNB1: Diploid
+TCGA-AC-A3OD-01	Diploid	865.973	CCNB1: Diploid
+TCGA-AC-A3QP-01	Diploid	424.914	CCNB1: Diploid
+TCGA-AC-A3QQ-01	Diploid	924.189	CCNB1: Diploid
+TCGA-AC-A3W5-01	Diploid	868.778	CCNB1: Diploid
+TCGA-AC-A3YI-01	Diploid	227.271	CCNB1: Diploid
+TCGA-AC-A3YJ-01	Diploid	475.333	CCNB1: Diploid
+TCGA-AC-A4ZE-01	Diploid	650.357	CCNB1: Diploid
+TCGA-AC-A5EH-01	Diploid	1454.43	CCNB1: Diploid
+TCGA-AC-A5XS-01	Diploid	923.517	CCNB1: Diploid
+TCGA-AC-A62V-01	Diploid	1739.37	CCNB1: Diploid
+TCGA-AC-A62Y-01	Diploid	721.467	CCNB1: Diploid
+TCGA-AC-A6IV-01	Diploid	574.824	CCNB1: Diploid
+TCGA-AC-A6IX-01	Diploid	561.845	CCNB1: Diploid
+TCGA-AC-A6NO-01	Diploid	713.325	CCNB1: Diploid
+TCGA-AC-A7VB-01	Diploid	1434.88	CCNB1: Diploid
+TCGA-AC-A8OR-01	Diploid	506.917	CCNB1: Diploid
+TCGA-AC-A8OS-01	Diploid	341.528	CCNB1: Diploid
+TCGA-AN-A03X-01	Diploid	745.017	CCNB1: Diploid
+TCGA-AN-A046-01	Diploid	1051.12	CCNB1: Diploid
+TCGA-AN-A049-01	Diploid	1171.87	CCNB1: Diploid
+TCGA-AN-A04A-01	Diploid	721.639	CCNB1: Diploid
+TCGA-AN-A0FD-01	Diploid	947.319	CCNB1: Diploid
+TCGA-AN-A0FF-01	Diploid	1082.91	CCNB1: Diploid
+TCGA-AN-A0FN-01	Diploid	442.005	CCNB1: Diploid
+TCGA-AN-A0FS-01	Diploid	425.944	CCNB1: Diploid
+TCGA-AN-A0FW-01	Diploid	1577.98	CCNB1: Diploid
+TCGA-AN-A0XL-01	Diploid	604.067	CCNB1: Diploid
+TCGA-AN-A0XP-01	Diploid	466.56	CCNB1: Diploid
+TCGA-AN-A0XR-01	Diploid	1312.11	CCNB1: Diploid
+TCGA-AN-A0XS-01	Diploid	538.131	CCNB1: Diploid
+TCGA-AN-A0XT-01	Diploid	509.491	CCNB1: Diploid
+TCGA-AN-A0XV-01	Diploid	1030.33	CCNB1: Diploid
+TCGA-AN-A0XW-01	Diploid	1857.62	CCNB1: Diploid
+TCGA-AO-A03N-01	Diploid	1728.59	CCNB1: Diploid
+TCGA-AO-A03O-01	Diploid	1681.66	CCNB1: Diploid
+TCGA-AO-A03P-01	Diploid	1132.98	CCNB1: Diploid
+TCGA-AO-A03R-01	Diploid	2702.72	CCNB1: Diploid
+TCGA-AO-A03T-01	Diploid	1531.3	CCNB1: Diploid
+TCGA-AO-A03U-01	Diploid	286.543	CCNB1: Diploid
+TCGA-AO-A03V-01	Diploid	729.804	CCNB1: Diploid
+TCGA-AO-A0J3-01	Diploid	1204.8	CCNB1: Diploid
+TCGA-AO-A0J8-01	Diploid	572.932	CCNB1: Diploid
+TCGA-AO-A0JA-01	Diploid	1303.09	CCNB1: Diploid
+TCGA-AO-A0JD-01	Diploid	4397.33	CCNB1: Diploid
+TCGA-AO-A0JE-01	Diploid	1120.08	CCNB1: Diploid
+TCGA-AO-A0JF-01	Diploid	383.167	CCNB1: Diploid
+TCGA-AO-A0JG-01	Diploid	189.107	CCNB1: Diploid
+TCGA-AO-A0JI-01	Diploid	793.26	CCNB1: Diploid
+TCGA-AO-A0JJ-01	Diploid	670.148	CCNB1: Diploid
+TCGA-AO-A125-01	Diploid	470.785	CCNB1: Diploid
+TCGA-AO-A126-01	Diploid	914.545	CCNB1: Diploid
+TCGA-AO-A128-01	Diploid	1312.89	CCNB1: Diploid
+TCGA-AO-A12D-01	Diploid	945.332	CCNB1: Diploid
+TCGA-AO-A12G-01	Diploid	678	CCNB1: Diploid
+TCGA-AO-A12H-01	Diploid	612.272	CCNB1: Diploid
+TCGA-AO-A1KO-01	Diploid	214.118	CCNB1: Diploid
+TCGA-AO-A1KP-01	Diploid	1248.03	CCNB1: Diploid
+TCGA-AO-A1KT-01	Diploid	1241.13	CCNB1: Diploid
+TCGA-AQ-A04H-01	Diploid	1033.5	CCNB1: Diploid
+TCGA-AQ-A1H2-01	Diploid	442.8	CCNB1: Diploid
+TCGA-AQ-A1H3-01	Diploid	615.571	CCNB1: Diploid
+TCGA-AQ-A7U7-01	Diploid	452.483	CCNB1: Diploid
+TCGA-AR-A0TQ-01	Diploid	1970.72	CCNB1: Diploid
+TCGA-AR-A0TS-01	Diploid	1243.94	CCNB1: Diploid
+TCGA-AR-A0TX-01	Diploid	1034.18	CCNB1: Diploid
+TCGA-AR-A0TY-01	Diploid	2358.27	CCNB1: Diploid
+TCGA-AR-A0TZ-01	Diploid	1104.81	CCNB1: Diploid
+TCGA-AR-A0U3-01	Diploid	2068.45	CCNB1: Diploid
+TCGA-AR-A1AL-01	Diploid	396.776	CCNB1: Diploid
+TCGA-AR-A1AN-01	Diploid	481.306	CCNB1: Diploid
+TCGA-AR-A1AO-01	Diploid	659.712	CCNB1: Diploid
+TCGA-AR-A1AP-01	Diploid	1025.19	CCNB1: Diploid
+TCGA-AR-A1AS-01	Diploid	785.232	CCNB1: Diploid
+TCGA-AR-A1AW-01	Diploid	673.856	CCNB1: Diploid
+TCGA-AR-A1AX-01	Diploid	969.754	CCNB1: Diploid
+TCGA-AR-A24H-01	Diploid	1870.28	CCNB1: Diploid
+TCGA-AR-A24L-01	Diploid	1053.28	CCNB1: Diploid
+TCGA-AR-A24M-01	Diploid	488.595	CCNB1: Diploid
+TCGA-AR-A24N-01	Diploid	1072.87	CCNB1: Diploid
+TCGA-AR-A24O-01	Diploid	682.62	CCNB1: Diploid
+TCGA-AR-A24P-01	Diploid	975.264	CCNB1: Diploid
+TCGA-AR-A24T-01	Diploid	308.56	CCNB1: Diploid
+TCGA-AR-A24X-01	Diploid	666.035	CCNB1: Diploid
+TCGA-AR-A252-01	Diploid	501.63	CCNB1: Diploid
+TCGA-AR-A254-01	Diploid	1771.71	CCNB1: Diploid
+TCGA-AR-A2LE-01	Diploid	390.22	CCNB1: Diploid
+TCGA-AR-A2LH-01	Diploid	1277.08	CCNB1: Diploid
+TCGA-AR-A2LM-01	Diploid	298.866	CCNB1: Diploid
+TCGA-AR-A2LN-01	Diploid	155.75	CCNB1: Diploid
+TCGA-AR-A2LO-01	Diploid	801.746	CCNB1: Diploid
+TCGA-AR-A2LQ-01	Diploid	329.955	CCNB1: Diploid
+TCGA-AR-A5QN-01	Diploid	415.329	CCNB1: Diploid
+TCGA-AR-A5QQ-01	Diploid	4241.93	CCNB1: Diploid
+TCGA-B6-A0I2-01	Diploid	1595.49	CCNB1: Diploid
+TCGA-B6-A0I5-01	Diploid	734.646	CCNB1: Diploid
+TCGA-B6-A0I9-01	Diploid	1750.48	CCNB1: Diploid
+TCGA-B6-A0IA-01	Diploid	1385.82	CCNB1: Diploid
+TCGA-B6-A0IC-01	Diploid	650.973	CCNB1: Diploid
+TCGA-B6-A0IH-01	Diploid	219.6	CCNB1: Diploid
+TCGA-B6-A0IK-01	Diploid	2209.83	CCNB1: Diploid
+TCGA-B6-A0IM-01	Diploid	732.714	CCNB1: Diploid
+TCGA-B6-A0IN-01	Diploid	891.194	CCNB1: Diploid
+TCGA-B6-A0IP-01	Diploid	702.228	CCNB1: Diploid
+TCGA-B6-A0RE-01	Diploid	3013.79	CCNB1: Diploid
+TCGA-B6-A0RG-01	Diploid	1282.04	CCNB1: Diploid
+TCGA-B6-A0RH-01	Diploid	1536.11	CCNB1: Diploid
+TCGA-B6-A0RI-01	Diploid	1252.5	CCNB1: Diploid
+TCGA-B6-A0RL-01	Diploid	2274.77	CCNB1: Diploid
+TCGA-B6-A0RM-01	Diploid	746.889	CCNB1: Diploid
+TCGA-B6-A0RN-01	Diploid	346.673	CCNB1: Diploid
+TCGA-B6-A0RO-01	Diploid	538.019	CCNB1: Diploid
+TCGA-B6-A0RQ-01	Diploid	219.497	CCNB1: Diploid
+TCGA-B6-A0RT-01	Diploid	1884.28	CCNB1: Diploid
+TCGA-B6-A0RV-01	Diploid	910.484	CCNB1: Diploid
+TCGA-B6-A0WS-01	Diploid	583.076	CCNB1: Diploid
+TCGA-B6-A0WT-01	Diploid	591.672	CCNB1: Diploid
+TCGA-B6-A0WW-01	Diploid	1061.33	CCNB1: Diploid
+TCGA-B6-A0WZ-01	Diploid	902.362	CCNB1: Diploid
+TCGA-B6-A0X0-01	Diploid	642.512	CCNB1: Diploid
+TCGA-B6-A0X4-01	Diploid	370.72	CCNB1: Diploid
+TCGA-B6-A0X5-01	Diploid	1876.14	CCNB1: Diploid
+TCGA-B6-A0X7-01	Diploid	430.484	CCNB1: Diploid
+TCGA-B6-A1KC-01	Diploid	948.743	CCNB1: Diploid
+TCGA-B6-A1KN-01	Diploid	1702.71	CCNB1: Diploid
+TCGA-B6-A2IU-01	Diploid	843.278	CCNB1: Diploid
+TCGA-B6-A401-01	Diploid	677.044	CCNB1: Diploid
+TCGA-B6-A40C-01	Diploid	977.089	CCNB1: Diploid
+TCGA-BH-A0AW-01	Diploid	1532.54	CCNB1: Diploid
+TCGA-BH-A0AY-01	Diploid	723.164	CCNB1: Diploid
+TCGA-BH-A0AZ-01	Diploid	420.22	CCNB1: Diploid
+TCGA-BH-A0B0-01	Diploid	666.667	CCNB1: Diploid
+TCGA-BH-A0B4-01	Diploid	977.697	CCNB1: Diploid
+TCGA-BH-A0BC-01	Diploid	911.235	CCNB1: Diploid
+TCGA-BH-A0BD-01	Diploid	1914.32	CCNB1: Diploid
+TCGA-BH-A0BM-01	Diploid	242.675	CCNB1: Diploid
+TCGA-BH-A0BO-01	Diploid	171.54	CCNB1: Diploid
+TCGA-BH-A0BQ-01	Diploid	445.655	CCNB1: Diploid
+TCGA-BH-A0BR-01	Diploid	1154.94	CCNB1: Diploid
+TCGA-BH-A0BS-01	Diploid	723.097	CCNB1: Diploid
+TCGA-BH-A0BV-01	Diploid	751.727	CCNB1: Diploid
+TCGA-BH-A0BZ-01	Diploid	1501.7	CCNB1: Diploid
+TCGA-BH-A0C3-01	Diploid	746.616	CCNB1: Diploid
+TCGA-BH-A0C7-01	Diploid	1679.45	CCNB1: Diploid
+TCGA-BH-A0DD-01	Diploid	2250.35	CCNB1: Diploid
+TCGA-BH-A0DE-01	Diploid	382.473	CCNB1: Diploid
+TCGA-BH-A0DG-01	Diploid	921.776	CCNB1: Diploid
+TCGA-BH-A0DH-01	Diploid	745.578	CCNB1: Diploid
+TCGA-BH-A0DK-01	Diploid	952.295	CCNB1: Diploid
+TCGA-BH-A0DL-01	Diploid	1847.75	CCNB1: Diploid
+TCGA-BH-A0DO-01	Diploid	272.462	CCNB1: Diploid
+TCGA-BH-A0DQ-01	Diploid	938.7	CCNB1: Diploid
+TCGA-BH-A0DT-01	Diploid	463.196	CCNB1: Diploid
+TCGA-BH-A0DV-01	Diploid	252.66	CCNB1: Diploid
+TCGA-BH-A0DX-01	Diploid	1110.16	CCNB1: Diploid
+TCGA-BH-A0DZ-01	Diploid	2409.32	CCNB1: Diploid
+TCGA-BH-A0E1-01	Diploid	2101.59	CCNB1: Diploid
+TCGA-BH-A0E2-01	Diploid	2183.28	CCNB1: Diploid
+TCGA-BH-A0E7-01	Diploid	475.908	CCNB1: Diploid
+TCGA-BH-A0E9-01	Diploid	494.382	CCNB1: Diploid
+TCGA-BH-A0EA-01	Diploid	182.797	CCNB1: Diploid
+TCGA-BH-A0GY-01	Diploid	1535.17	CCNB1: Diploid
+TCGA-BH-A0GZ-01	Diploid	1038.1	CCNB1: Diploid
+TCGA-BH-A0H0-01	Diploid	1163.7	CCNB1: Diploid
+TCGA-BH-A0H3-01	Diploid	287.835	CCNB1: Diploid
+TCGA-BH-A0H5-01	Diploid	455.343	CCNB1: Diploid
+TCGA-BH-A0H6-01	Diploid	455.393	CCNB1: Diploid
+TCGA-BH-A0H9-01	Diploid	1219.82	CCNB1: Diploid
+TCGA-BH-A0HB-01	Diploid	2084.17	CCNB1: Diploid
+TCGA-BH-A0HI-01	Diploid	475.78	CCNB1: Diploid
+TCGA-BH-A0HK-01	Diploid	474.71	CCNB1: Diploid
+TCGA-BH-A0HO-01	Diploid	595.588	CCNB1: Diploid
+TCGA-BH-A0HP-01	Diploid	849.694	CCNB1: Diploid
+TCGA-BH-A0HU-01	Diploid	3083.6	CCNB1: Diploid
+TCGA-BH-A0HW-01	Diploid	892.381	CCNB1: Diploid
+TCGA-BH-A0RX-01	Diploid	1878.39	CCNB1: Diploid
+TCGA-BH-A0W3-01	Diploid	1065	CCNB1: Diploid
+TCGA-BH-A0W4-01	Diploid	755.756	CCNB1: Diploid
+TCGA-BH-A18F-01	Diploid	1346.41	CCNB1: Diploid
+TCGA-BH-A18G-01	Diploid	1576.25	CCNB1: Diploid
+TCGA-BH-A18I-01	Diploid	541.472	CCNB1: Diploid
+TCGA-BH-A18J-01	Diploid	1207.4	CCNB1: Diploid
+TCGA-BH-A18P-01	Diploid	1489.7	CCNB1: Diploid
+TCGA-BH-A18Q-01	Diploid	1694.8	CCNB1: Diploid
+TCGA-BH-A18R-01	Diploid	2273.11	CCNB1: Diploid
+TCGA-BH-A18S-01	Diploid	341.94	CCNB1: Diploid
+TCGA-BH-A1ET-01	Diploid	284.161	CCNB1: Diploid
+TCGA-BH-A1EX-01	Diploid	360.975	CCNB1: Diploid
+TCGA-BH-A1EY-01	Diploid	619.741	CCNB1: Diploid
+TCGA-BH-A1F5-01	Diploid	701.179	CCNB1: Diploid
+TCGA-BH-A1F8-01	Diploid	1581.89	CCNB1: Diploid
+TCGA-BH-A1FH-01	Diploid	245.53	CCNB1: Diploid
+TCGA-BH-A1FJ-01	Diploid	1473.58	CCNB1: Diploid
+TCGA-BH-A1FL-01	Diploid	720.191	CCNB1: Diploid
+TCGA-BH-A1FM-01	Diploid	1988.94	CCNB1: Diploid
+TCGA-BH-A1FR-01	Diploid	765.541	CCNB1: Diploid
+TCGA-BH-A201-01	Diploid	756.425	CCNB1: Diploid
+TCGA-BH-A204-01	Diploid	1320.39	CCNB1: Diploid
+TCGA-BH-A28Q-01	Diploid	455.494	CCNB1: Diploid
+TCGA-BH-A42U-01	Diploid	297.67	CCNB1: Diploid
+TCGA-BH-A42V-01	Diploid	352.205	CCNB1: Diploid
+TCGA-BH-A5J0-01	Diploid	961.075	CCNB1: Diploid
+TCGA-BH-A8FZ-01	Diploid	455.739	CCNB1: Diploid
+TCGA-BH-A8G0-01	Diploid	200.018	CCNB1: Diploid
+TCGA-BH-AB28-01	Diploid	554.404	CCNB1: Diploid
+TCGA-C8-A12N-01	Diploid	474.856	CCNB1: Diploid
+TCGA-C8-A12T-01	Diploid	2533.39	CCNB1: Diploid
+TCGA-C8-A12U-01	Diploid	2366.78	CCNB1: Diploid
+TCGA-C8-A12V-01	Diploid	1057.18	CCNB1: Diploid
+TCGA-C8-A12Y-01	Diploid	1282.52	CCNB1: Diploid
+TCGA-C8-A12Z-01	Diploid	1958.94	CCNB1: Diploid
+TCGA-C8-A132-01	Diploid	993.822	CCNB1: Diploid
+TCGA-C8-A133-01	Diploid	415.76	CCNB1: Diploid
+TCGA-C8-A137-01	Diploid	2590.02	CCNB1: Diploid
+TCGA-C8-A1HE-01	Diploid	616.518	CCNB1: Diploid
+TCGA-C8-A1HL-01	Diploid	2833.25	CCNB1: Diploid
+TCGA-C8-A1HN-01	Diploid	1735.51	CCNB1: Diploid
+TCGA-C8-A1HO-01	Diploid	882.48	CCNB1: Diploid
+TCGA-C8-A26V-01	Diploid	1622.49	CCNB1: Diploid
+TCGA-C8-A26Y-01	Diploid	1540.77	CCNB1: Diploid
+TCGA-C8-A26Z-01	Diploid	669.961	CCNB1: Diploid
+TCGA-C8-A273-01	Diploid	1277.02	CCNB1: Diploid
+TCGA-C8-A274-01	Diploid	941.779	CCNB1: Diploid
+TCGA-C8-A275-01	Diploid	2625.77	CCNB1: Diploid
+TCGA-C8-A3M7-01	Diploid	763.451	CCNB1: Diploid
+TCGA-C8-A3M8-01	Diploid	884	CCNB1: Diploid
+TCGA-C8-A8HP-01	Diploid	1765.76	CCNB1: Diploid
+TCGA-C8-A8HQ-01	Diploid	2406.55	CCNB1: Diploid
+TCGA-D8-A140-01	Diploid	578.885	CCNB1: Diploid
+TCGA-D8-A141-01	Diploid	414.568	CCNB1: Diploid
+TCGA-D8-A145-01	Diploid	427.764	CCNB1: Diploid
+TCGA-D8-A1J9-01	Diploid	1028	CCNB1: Diploid
+TCGA-D8-A1JC-01	Diploid	1659.04	CCNB1: Diploid
+TCGA-D8-A1JD-01	Diploid	1503.97	CCNB1: Diploid
+TCGA-D8-A1JI-01	Diploid	476.455	CCNB1: Diploid
+TCGA-D8-A1JN-01	Diploid	301.055	CCNB1: Diploid
+TCGA-D8-A1JS-01	Diploid	502.423	CCNB1: Diploid
+TCGA-D8-A1JU-01	Diploid	193.065	CCNB1: Diploid
+TCGA-D8-A1X5-01	Diploid	624.85	CCNB1: Diploid
+TCGA-D8-A1X7-01	Diploid	551.668	CCNB1: Diploid
+TCGA-D8-A1X8-01	Diploid	717.116	CCNB1: Diploid
+TCGA-D8-A1X9-01	Diploid	855.444	CCNB1: Diploid
+TCGA-D8-A1XC-01	Diploid	434.455	CCNB1: Diploid
+TCGA-D8-A1XG-01	Diploid	503.195	CCNB1: Diploid
+TCGA-D8-A1XM-01	Diploid	791.139	CCNB1: Diploid
+TCGA-D8-A1XO-01	Diploid	509.096	CCNB1: Diploid
+TCGA-D8-A1XR-01	Diploid	1179.07	CCNB1: Diploid
+TCGA-D8-A1XV-01	Diploid	657.908	CCNB1: Diploid
+TCGA-D8-A1Y1-01	Diploid	1818.23	CCNB1: Diploid
+TCGA-D8-A27E-01	Diploid	287.956	CCNB1: Diploid
+TCGA-D8-A27G-01	Diploid	787.634	CCNB1: Diploid
+TCGA-D8-A27K-01	Diploid	422.664	CCNB1: Diploid
+TCGA-D8-A27L-01	Diploid	500.677	CCNB1: Diploid
+TCGA-D8-A27N-01	Diploid	1097.08	CCNB1: Diploid
+TCGA-D8-A27P-01	Diploid	453.113	CCNB1: Diploid
+TCGA-D8-A27T-01	Diploid	861.953	CCNB1: Diploid
+TCGA-D8-A3Z6-01	Diploid	280.144	CCNB1: Diploid
+TCGA-D8-A4Z1-01	Diploid	324.901	CCNB1: Diploid
+TCGA-D8-A73U-01	Diploid	191.43	CCNB1: Diploid
+TCGA-D8-A73W-01	Diploid	354.933	CCNB1: Diploid
+TCGA-E2-A105-01	Diploid	1111.22	CCNB1: Diploid
+TCGA-E2-A108-01	Diploid	624.577	CCNB1: Diploid
+TCGA-E2-A109-01	Diploid	1907.93	CCNB1: Diploid
+TCGA-E2-A10A-01	Diploid	1126.01	CCNB1: Diploid
+TCGA-E2-A10C-01	Diploid	997.146	CCNB1: Diploid
+TCGA-E2-A10F-01	Diploid	584.87	CCNB1: Diploid
+TCGA-E2-A14P-01	Diploid	1959.15	CCNB1: Diploid
+TCGA-E2-A14Q-01	Diploid	720.876	CCNB1: Diploid
+TCGA-E2-A14V-01	Diploid	2931.03	CCNB1: Diploid
+TCGA-E2-A14W-01	Diploid	1850.02	CCNB1: Diploid
+TCGA-E2-A14X-01	Diploid	1357.8	CCNB1: Diploid
+TCGA-E2-A14Y-01	Diploid	4847.01	CCNB1: Diploid
+TCGA-E2-A154-01	Diploid	765.408	CCNB1: Diploid
+TCGA-E2-A156-01	Diploid	438.622	CCNB1: Diploid
+TCGA-E2-A15C-01	Diploid	348.8	CCNB1: Diploid
+TCGA-E2-A15D-01	Diploid	275.657	CCNB1: Diploid
+TCGA-E2-A15F-01	Diploid	1255.73	CCNB1: Diploid
+TCGA-E2-A15H-01	Diploid	1362.98	CCNB1: Diploid
+TCGA-E2-A15I-01	Diploid	231.73	CCNB1: Diploid
+TCGA-E2-A15J-01	Diploid	787.279	CCNB1: Diploid
+TCGA-E2-A15K-01	Diploid	1107.65	CCNB1: Diploid
+TCGA-E2-A15O-01	Diploid	1011.64	CCNB1: Diploid
+TCGA-E2-A15P-01	Diploid	386.5	CCNB1: Diploid
+TCGA-E2-A15R-01	Diploid	888.967	CCNB1: Diploid
+TCGA-E2-A15S-01	Diploid	1608.05	CCNB1: Diploid
+TCGA-E2-A15T-01	Diploid	1201.79	CCNB1: Diploid
+TCGA-E2-A1B1-01	Diploid	673.893	CCNB1: Diploid
+TCGA-E2-A1B4-01	Diploid	450.466	CCNB1: Diploid
+TCGA-E2-A1BC-01	Diploid	236.277	CCNB1: Diploid
+TCGA-E2-A1IE-01	Diploid	1007.79	CCNB1: Diploid
+TCGA-E2-A1IF-01	Diploid	746.178	CCNB1: Diploid
+TCGA-E2-A1IG-01	Diploid	545.676	CCNB1: Diploid
+TCGA-E2-A1IJ-01	Diploid	285.164	CCNB1: Diploid
+TCGA-E2-A1IK-01	Diploid	696.667	CCNB1: Diploid
+TCGA-E2-A1IL-01	Diploid	273.3	CCNB1: Diploid
+TCGA-E2-A1L8-01	Diploid	688.241	CCNB1: Diploid
+TCGA-E2-A1LA-01	Diploid	1279.93	CCNB1: Diploid
+TCGA-E2-A1LB-01	Diploid	776.817	CCNB1: Diploid
+TCGA-E2-A2P6-01	Diploid	929.459	CCNB1: Diploid
+TCGA-E2-A56Z-01	Diploid	1269.61	CCNB1: Diploid
+TCGA-E2-A570-01	Diploid	826.11	CCNB1: Diploid
+TCGA-E2-A576-01	Diploid	1467.46	CCNB1: Diploid
+TCGA-E9-A1N3-01	Diploid	762.523	CCNB1: Diploid
+TCGA-E9-A1N4-01	Diploid	718.951	CCNB1: Diploid
+TCGA-E9-A1N5-01	Diploid	962.715	CCNB1: Diploid
+TCGA-E9-A1N9-01	Diploid	1715.47	CCNB1: Diploid
+TCGA-E9-A1NE-01	Diploid	991.857	CCNB1: Diploid
+TCGA-E9-A1NF-01	Diploid	627.202	CCNB1: Diploid
+TCGA-E9-A1NG-01	Diploid	390.987	CCNB1: Diploid
+TCGA-E9-A1NH-01	Diploid	375.224	CCNB1: Diploid
+TCGA-E9-A1QZ-01	Diploid	1014.44	CCNB1: Diploid
+TCGA-E9-A1R0-01	Diploid	880.173	CCNB1: Diploid
+TCGA-E9-A1R2-01	Diploid	807.728	CCNB1: Diploid
+TCGA-E9-A1R7-01	Diploid	1130.54	CCNB1: Diploid
+TCGA-E9-A1RA-01	Diploid	761.77	CCNB1: Diploid
+TCGA-E9-A1RE-01	Diploid	1051.93	CCNB1: Diploid
+TCGA-E9-A1RF-01	Diploid	880.953	CCNB1: Diploid
+TCGA-E9-A1RI-01	Diploid	436.586	CCNB1: Diploid
+TCGA-E9-A226-01	Diploid	1152.12	CCNB1: Diploid
+TCGA-E9-A227-01	Diploid	633.94	CCNB1: Diploid
+TCGA-E9-A228-01	Diploid	1835.05	CCNB1: Diploid
+TCGA-E9-A229-01	Diploid	858.439	CCNB1: Diploid
+TCGA-E9-A22B-01	Diploid	1202.52	CCNB1: Diploid
+TCGA-E9-A22H-01	Diploid	1476.64	CCNB1: Diploid
+TCGA-E9-A243-01	Diploid	1233.37	CCNB1: Diploid
+TCGA-E9-A245-01	Diploid	868.737	CCNB1: Diploid
+TCGA-E9-A248-01	Diploid	3310.46	CCNB1: Diploid
+TCGA-E9-A24A-01	Diploid	513.797	CCNB1: Diploid
+TCGA-E9-A2JT-01	Diploid	584.278	CCNB1: Diploid
+TCGA-E9-A3HO-01	Diploid	1283.91	CCNB1: Diploid
+TCGA-E9-A3X8-01	Diploid	749.768	CCNB1: Diploid
+TCGA-E9-A54Y-01	Diploid	1569.31	CCNB1: Diploid
+TCGA-E9-A5FK-01	Diploid	562.27	CCNB1: Diploid
+TCGA-E9-A5FL-01	Diploid	1708.66	CCNB1: Diploid
+TCGA-E9-A5UO-01	Diploid	514.595	CCNB1: Diploid
+TCGA-E9-A6HE-01	Diploid	1201.69	CCNB1: Diploid
+TCGA-EW-A1IW-01	Diploid	1232.3	CCNB1: Diploid
+TCGA-EW-A1IX-01	Diploid	223.762	CCNB1: Diploid
+TCGA-EW-A1IZ-01	Diploid	954.784	CCNB1: Diploid
+TCGA-EW-A1J2-01	Diploid	197.1	CCNB1: Diploid
+TCGA-EW-A1J5-01	Diploid	620.263	CCNB1: Diploid
+TCGA-EW-A1OX-01	Diploid	478.502	CCNB1: Diploid
+TCGA-EW-A1OY-01	Diploid	1733.33	CCNB1: Diploid
+TCGA-EW-A1OZ-01	Diploid	1405.64	CCNB1: Diploid
+TCGA-EW-A1P1-01	Diploid	325.051	CCNB1: Diploid
+TCGA-EW-A1P3-01	Diploid	1277.59	CCNB1: Diploid
+TCGA-EW-A1P6-01	Diploid	971.557	CCNB1: Diploid
+TCGA-EW-A1P7-01	Diploid	411.424	CCNB1: Diploid
+TCGA-EW-A1PB-01	Diploid	2085.42	CCNB1: Diploid
+TCGA-EW-A1PD-01	Diploid	956.38	CCNB1: Diploid
+TCGA-EW-A1PE-01	Diploid	484.463	CCNB1: Diploid
+TCGA-EW-A1PG-01	Diploid	208.84	CCNB1: Diploid
+TCGA-EW-A2FR-01	Diploid	874.025	CCNB1: Diploid
+TCGA-EW-A2FS-01	Diploid	964.034	CCNB1: Diploid
+TCGA-EW-A2FW-01	Diploid	3270.93	CCNB1: Diploid
+TCGA-EW-A6SC-01	Diploid	1082.7	CCNB1: Diploid
+TCGA-GI-A2C8-01	Diploid	130.187	CCNB1: Diploid
+TCGA-GM-A2D9-01	Diploid	447.578	CCNB1: Diploid
+TCGA-GM-A2DA-01	Diploid	760.043	CCNB1: Diploid
+TCGA-GM-A2DB-01	Diploid	1753.17	CCNB1: Diploid
+TCGA-GM-A2DC-01	Diploid	244.563	CCNB1: Diploid
+TCGA-GM-A2DI-01	Diploid	486.551	CCNB1: Diploid
+TCGA-GM-A2DK-01	Diploid	886.242	CCNB1: Diploid
+TCGA-GM-A2DL-01	Diploid	1565.84	CCNB1: Diploid
+TCGA-GM-A2DM-01	Diploid	325.558	CCNB1: Diploid
+TCGA-GM-A2DN-01	Diploid	739.684	CCNB1: Diploid
+TCGA-GM-A2DO-01	Diploid	1111.22	CCNB1: Diploid
+TCGA-GM-A4E0-01	Diploid	118.223	CCNB1: Diploid
+TCGA-GM-A5PX-01	Diploid	266.51	CCNB1: Diploid
+TCGA-JL-A3YX-01	Diploid	1609.79	CCNB1: Diploid
+TCGA-LD-A74U-01	Diploid	702.349	CCNB1: Diploid
+TCGA-LD-A7W5-01	Diploid	460.083	CCNB1: Diploid
+TCGA-LD-A7W6-01	Diploid	797.884	CCNB1: Diploid
+TCGA-LD-A9QF-01	Diploid	662.751	CCNB1: Diploid
+TCGA-LL-A440-01	Diploid	408.034	CCNB1: Diploid
+TCGA-LL-A50Y-01	Diploid	544.925	CCNB1: Diploid
+TCGA-LL-A5YL-01	Diploid	948.161	CCNB1: Diploid
+TCGA-LL-A5YO-01	Diploid	1414.84	CCNB1: Diploid
+TCGA-LL-A6FP-01	Diploid	504.704	CCNB1: Diploid
+TCGA-LL-A73Y-01	Diploid	704.172	CCNB1: Diploid
+TCGA-LL-A73Z-01	Diploid	973.37	CCNB1: Diploid
+TCGA-LL-A740-01	Diploid	677.836	CCNB1: Diploid
+TCGA-OK-A5Q2-01	Diploid	876.759	CCNB1: Diploid
+TCGA-OL-A5D6-01	Diploid	466.94	CCNB1: Diploid
+TCGA-OL-A5D8-01	Diploid	782.878	CCNB1: Diploid
+TCGA-OL-A5DA-01	Diploid	549.015	CCNB1: Diploid
+TCGA-OL-A5RU-01	Diploid	296.328	CCNB1: Diploid
+TCGA-OL-A5RV-01	Diploid	271.595	CCNB1: Diploid
+TCGA-OL-A5RX-01	Diploid	238.534	CCNB1: Diploid
+TCGA-OL-A5RY-01	Diploid	1060.65	CCNB1: Diploid
+TCGA-OL-A66H-01	Diploid	696.414	CCNB1: Diploid
+TCGA-OL-A66K-01	Diploid	396.643	CCNB1: Diploid
+TCGA-OL-A66L-01	Diploid	306.779	CCNB1: Diploid
+TCGA-OL-A66O-01	Diploid	1399.4	CCNB1: Diploid
+TCGA-OL-A66P-01	Diploid	1153.96	CCNB1: Diploid
+TCGA-OL-A6VQ-01	Diploid	322.245	CCNB1: Diploid
+TCGA-OL-A6VR-01	Diploid	404.32	CCNB1: Diploid
+TCGA-OL-A97C-01	Diploid	336.259	CCNB1: Diploid
+TCGA-PE-A5DC-01	Diploid	1505.31	CCNB1: Diploid
+TCGA-PE-A5DD-01	Diploid	1006.96	CCNB1: Diploid
+TCGA-PL-A8LY-01	Diploid	610.29	CCNB1: Diploid
+TCGA-S3-A6ZF-01	Diploid	1177.4	CCNB1: Diploid
+TCGA-S3-AA0Z-01	Diploid	2957.52	CCNB1: Diploid
+TCGA-S3-AA11-01	Diploid	997.779	CCNB1: Diploid
+TCGA-S3-AA12-01	Diploid	676.143	CCNB1: Diploid
+TCGA-S3-AA14-01	Diploid	786.101	CCNB1: Diploid
+TCGA-S3-AA15-01	Diploid	961.118	CCNB1: Diploid
+TCGA-S3-AA17-01	Diploid	837.471	CCNB1: Diploid
+TCGA-UL-AAZ6-01	Diploid	1164.93	CCNB1: Diploid
+TCGA-UU-A93S-01	Diploid	2626.63	CCNB1: Diploid
+TCGA-V7-A7HQ-01	Diploid	469.884	CCNB1: Diploid
+TCGA-WT-AB44-01	Diploid	185.706	CCNB1: Diploid
+TCGA-XX-A899-01	Diploid	553.937	CCNB1: Diploid
+TCGA-XX-A89A-01	Diploid	620.69	CCNB1: Diploid
+TCGA-3C-AAAU-01	Gain	1282.82	CCNB1: Gain
+TCGA-3C-AALI-01	Gain	1877.65	CCNB1: Gain
+TCGA-A1-A0SJ-01	Gain	1596.34	CCNB1: Gain
+TCGA-A1-A0SN-01	Gain	2553.56	CCNB1: Gain
+TCGA-A2-A0EN-01	Gain	452.433	CCNB1: Gain
+TCGA-A2-A0ET-01	Gain	846.154	CCNB1: Gain
+TCGA-A2-A0EU-01	Gain	1164.98	CCNB1: Gain
+TCGA-A2-A0EV-01	Gain	905.263	CCNB1: Gain
+TCGA-A2-A0T6-01	Gain	353.688	CCNB1: Gain
+TCGA-A2-A0T7-01	Gain	972.052	CCNB1: Gain
+TCGA-A2-A0YG-01	Gain	1982.94	CCNB1: Gain
+TCGA-A2-A1FV-01	Gain	876.512	CCNB1: Gain
+TCGA-A2-A1FW-01	Gain	1278.54	CCNB1: Gain
+TCGA-A2-A1FX-01	Gain	1398.14	CCNB1: Gain
+TCGA-A2-A1G0-01	Gain	334.32	CCNB1: Gain
+TCGA-A2-A3XU-01	Gain	3131.61	CCNB1: Gain
+TCGA-A2-A4S1-01	Gain	517.315	CCNB1: Gain
+TCGA-A2-A4S2-01	Gain	658.87	CCNB1: Gain
+TCGA-A7-A0CD-01	Gain	799.302	CCNB1: Gain
+TCGA-A7-A0CJ-01	Gain	2373.81	CCNB1: Gain
+TCGA-A7-A0DB-01	Gain	1011.97	CCNB1: Gain
+TCGA-A7-A13F-01	Gain	1700.8	CCNB1: Gain
+TCGA-A7-A26J-01	Gain	1236.23	CCNB1: Gain
+TCGA-A7-A425-01	Gain	951.561	CCNB1: Gain
+TCGA-A8-A06N-01	Gain	617.256	CCNB1: Gain
+TCGA-A8-A06O-01	Gain	1794.51	CCNB1: Gain
+TCGA-A8-A06Q-01	Gain	2325.71	CCNB1: Gain
+TCGA-A8-A06Z-01	Gain	1412.45	CCNB1: Gain
+TCGA-A8-A07G-01	Gain	717.376	CCNB1: Gain
+TCGA-A8-A07W-01	Gain	1782.79	CCNB1: Gain
+TCGA-A8-A07Z-01	Gain	1423.33	CCNB1: Gain
+TCGA-A8-A083-01	Gain	491.169	CCNB1: Gain
+TCGA-A8-A08G-01	Gain	1149.37	CCNB1: Gain
+TCGA-A8-A08I-01	Gain	1123.91	CCNB1: Gain
+TCGA-A8-A093-01	Gain	857.984	CCNB1: Gain
+TCGA-A8-A095-01	Gain	1404.62	CCNB1: Gain
+TCGA-A8-A097-01	Gain	1066.67	CCNB1: Gain
+TCGA-A8-A09B-01	Gain	848.117	CCNB1: Gain
+TCGA-A8-A09Q-01	Gain	1648.35	CCNB1: Gain
+TCGA-A8-A09R-01	Gain	1197.84	CCNB1: Gain
+TCGA-A8-A09X-01	Gain	2301.15	CCNB1: Gain
+TCGA-A8-A0A1-01	Gain	918.173	CCNB1: Gain
+TCGA-A8-A0A4-01	Gain	1382.34	CCNB1: Gain
+TCGA-A8-A0A9-01	Gain	1706.5	CCNB1: Gain
+TCGA-AC-A23E-01	Gain	593.396	CCNB1: Gain
+TCGA-AC-A3HN-01	Gain	631.514	CCNB1: Gain
+TCGA-AC-A5XU-01	Gain	1536.94	CCNB1: Gain
+TCGA-AC-A7VC-01	Gain	1191.32	CCNB1: Gain
+TCGA-AC-A8OP-01	Gain	484.54	CCNB1: Gain
+TCGA-AC-A8OQ-01	Gain	1617.15	CCNB1: Gain
+TCGA-AN-A03Y-01	Gain	3440.87	CCNB1: Gain
+TCGA-AN-A0AJ-01	Gain	5048.52	CCNB1: Gain
+TCGA-AN-A0AM-01	Gain	2112.29	CCNB1: Gain
+TCGA-AN-A0FK-01	Gain	1139.29	CCNB1: Gain
+TCGA-AN-A0XO-01	Gain	1213.84	CCNB1: Gain
+TCGA-AO-A03L-01	Gain	2197.61	CCNB1: Gain
+TCGA-AO-A0J7-01	Gain	2066.24	CCNB1: Gain
+TCGA-AO-A0J9-01	Gain	1108.26	CCNB1: Gain
+TCGA-AO-A0JC-01	Gain	711.033	CCNB1: Gain
+TCGA-AO-A0JM-01	Gain	1430.28	CCNB1: Gain
+TCGA-AO-A12A-01	Gain	746.162	CCNB1: Gain
+TCGA-AO-A12B-01	Gain	1233.53	CCNB1: Gain
+TCGA-AO-A12E-01	Gain	1372.4	CCNB1: Gain
+TCGA-AO-A1KS-01	Gain	2214.66	CCNB1: Gain
+TCGA-AQ-A0Y5-01	Gain	372.077	CCNB1: Gain
+TCGA-AQ-A54O-01	Gain	686.633	CCNB1: Gain
+TCGA-AR-A0TR-01	Gain	526.239	CCNB1: Gain
+TCGA-AR-A1AK-01	Gain	805.457	CCNB1: Gain
+TCGA-AR-A1AV-01	Gain	519.646	CCNB1: Gain
+TCGA-AR-A24R-01	Gain	1211.04	CCNB1: Gain
+TCGA-AR-A24V-01	Gain	920.664	CCNB1: Gain
+TCGA-AR-A24W-01	Gain	348.145	CCNB1: Gain
+TCGA-AR-A255-01	Gain	1362.2	CCNB1: Gain
+TCGA-AR-A2LK-01	Gain	2554.32	CCNB1: Gain
+TCGA-AR-A5QM-01	Gain	918.854	CCNB1: Gain
+TCGA-AR-A5QP-01	Gain	668.003	CCNB1: Gain
+TCGA-B6-A0WY-01	Gain	861.076	CCNB1: Gain
+TCGA-B6-A1KI-01	Gain	337.148	CCNB1: Gain
+TCGA-B6-A40B-01	Gain	886.587	CCNB1: Gain
+TCGA-BH-A0B5-01	Gain	1500.33	CCNB1: Gain
+TCGA-BH-A0BA-01	Gain	770.457	CCNB1: Gain
+TCGA-BH-A0BJ-01	Gain	632.655	CCNB1: Gain
+TCGA-BH-A0C1-01	Gain	1084.82	CCNB1: Gain
+TCGA-BH-A0DI-01	Gain	455.626	CCNB1: Gain
+TCGA-BH-A0DP-01	Gain	595.371	CCNB1: Gain
+TCGA-BH-A0DS-01	Gain	503.12	CCNB1: Gain
+TCGA-BH-A0EB-01	Gain	524.531	CCNB1: Gain
+TCGA-BH-A0EE-01	Gain	2925.19	CCNB1: Gain
+TCGA-BH-A0EI-01	Gain	470.066	CCNB1: Gain
+TCGA-BH-A0H7-01	Gain	1213.07	CCNB1: Gain
+TCGA-BH-A0HQ-01	Gain	558.293	CCNB1: Gain
+TCGA-BH-A0HX-01	Gain	1279.95	CCNB1: Gain
+TCGA-BH-A0W5-01	Gain	458.907	CCNB1: Gain
+TCGA-BH-A0W7-01	Gain	1721.59	CCNB1: Gain
+TCGA-BH-A18H-01	Gain	548.654	CCNB1: Gain
+TCGA-BH-A18K-01	Gain	1686.76	CCNB1: Gain
+TCGA-BH-A18L-01	Gain	1891.91	CCNB1: Gain
+TCGA-BH-A18M-01	Gain	1021.13	CCNB1: Gain
+TCGA-BH-A18N-01	Gain	726.836	CCNB1: Gain
+TCGA-BH-A18U-01	Gain	2728.1	CCNB1: Gain
+TCGA-BH-A1EN-01	Gain	783.687	CCNB1: Gain
+TCGA-BH-A1EO-01	Gain	587.104	CCNB1: Gain
+TCGA-BH-A1EW-01	Gain	805.895	CCNB1: Gain
+TCGA-BH-A202-01	Gain	3013.31	CCNB1: Gain
+TCGA-BH-A2L8-01	Gain	1124.93	CCNB1: Gain
+TCGA-BH-A6R8-01	Gain	596.464	CCNB1: Gain
+TCGA-BH-A6R9-01	Gain	635.179	CCNB1: Gain
+TCGA-BH-A8FY-01	Gain	1317.43	CCNB1: Gain
+TCGA-C8-A12M-01	Gain	649.08	CCNB1: Gain
+TCGA-C8-A12P-01	Gain	2845.62	CCNB1: Gain
+TCGA-C8-A1HG-01	Gain	3181.82	CCNB1: Gain
+TCGA-C8-A1HI-01	Gain	905.797	CCNB1: Gain
+TCGA-C8-A1HK-01	Gain	1802.45	CCNB1: Gain
+TCGA-C8-A26W-01	Gain	2863.07	CCNB1: Gain
+TCGA-D8-A1J8-01	Gain	2795.4	CCNB1: Gain
+TCGA-D8-A1JE-01	Gain	1290.39	CCNB1: Gain
+TCGA-D8-A1JH-01	Gain	443.765	CCNB1: Gain
+TCGA-D8-A1JJ-01	Gain	1789.25	CCNB1: Gain
+TCGA-D8-A1JT-01	Gain	1794.52	CCNB1: Gain
+TCGA-D8-A1X6-01	Gain	1564.91	CCNB1: Gain
+TCGA-D8-A1XB-01	Gain	774.12	CCNB1: Gain
+TCGA-D8-A1XS-01	Gain	1220.52	CCNB1: Gain
+TCGA-D8-A1XU-01	Gain	644.597	CCNB1: Gain
+TCGA-D8-A1XY-01	Gain	281.56	CCNB1: Gain
+TCGA-D8-A1Y0-01	Gain	1933.96	CCNB1: Gain
+TCGA-D8-A1Y2-01	Gain	1172.02	CCNB1: Gain
+TCGA-D8-A27I-01	Gain	742.641	CCNB1: Gain
+TCGA-D8-A27V-01	Gain	636.745	CCNB1: Gain
+TCGA-D8-A27W-01	Gain	1753.62	CCNB1: Gain
+TCGA-D8-A73X-01	Gain	547.15	CCNB1: Gain
+TCGA-E2-A107-01	Gain	1957.69	CCNB1: Gain
+TCGA-E2-A10B-01	Gain	1421.05	CCNB1: Gain
+TCGA-E2-A14O-01	Gain	1775.15	CCNB1: Gain
+TCGA-E2-A14T-01	Gain	1053.08	CCNB1: Gain
+TCGA-E2-A152-01	Gain	1084	CCNB1: Gain
+TCGA-E2-A153-01	Gain	308.12	CCNB1: Gain
+TCGA-E2-A15E-01	Gain	883.603	CCNB1: Gain
+TCGA-E2-A15G-01	Gain	430.328	CCNB1: Gain
+TCGA-E2-A15L-01	Gain	1803.97	CCNB1: Gain
+TCGA-E2-A15M-01	Gain	2156.97	CCNB1: Gain
+TCGA-E2-A1B5-01	Gain	624.413	CCNB1: Gain
+TCGA-E2-A1BD-01	Gain	945.143	CCNB1: Gain
+TCGA-E2-A1IH-01	Gain	829.793	CCNB1: Gain
+TCGA-E2-A1IN-01	Gain	878.747	CCNB1: Gain
+TCGA-E2-A1IU-01	Gain	556.629	CCNB1: Gain
+TCGA-E2-A1L9-01	Gain	791.161	CCNB1: Gain
+TCGA-E2-A1LG-01	Gain	3184.28	CCNB1: Gain
+TCGA-E2-A9RU-01	Gain	2390.56	CCNB1: Gain
+TCGA-E9-A1NA-01	Gain	1065.86	CCNB1: Gain
+TCGA-E9-A1NI-01	Gain	1629.3	CCNB1: Gain
+TCGA-E9-A1R3-01	Gain	129.509	CCNB1: Gain
+TCGA-E9-A1R4-01	Gain	898.155	CCNB1: Gain
+TCGA-E9-A1R5-01	Gain	545.141	CCNB1: Gain
+TCGA-E9-A1R6-01	Gain	1030.4	CCNB1: Gain
+TCGA-E9-A1RC-01	Gain	982.391	CCNB1: Gain
+TCGA-E9-A1RD-01	Gain	813.019	CCNB1: Gain
+TCGA-E9-A1RG-01	Gain	1719.96	CCNB1: Gain
+TCGA-E9-A249-01	Gain	1738.78	CCNB1: Gain
+TCGA-E9-A295-01	Gain	873.114	CCNB1: Gain
+TCGA-EW-A1IY-01	Gain	1521.25	CCNB1: Gain
+TCGA-EW-A1J3-01	Gain	1658.93	CCNB1: Gain
+TCGA-EW-A1J6-01	Gain	2082.92	CCNB1: Gain
+TCGA-EW-A1P0-01	Gain	764.522	CCNB1: Gain
+TCGA-EW-A1P5-01	Gain	1151.99	CCNB1: Gain
+TCGA-EW-A423-01	Gain	717.115	CCNB1: Gain
+TCGA-GM-A3NW-01	Gain	743.902	CCNB1: Gain
+TCGA-GM-A5PV-01	Gain	489.497	CCNB1: Gain
+TCGA-HN-A2OB-01	Gain	213.579	CCNB1: Gain
+TCGA-LD-A66U-01	Gain	752.809	CCNB1: Gain
+TCGA-LL-A6FQ-01	Gain	1040.98	CCNB1: Gain
+TCGA-LL-A9Q3-01	Gain	581.334	CCNB1: Gain
+TCGA-OL-A66N-01	Gain	399.4	CCNB1: Gain
+TCGA-PE-A5DE-01	Gain	804.353	CCNB1: Gain
+TCGA-S3-A6ZG-01	Gain	1573.88	CCNB1: Gain
+TCGA-S3-A6ZH-01	Gain	976.931	CCNB1: Gain
+TCGA-W8-A86G-01	Gain	378.263	CCNB1: Gain
+TCGA-Z7-A8R5-01	Gain	307.619	CCNB1: Gain
+TCGA-Z7-A8R6-01	Gain	2815.14	CCNB1: Gain
+TCGA-E2-A14Z-01	Amplification	4718.83	CCNB1: Amplification

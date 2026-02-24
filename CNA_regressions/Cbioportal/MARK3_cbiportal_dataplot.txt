@@ -1,0 +1,995 @@
+Sample Id	MARK3: Putative copy-number alterations from GISTIC	MARK3: mRNA Expression, RSEM (Batch normalized from Illumina HiSeq_RNASeqV2)	Copy Number Alterations
+TCGA-A8-A08H-01	Deep Deletion	1109.7	MARK3: Deep Deletion
+TCGA-BH-A0BL-01	Deep Deletion	937.707	MARK3: Deep Deletion
+TCGA-D8-A147-01	Deep Deletion	835.215	MARK3: Deep Deletion
+TCGA-3C-AAAU-01	Shallow Deletion	832.696	MARK3: Shallow Deletion
+TCGA-3C-AALJ-01	Shallow Deletion	1197.64	MARK3: Shallow Deletion
+TCGA-A1-A0SK-01	Shallow Deletion	1639.46	MARK3: Shallow Deletion
+TCGA-A1-A0SP-01	Shallow Deletion	1102.15	MARK3: Shallow Deletion
+TCGA-A2-A04T-01	Shallow Deletion	1027.21	MARK3: Shallow Deletion
+TCGA-A2-A04U-01	Shallow Deletion	1572.67	MARK3: Shallow Deletion
+TCGA-A2-A04W-01	Shallow Deletion	983.385	MARK3: Shallow Deletion
+TCGA-A2-A0CL-01	Shallow Deletion	1138.62	MARK3: Shallow Deletion
+TCGA-A2-A0CU-01	Shallow Deletion	783.505	MARK3: Shallow Deletion
+TCGA-A2-A0CW-01	Shallow Deletion	806.725	MARK3: Shallow Deletion
+TCGA-A2-A0D4-01	Shallow Deletion	951.833	MARK3: Shallow Deletion
+TCGA-A2-A0EQ-01	Shallow Deletion	630.052	MARK3: Shallow Deletion
+TCGA-A2-A0ET-01	Shallow Deletion	1138.95	MARK3: Shallow Deletion
+TCGA-A2-A0EU-01	Shallow Deletion	1153.06	MARK3: Shallow Deletion
+TCGA-A2-A0SV-01	Shallow Deletion	738.999	MARK3: Shallow Deletion
+TCGA-A2-A0SX-01	Shallow Deletion	1206.81	MARK3: Shallow Deletion
+TCGA-A2-A0YJ-01	Shallow Deletion	806.754	MARK3: Shallow Deletion
+TCGA-A2-A0YT-01	Shallow Deletion	1047.81	MARK3: Shallow Deletion
+TCGA-A2-A1FV-01	Shallow Deletion	875.599	MARK3: Shallow Deletion
+TCGA-A2-A1G1-01	Shallow Deletion	1491.31	MARK3: Shallow Deletion
+TCGA-A2-A25E-01	Shallow Deletion	920.126	MARK3: Shallow Deletion
+TCGA-A2-A3XT-01	Shallow Deletion	532.68	MARK3: Shallow Deletion
+TCGA-A2-A3XU-01	Shallow Deletion	486.823	MARK3: Shallow Deletion
+TCGA-A2-A3XW-01	Shallow Deletion	871.368	MARK3: Shallow Deletion
+TCGA-A2-A3XX-01	Shallow Deletion	970.268	MARK3: Shallow Deletion
+TCGA-A2-A3Y0-01	Shallow Deletion	1026.43	MARK3: Shallow Deletion
+TCGA-A2-A4S1-01	Shallow Deletion	1340.08	MARK3: Shallow Deletion
+TCGA-A2-A4S3-01	Shallow Deletion	951.049	MARK3: Shallow Deletion
+TCGA-A7-A0CE-01	Shallow Deletion	916.01	MARK3: Shallow Deletion
+TCGA-A7-A0CJ-01	Shallow Deletion	1353.71	MARK3: Shallow Deletion
+TCGA-A7-A0DA-01	Shallow Deletion	1088.69	MARK3: Shallow Deletion
+TCGA-A7-A13D-01	Shallow Deletion	809.993	MARK3: Shallow Deletion
+TCGA-A7-A13E-01	Shallow Deletion	879.257	MARK3: Shallow Deletion
+TCGA-A7-A13F-01	Shallow Deletion	652.209	MARK3: Shallow Deletion
+TCGA-A7-A26F-01	Shallow Deletion	1112.7	MARK3: Shallow Deletion
+TCGA-A7-A26G-01	Shallow Deletion	805.779	MARK3: Shallow Deletion
+TCGA-A7-A26I-01	Shallow Deletion	1082.16	MARK3: Shallow Deletion
+TCGA-A7-A2KD-01	Shallow Deletion	1084.94	MARK3: Shallow Deletion
+TCGA-A7-A4SD-01	Shallow Deletion	1100.5	MARK3: Shallow Deletion
+TCGA-A7-A4SE-01	Shallow Deletion	945.552	MARK3: Shallow Deletion
+TCGA-A7-A6VW-01	Shallow Deletion	927.19	MARK3: Shallow Deletion
+TCGA-A7-A6VX-01	Shallow Deletion	889.753	MARK3: Shallow Deletion
+TCGA-A7-A6VY-01	Shallow Deletion	1081.29	MARK3: Shallow Deletion
+TCGA-A8-A06O-01	Shallow Deletion	819.58	MARK3: Shallow Deletion
+TCGA-A8-A06Z-01	Shallow Deletion	836.426	MARK3: Shallow Deletion
+TCGA-A8-A07F-01	Shallow Deletion	862.511	MARK3: Shallow Deletion
+TCGA-A8-A07L-01	Shallow Deletion	830.021	MARK3: Shallow Deletion
+TCGA-A8-A07O-01	Shallow Deletion	760.766	MARK3: Shallow Deletion
+TCGA-A8-A07W-01	Shallow Deletion	796.695	MARK3: Shallow Deletion
+TCGA-A8-A081-01	Shallow Deletion	945.904	MARK3: Shallow Deletion
+TCGA-A8-A08G-01	Shallow Deletion	1180.12	MARK3: Shallow Deletion
+TCGA-A8-A08J-01	Shallow Deletion	1221.89	MARK3: Shallow Deletion
+TCGA-A8-A08O-01	Shallow Deletion	827.241	MARK3: Shallow Deletion
+TCGA-A8-A08P-01	Shallow Deletion	1146.36	MARK3: Shallow Deletion
+TCGA-A8-A090-01	Shallow Deletion	716.558	MARK3: Shallow Deletion
+TCGA-A8-A097-01	Shallow Deletion	883.82	MARK3: Shallow Deletion
+TCGA-A8-A099-01	Shallow Deletion	671.813	MARK3: Shallow Deletion
+TCGA-A8-A09A-01	Shallow Deletion	916.176	MARK3: Shallow Deletion
+TCGA-A8-A09D-01	Shallow Deletion	1141.14	MARK3: Shallow Deletion
+TCGA-A8-A09M-01	Shallow Deletion	794.167	MARK3: Shallow Deletion
+TCGA-A8-A09N-01	Shallow Deletion	762.819	MARK3: Shallow Deletion
+TCGA-A8-A09R-01	Shallow Deletion	1016.48	MARK3: Shallow Deletion
+TCGA-A8-A09X-01	Shallow Deletion	1072.13	MARK3: Shallow Deletion
+TCGA-A8-A0A6-01	Shallow Deletion	865.009	MARK3: Shallow Deletion
+TCGA-A8-A0AB-01	Shallow Deletion	1111.76	MARK3: Shallow Deletion
+TCGA-AC-A23C-01	Shallow Deletion	1090.99	MARK3: Shallow Deletion
+TCGA-AC-A2BK-01	Shallow Deletion	1067.48	MARK3: Shallow Deletion
+TCGA-AC-A2BM-01	Shallow Deletion	802.829	MARK3: Shallow Deletion
+TCGA-AC-A2QH-01	Shallow Deletion	839.241	MARK3: Shallow Deletion
+TCGA-AC-A62X-01	Shallow Deletion	762.777	MARK3: Shallow Deletion
+TCGA-AC-A6IW-01	Shallow Deletion	1190.02	MARK3: Shallow Deletion
+TCGA-AC-A7VC-01	Shallow Deletion	1435.46	MARK3: Shallow Deletion
+TCGA-AC-A8OP-01	Shallow Deletion	1191.16	MARK3: Shallow Deletion
+TCGA-AC-A8OQ-01	Shallow Deletion	1037.18	MARK3: Shallow Deletion
+TCGA-AN-A04C-01	Shallow Deletion	1244.55	MARK3: Shallow Deletion
+TCGA-AN-A04D-01	Shallow Deletion	767.348	MARK3: Shallow Deletion
+TCGA-AN-A0AK-01	Shallow Deletion	1099.5	MARK3: Shallow Deletion
+TCGA-AN-A0FJ-01	Shallow Deletion	822.929	MARK3: Shallow Deletion
+TCGA-AN-A0FX-01	Shallow Deletion	892.823	MARK3: Shallow Deletion
+TCGA-AN-A0FY-01	Shallow Deletion	916.859	MARK3: Shallow Deletion
+TCGA-AN-A0XN-01	Shallow Deletion	918.555	MARK3: Shallow Deletion
+TCGA-AO-A03P-01	Shallow Deletion	1224.48	MARK3: Shallow Deletion
+TCGA-AO-A03T-01	Shallow Deletion	864.893	MARK3: Shallow Deletion
+TCGA-AO-A0J4-01	Shallow Deletion	1047.22	MARK3: Shallow Deletion
+TCGA-AO-A0J6-01	Shallow Deletion	806.791	MARK3: Shallow Deletion
+TCGA-AO-A129-01	Shallow Deletion	1068.73	MARK3: Shallow Deletion
+TCGA-AO-A12E-01	Shallow Deletion	619.945	MARK3: Shallow Deletion
+TCGA-AO-A12F-01	Shallow Deletion	1079.71	MARK3: Shallow Deletion
+TCGA-AO-A1KR-01	Shallow Deletion	1056.86	MARK3: Shallow Deletion
+TCGA-AQ-A04J-01	Shallow Deletion	899.714	MARK3: Shallow Deletion
+TCGA-AQ-A0Y5-01	Shallow Deletion	1040.33	MARK3: Shallow Deletion
+TCGA-AQ-A54O-01	Shallow Deletion	1116.47	MARK3: Shallow Deletion
+TCGA-AR-A0TR-01	Shallow Deletion	971.454	MARK3: Shallow Deletion
+TCGA-AR-A0TT-01	Shallow Deletion	1263.05	MARK3: Shallow Deletion
+TCGA-AR-A0TV-01	Shallow Deletion	719.5	MARK3: Shallow Deletion
+TCGA-AR-A0U0-01	Shallow Deletion	1103.72	MARK3: Shallow Deletion
+TCGA-AR-A0U1-01	Shallow Deletion	1343.49	MARK3: Shallow Deletion
+TCGA-AR-A0U4-01	Shallow Deletion	1237.72	MARK3: Shallow Deletion
+TCGA-AR-A1AH-01	Shallow Deletion	1227.14	MARK3: Shallow Deletion
+TCGA-AR-A1AI-01	Shallow Deletion	1128.66	MARK3: Shallow Deletion
+TCGA-AR-A1AJ-01	Shallow Deletion	1174.22	MARK3: Shallow Deletion
+TCGA-AR-A1AL-01	Shallow Deletion	874.312	MARK3: Shallow Deletion
+TCGA-AR-A1AP-01	Shallow Deletion	713.45	MARK3: Shallow Deletion
+TCGA-AR-A1AQ-01	Shallow Deletion	935.95	MARK3: Shallow Deletion
+TCGA-AR-A1AU-01	Shallow Deletion	782.225	MARK3: Shallow Deletion
+TCGA-AR-A1AW-01	Shallow Deletion	1080.59	MARK3: Shallow Deletion
+TCGA-AR-A1AX-01	Shallow Deletion	781.853	MARK3: Shallow Deletion
+TCGA-AR-A1AY-01	Shallow Deletion	1025.08	MARK3: Shallow Deletion
+TCGA-AR-A24H-01	Shallow Deletion	1441.44	MARK3: Shallow Deletion
+TCGA-AR-A24L-01	Shallow Deletion	913.816	MARK3: Shallow Deletion
+TCGA-AR-A24Q-01	Shallow Deletion	757.496	MARK3: Shallow Deletion
+TCGA-AR-A24U-01	Shallow Deletion	808.358	MARK3: Shallow Deletion
+TCGA-AR-A24V-01	Shallow Deletion	1021.17	MARK3: Shallow Deletion
+TCGA-AR-A250-01	Shallow Deletion	993.653	MARK3: Shallow Deletion
+TCGA-AR-A251-01	Shallow Deletion	947.088	MARK3: Shallow Deletion
+TCGA-AR-A255-01	Shallow Deletion	925.822	MARK3: Shallow Deletion
+TCGA-AR-A256-01	Shallow Deletion	1021.08	MARK3: Shallow Deletion
+TCGA-B6-A0IE-01	Shallow Deletion	747.981	MARK3: Shallow Deletion
+TCGA-B6-A0IH-01	Shallow Deletion	965.346	MARK3: Shallow Deletion
+TCGA-B6-A0IJ-01	Shallow Deletion	1072.95	MARK3: Shallow Deletion
+TCGA-B6-A0IO-01	Shallow Deletion	989.226	MARK3: Shallow Deletion
+TCGA-B6-A0IQ-01	Shallow Deletion	1067.5	MARK3: Shallow Deletion
+TCGA-B6-A0RE-01	Shallow Deletion	976.174	MARK3: Shallow Deletion
+TCGA-B6-A0RL-01	Shallow Deletion	1150.77	MARK3: Shallow Deletion
+TCGA-B6-A0RS-01	Shallow Deletion	763.573	MARK3: Shallow Deletion
+TCGA-B6-A0WS-01	Shallow Deletion	804.043	MARK3: Shallow Deletion
+TCGA-B6-A0WV-01	Shallow Deletion	850.652	MARK3: Shallow Deletion
+TCGA-B6-A0WW-01	Shallow Deletion	871.664	MARK3: Shallow Deletion
+TCGA-B6-A0WX-01	Shallow Deletion	893.845	MARK3: Shallow Deletion
+TCGA-B6-A0WY-01	Shallow Deletion	909.411	MARK3: Shallow Deletion
+TCGA-B6-A1KC-01	Shallow Deletion	780.787	MARK3: Shallow Deletion
+TCGA-B6-A1KF-01	Shallow Deletion	964.129	MARK3: Shallow Deletion
+TCGA-B6-A1KI-01	Shallow Deletion	812.207	MARK3: Shallow Deletion
+TCGA-B6-A409-01	Shallow Deletion	1006.04	MARK3: Shallow Deletion
+TCGA-BH-A0AU-01	Shallow Deletion	904.332	MARK3: Shallow Deletion
+TCGA-BH-A0AV-01	Shallow Deletion	1069.51	MARK3: Shallow Deletion
+TCGA-BH-A0AW-01	Shallow Deletion	910.583	MARK3: Shallow Deletion
+TCGA-BH-A0B5-01	Shallow Deletion	1124.08	MARK3: Shallow Deletion
+TCGA-BH-A0B7-01	Shallow Deletion	821.658	MARK3: Shallow Deletion
+TCGA-BH-A0B9-01	Shallow Deletion	923.421	MARK3: Shallow Deletion
+TCGA-BH-A0BF-01	Shallow Deletion	969.277	MARK3: Shallow Deletion
+TCGA-BH-A0BG-01	Shallow Deletion	1214.66	MARK3: Shallow Deletion
+TCGA-BH-A0BJ-01	Shallow Deletion	686.093	MARK3: Shallow Deletion
+TCGA-BH-A0BW-01	Shallow Deletion	830.877	MARK3: Shallow Deletion
+TCGA-BH-A0BZ-01	Shallow Deletion	855.914	MARK3: Shallow Deletion
+TCGA-BH-A0C1-01	Shallow Deletion	1024.48	MARK3: Shallow Deletion
+TCGA-BH-A0C7-01	Shallow Deletion	928.948	MARK3: Shallow Deletion
+TCGA-BH-A0DE-01	Shallow Deletion	913.065	MARK3: Shallow Deletion
+TCGA-BH-A0E0-01	Shallow Deletion	917.124	MARK3: Shallow Deletion
+TCGA-BH-A0E6-01	Shallow Deletion	995.794	MARK3: Shallow Deletion
+TCGA-BH-A0H7-01	Shallow Deletion	916.612	MARK3: Shallow Deletion
+TCGA-BH-A0HX-01	Shallow Deletion	820.513	MARK3: Shallow Deletion
+TCGA-BH-A0RX-01	Shallow Deletion	915.064	MARK3: Shallow Deletion
+TCGA-BH-A0WA-01	Shallow Deletion	963.297	MARK3: Shallow Deletion
+TCGA-BH-A18F-01	Shallow Deletion	839.937	MARK3: Shallow Deletion
+TCGA-BH-A18H-01	Shallow Deletion	1002.59	MARK3: Shallow Deletion
+TCGA-BH-A18J-01	Shallow Deletion	807.261	MARK3: Shallow Deletion
+TCGA-BH-A18Q-01	Shallow Deletion	887.853	MARK3: Shallow Deletion
+TCGA-BH-A18T-01	Shallow Deletion	1015.79	MARK3: Shallow Deletion
+TCGA-BH-A18U-01	Shallow Deletion	1070	MARK3: Shallow Deletion
+TCGA-BH-A1EW-01	Shallow Deletion	875.27	MARK3: Shallow Deletion
+TCGA-BH-A1EY-01	Shallow Deletion	833.798	MARK3: Shallow Deletion
+TCGA-BH-A1F6-01	Shallow Deletion	933.522	MARK3: Shallow Deletion
+TCGA-BH-A1F8-01	Shallow Deletion	986.4	MARK3: Shallow Deletion
+TCGA-BH-A1FD-01	Shallow Deletion	1021.46	MARK3: Shallow Deletion
+TCGA-BH-A1FE-01	Shallow Deletion	985.254	MARK3: Shallow Deletion
+TCGA-BH-A202-01	Shallow Deletion	740.483	MARK3: Shallow Deletion
+TCGA-BH-A204-01	Shallow Deletion	788.333	MARK3: Shallow Deletion
+TCGA-BH-A5IZ-01	Shallow Deletion	818.07	MARK3: Shallow Deletion
+TCGA-C8-A12K-01	Shallow Deletion	1058.61	MARK3: Shallow Deletion
+TCGA-C8-A12M-01	Shallow Deletion	1032.09	MARK3: Shallow Deletion
+TCGA-C8-A12W-01	Shallow Deletion	871.817	MARK3: Shallow Deletion
+TCGA-C8-A12X-01	Shallow Deletion	658.273	MARK3: Shallow Deletion
+TCGA-C8-A132-01	Shallow Deletion	1087.26	MARK3: Shallow Deletion
+TCGA-C8-A134-01	Shallow Deletion	1109.91	MARK3: Shallow Deletion
+TCGA-C8-A1HG-01	Shallow Deletion	786.657	MARK3: Shallow Deletion
+TCGA-C8-A1HK-01	Shallow Deletion	1522.88	MARK3: Shallow Deletion
+TCGA-C8-A1HM-01	Shallow Deletion	992.424	MARK3: Shallow Deletion
+TCGA-C8-A1HN-01	Shallow Deletion	553.525	MARK3: Shallow Deletion
+TCGA-C8-A278-01	Shallow Deletion	1034.63	MARK3: Shallow Deletion
+TCGA-C8-A27B-01	Shallow Deletion	1066.56	MARK3: Shallow Deletion
+TCGA-C8-A8HP-01	Shallow Deletion	955.188	MARK3: Shallow Deletion
+TCGA-D8-A13Z-01	Shallow Deletion	1210.26	MARK3: Shallow Deletion
+TCGA-D8-A142-01	Shallow Deletion	964.675	MARK3: Shallow Deletion
+TCGA-D8-A1JC-01	Shallow Deletion	1407.52	MARK3: Shallow Deletion
+TCGA-D8-A1JG-01	Shallow Deletion	914.042	MARK3: Shallow Deletion
+TCGA-D8-A1JJ-01	Shallow Deletion	1142.14	MARK3: Shallow Deletion
+TCGA-D8-A1JL-01	Shallow Deletion	1751.76	MARK3: Shallow Deletion
+TCGA-D8-A1JM-01	Shallow Deletion	1007.14	MARK3: Shallow Deletion
+TCGA-D8-A1JP-01	Shallow Deletion	800.672	MARK3: Shallow Deletion
+TCGA-D8-A1XA-01	Shallow Deletion	668.966	MARK3: Shallow Deletion
+TCGA-D8-A1XB-01	Shallow Deletion	1061.73	MARK3: Shallow Deletion
+TCGA-D8-A1XL-01	Shallow Deletion	942.762	MARK3: Shallow Deletion
+TCGA-D8-A1XO-01	Shallow Deletion	678.33	MARK3: Shallow Deletion
+TCGA-D8-A1XT-01	Shallow Deletion	956.942	MARK3: Shallow Deletion
+TCGA-D8-A1XU-01	Shallow Deletion	703.927	MARK3: Shallow Deletion
+TCGA-D8-A1XW-01	Shallow Deletion	662.102	MARK3: Shallow Deletion
+TCGA-D8-A1XY-01	Shallow Deletion	974.884	MARK3: Shallow Deletion
+TCGA-D8-A1XZ-01	Shallow Deletion	1155.59	MARK3: Shallow Deletion
+TCGA-D8-A1Y0-01	Shallow Deletion	811.12	MARK3: Shallow Deletion
+TCGA-D8-A1Y3-01	Shallow Deletion	1239.92	MARK3: Shallow Deletion
+TCGA-D8-A27I-01	Shallow Deletion	781.405	MARK3: Shallow Deletion
+TCGA-D8-A27M-01	Shallow Deletion	994.766	MARK3: Shallow Deletion
+TCGA-D8-A27R-01	Shallow Deletion	952.903	MARK3: Shallow Deletion
+TCGA-D8-A27T-01	Shallow Deletion	694.139	MARK3: Shallow Deletion
+TCGA-E2-A108-01	Shallow Deletion	952.869	MARK3: Shallow Deletion
+TCGA-E2-A14R-01	Shallow Deletion	914.364	MARK3: Shallow Deletion
+TCGA-E2-A14T-01	Shallow Deletion	914.262	MARK3: Shallow Deletion
+TCGA-E2-A14V-01	Shallow Deletion	1114.13	MARK3: Shallow Deletion
+TCGA-E2-A14W-01	Shallow Deletion	674.653	MARK3: Shallow Deletion
+TCGA-E2-A14Z-01	Shallow Deletion	1026.01	MARK3: Shallow Deletion
+TCGA-E2-A155-01	Shallow Deletion	660.838	MARK3: Shallow Deletion
+TCGA-E2-A159-01	Shallow Deletion	1078.67	MARK3: Shallow Deletion
+TCGA-E2-A15A-01	Shallow Deletion	819.323	MARK3: Shallow Deletion
+TCGA-E2-A15F-01	Shallow Deletion	876.73	MARK3: Shallow Deletion
+TCGA-E2-A15M-01	Shallow Deletion	1050.12	MARK3: Shallow Deletion
+TCGA-E2-A15S-01	Shallow Deletion	839.971	MARK3: Shallow Deletion
+TCGA-E2-A1AZ-01	Shallow Deletion	1015.75	MARK3: Shallow Deletion
+TCGA-E2-A1IE-01	Shallow Deletion	759.639	MARK3: Shallow Deletion
+TCGA-E2-A1IH-01	Shallow Deletion	979.411	MARK3: Shallow Deletion
+TCGA-E2-A1II-01	Shallow Deletion	1017.73	MARK3: Shallow Deletion
+TCGA-E2-A1LH-01	Shallow Deletion	1146.05	MARK3: Shallow Deletion
+TCGA-E2-A1LI-01	Shallow Deletion	1233.17	MARK3: Shallow Deletion
+TCGA-E2-A56Z-01	Shallow Deletion	807.033	MARK3: Shallow Deletion
+TCGA-E2-A573-01	Shallow Deletion	1227.94	MARK3: Shallow Deletion
+TCGA-E2-A574-01	Shallow Deletion	977.553	MARK3: Shallow Deletion
+TCGA-E9-A1N8-01	Shallow Deletion	964.303	MARK3: Shallow Deletion
+TCGA-E9-A1N9-01	Shallow Deletion	1198.05	MARK3: Shallow Deletion
+TCGA-E9-A1NC-01	Shallow Deletion	872.297	MARK3: Shallow Deletion
+TCGA-E9-A1QZ-01	Shallow Deletion	859.492	MARK3: Shallow Deletion
+TCGA-E9-A1R2-01	Shallow Deletion	707.452	MARK3: Shallow Deletion
+TCGA-E9-A1R4-01	Shallow Deletion	794.43	MARK3: Shallow Deletion
+TCGA-E9-A1R5-01	Shallow Deletion	1041.08	MARK3: Shallow Deletion
+TCGA-E9-A1R6-01	Shallow Deletion	726.458	MARK3: Shallow Deletion
+TCGA-E9-A1R7-01	Shallow Deletion	711.119	MARK3: Shallow Deletion
+TCGA-E9-A1RB-01	Shallow Deletion	1000	MARK3: Shallow Deletion
+TCGA-E9-A226-01	Shallow Deletion	920.856	MARK3: Shallow Deletion
+TCGA-E9-A229-01	Shallow Deletion	905.443	MARK3: Shallow Deletion
+TCGA-E9-A22A-01	Shallow Deletion	886.136	MARK3: Shallow Deletion
+TCGA-E9-A22G-01	Shallow Deletion	1470.89	MARK3: Shallow Deletion
+TCGA-E9-A2JS-01	Shallow Deletion	927.611	MARK3: Shallow Deletion
+TCGA-E9-A3HO-01	Shallow Deletion	686.266	MARK3: Shallow Deletion
+TCGA-E9-A3QA-01	Shallow Deletion	1000	MARK3: Shallow Deletion
+TCGA-EW-A1IZ-01	Shallow Deletion	903.047	MARK3: Shallow Deletion
+TCGA-EW-A1J2-01	Shallow Deletion	891.595	MARK3: Shallow Deletion
+TCGA-EW-A1J6-01	Shallow Deletion	1049.41	MARK3: Shallow Deletion
+TCGA-EW-A1OV-01	Shallow Deletion	1367.62	MARK3: Shallow Deletion
+TCGA-EW-A1P4-01	Shallow Deletion	870.539	MARK3: Shallow Deletion
+TCGA-EW-A1P8-01	Shallow Deletion	941.936	MARK3: Shallow Deletion
+TCGA-EW-A1PH-01	Shallow Deletion	1138.33	MARK3: Shallow Deletion
+TCGA-EW-A2FR-01	Shallow Deletion	1008.7	MARK3: Shallow Deletion
+TCGA-EW-A2FS-01	Shallow Deletion	1142.38	MARK3: Shallow Deletion
+TCGA-EW-A2FV-01	Shallow Deletion	1195.08	MARK3: Shallow Deletion
+TCGA-EW-A423-01	Shallow Deletion	745.707	MARK3: Shallow Deletion
+TCGA-EW-A6SB-01	Shallow Deletion	1039.47	MARK3: Shallow Deletion
+TCGA-EW-A6SC-01	Shallow Deletion	829.135	MARK3: Shallow Deletion
+TCGA-EW-A6SD-01	Shallow Deletion	842.987	MARK3: Shallow Deletion
+TCGA-GM-A2DC-01	Shallow Deletion	777.459	MARK3: Shallow Deletion
+TCGA-GM-A2DH-01	Shallow Deletion	1315.78	MARK3: Shallow Deletion
+TCGA-GM-A2DK-01	Shallow Deletion	841.453	MARK3: Shallow Deletion
+TCGA-GM-A3XL-01	Shallow Deletion	1215.99	MARK3: Shallow Deletion
+TCGA-GM-A5PX-01	Shallow Deletion	821.415	MARK3: Shallow Deletion
+TCGA-HN-A2NL-01	Shallow Deletion	802.18	MARK3: Shallow Deletion
+TCGA-JL-A3YX-01	Shallow Deletion	992.567	MARK3: Shallow Deletion
+TCGA-LD-A7W5-01	Shallow Deletion	931.068	MARK3: Shallow Deletion
+TCGA-LL-A5YP-01	Shallow Deletion	916.365	MARK3: Shallow Deletion
+TCGA-LL-A7T0-01	Shallow Deletion	1289.55	MARK3: Shallow Deletion
+TCGA-OL-A5D7-01	Shallow Deletion	1379.52	MARK3: Shallow Deletion
+TCGA-OL-A5RZ-01	Shallow Deletion	1441.94	MARK3: Shallow Deletion
+TCGA-OL-A5S0-01	Shallow Deletion	938.284	MARK3: Shallow Deletion
+TCGA-OL-A66I-01	Shallow Deletion	1206.89	MARK3: Shallow Deletion
+TCGA-OL-A66K-01	Shallow Deletion	702.518	MARK3: Shallow Deletion
+TCGA-OL-A66N-01	Shallow Deletion	1002.33	MARK3: Shallow Deletion
+TCGA-OL-A6VR-01	Shallow Deletion	1005.17	MARK3: Shallow Deletion
+TCGA-PL-A8LX-01	Shallow Deletion	1111.83	MARK3: Shallow Deletion
+TCGA-S3-A6ZF-01	Shallow Deletion	976.347	MARK3: Shallow Deletion
+TCGA-S3-AA10-01	Shallow Deletion	1155.68	MARK3: Shallow Deletion
+TCGA-UL-AAZ6-01	Shallow Deletion	1010.43	MARK3: Shallow Deletion
+TCGA-UU-A93S-01	Shallow Deletion	751.809	MARK3: Shallow Deletion
+TCGA-WT-AB41-01	Shallow Deletion	781.546	MARK3: Shallow Deletion
+TCGA-XX-A899-01	Shallow Deletion	1046.06	MARK3: Shallow Deletion
+TCGA-XX-A89A-01	Shallow Deletion	1090.69	MARK3: Shallow Deletion
+TCGA-3C-AALI-01	Diploid	1472	MARK3: Diploid
+TCGA-3C-AALK-01	Diploid	1292.93	MARK3: Diploid
+TCGA-4H-AAAK-01	Diploid	1157.87	MARK3: Diploid
+TCGA-5L-AAT0-01	Diploid	1195.48	MARK3: Diploid
+TCGA-5T-A9QA-01	Diploid	1428.35	MARK3: Diploid
+TCGA-A1-A0SB-01	Diploid	1155.09	MARK3: Diploid
+TCGA-A1-A0SD-01	Diploid	1292.53	MARK3: Diploid
+TCGA-A1-A0SE-01	Diploid	1087.29	MARK3: Diploid
+TCGA-A1-A0SF-01	Diploid	1106.14	MARK3: Diploid
+TCGA-A1-A0SG-01	Diploid	1042.93	MARK3: Diploid
+TCGA-A1-A0SH-01	Diploid	954.165	MARK3: Diploid
+TCGA-A1-A0SI-01	Diploid	1061.8	MARK3: Diploid
+TCGA-A1-A0SJ-01	Diploid	974.12	MARK3: Diploid
+TCGA-A1-A0SM-01	Diploid	1216.86	MARK3: Diploid
+TCGA-A1-A0SN-01	Diploid	1132.78	MARK3: Diploid
+TCGA-A1-A0SO-01	Diploid	1340.14	MARK3: Diploid
+TCGA-A1-A0SQ-01	Diploid	918.608	MARK3: Diploid
+TCGA-A2-A04N-01	Diploid	1120.84	MARK3: Diploid
+TCGA-A2-A04Q-01	Diploid	1063.63	MARK3: Diploid
+TCGA-A2-A04R-01	Diploid	1508.65	MARK3: Diploid
+TCGA-A2-A04V-01	Diploid	1417.8	MARK3: Diploid
+TCGA-A2-A04X-01	Diploid	1283.23	MARK3: Diploid
+TCGA-A2-A04Y-01	Diploid	1347.27	MARK3: Diploid
+TCGA-A2-A0CK-01	Diploid	1484.04	MARK3: Diploid
+TCGA-A2-A0CM-01	Diploid	1686.4	MARK3: Diploid
+TCGA-A2-A0CP-01	Diploid	1093.16	MARK3: Diploid
+TCGA-A2-A0CQ-01	Diploid	1244.48	MARK3: Diploid
+TCGA-A2-A0CR-01	Diploid	1270.32	MARK3: Diploid
+TCGA-A2-A0CS-01	Diploid	1335.03	MARK3: Diploid
+TCGA-A2-A0CT-01	Diploid	1057.27	MARK3: Diploid
+TCGA-A2-A0CV-01	Diploid	1245.25	MARK3: Diploid
+TCGA-A2-A0CX-01	Diploid	1180.51	MARK3: Diploid
+TCGA-A2-A0D1-01	Diploid	1273.69	MARK3: Diploid
+TCGA-A2-A0D2-01	Diploid	1004.99	MARK3: Diploid
+TCGA-A2-A0D3-01	Diploid	1109.14	MARK3: Diploid
+TCGA-A2-A0EM-01	Diploid	893.111	MARK3: Diploid
+TCGA-A2-A0EN-01	Diploid	1127.45	MARK3: Diploid
+TCGA-A2-A0EO-01	Diploid	1115.14	MARK3: Diploid
+TCGA-A2-A0EP-01	Diploid	1309.3	MARK3: Diploid
+TCGA-A2-A0ER-01	Diploid	1085.79	MARK3: Diploid
+TCGA-A2-A0ES-01	Diploid	999.35	MARK3: Diploid
+TCGA-A2-A0EV-01	Diploid	1068.42	MARK3: Diploid
+TCGA-A2-A0EW-01	Diploid	1071.56	MARK3: Diploid
+TCGA-A2-A0EX-01	Diploid	927.758	MARK3: Diploid
+TCGA-A2-A0EY-01	Diploid	1000.73	MARK3: Diploid
+TCGA-A2-A0ST-01	Diploid	1036.89	MARK3: Diploid
+TCGA-A2-A0SU-01	Diploid	1034.87	MARK3: Diploid
+TCGA-A2-A0SY-01	Diploid	968.293	MARK3: Diploid
+TCGA-A2-A0T1-01	Diploid	1010.13	MARK3: Diploid
+TCGA-A2-A0T2-01	Diploid	930.896	MARK3: Diploid
+TCGA-A2-A0T4-01	Diploid	1057.59	MARK3: Diploid
+TCGA-A2-A0T5-01	Diploid	953.77	MARK3: Diploid
+TCGA-A2-A0T6-01	Diploid	1004.84	MARK3: Diploid
+TCGA-A2-A0T7-01	Diploid	1250.23	MARK3: Diploid
+TCGA-A2-A0YC-01	Diploid	1040.43	MARK3: Diploid
+TCGA-A2-A0YD-01	Diploid	1093.16	MARK3: Diploid
+TCGA-A2-A0YF-01	Diploid	1270.99	MARK3: Diploid
+TCGA-A2-A0YI-01	Diploid	1070.36	MARK3: Diploid
+TCGA-A2-A0YK-01	Diploid	1161.66	MARK3: Diploid
+TCGA-A2-A0YL-01	Diploid	1174.34	MARK3: Diploid
+TCGA-A2-A0YM-01	Diploid	1182.7	MARK3: Diploid
+TCGA-A2-A1FW-01	Diploid	1582.08	MARK3: Diploid
+TCGA-A2-A1FX-01	Diploid	1077.25	MARK3: Diploid
+TCGA-A2-A1FZ-01	Diploid	1139.43	MARK3: Diploid
+TCGA-A2-A1G0-01	Diploid	1018.74	MARK3: Diploid
+TCGA-A2-A1G4-01	Diploid	1260.71	MARK3: Diploid
+TCGA-A2-A1G6-01	Diploid	1388.93	MARK3: Diploid
+TCGA-A2-A259-01	Diploid	1111.7	MARK3: Diploid
+TCGA-A2-A25A-01	Diploid	1361.41	MARK3: Diploid
+TCGA-A2-A25D-01	Diploid	1127.19	MARK3: Diploid
+TCGA-A2-A25F-01	Diploid	1046.36	MARK3: Diploid
+TCGA-A2-A3XV-01	Diploid	1033.55	MARK3: Diploid
+TCGA-A2-A3XZ-01	Diploid	1315.3	MARK3: Diploid
+TCGA-A2-A4S2-01	Diploid	943.494	MARK3: Diploid
+TCGA-A7-A0CD-01	Diploid	796.975	MARK3: Diploid
+TCGA-A7-A0CG-01	Diploid	1078.89	MARK3: Diploid
+TCGA-A7-A0CH-01	Diploid	1005.71	MARK3: Diploid
+TCGA-A7-A0D9-01	Diploid	1741.87	MARK3: Diploid
+TCGA-A7-A13G-01	Diploid	1184.91	MARK3: Diploid
+TCGA-A7-A26E-01	Diploid	1175.74	MARK3: Diploid
+TCGA-A7-A26H-01	Diploid	1046.48	MARK3: Diploid
+TCGA-A7-A26J-01	Diploid	1063.68	MARK3: Diploid
+TCGA-A7-A3RF-01	Diploid	939.876	MARK3: Diploid
+TCGA-A7-A425-01	Diploid	961.249	MARK3: Diploid
+TCGA-A7-A5ZV-01	Diploid	914.449	MARK3: Diploid
+TCGA-A7-A5ZW-01	Diploid	1139.48	MARK3: Diploid
+TCGA-A7-A5ZX-01	Diploid	1361.02	MARK3: Diploid
+TCGA-A8-A06N-01	Diploid	1127.35	MARK3: Diploid
+TCGA-A8-A06P-01	Diploid	1113.35	MARK3: Diploid
+TCGA-A8-A06T-01	Diploid	1363.94	MARK3: Diploid
+TCGA-A8-A06Y-01	Diploid	1195.98	MARK3: Diploid
+TCGA-A8-A07B-01	Diploid	1203.72	MARK3: Diploid
+TCGA-A8-A07E-01	Diploid	1238.4	MARK3: Diploid
+TCGA-A8-A07G-01	Diploid	997.596	MARK3: Diploid
+TCGA-A8-A07I-01	Diploid	1460.04	MARK3: Diploid
+TCGA-A8-A07J-01	Diploid	937.09	MARK3: Diploid
+TCGA-A8-A07P-01	Diploid	847.961	MARK3: Diploid
+TCGA-A8-A07U-01	Diploid	947.024	MARK3: Diploid
+TCGA-A8-A07Z-01	Diploid	815.086	MARK3: Diploid
+TCGA-A8-A082-01	Diploid	1355.2	MARK3: Diploid
+TCGA-A8-A083-01	Diploid	1033.77	MARK3: Diploid
+TCGA-A8-A085-01	Diploid	947.407	MARK3: Diploid
+TCGA-A8-A086-01	Diploid	986.952	MARK3: Diploid
+TCGA-A8-A08A-01	Diploid	1098.47	MARK3: Diploid
+TCGA-A8-A08L-01	Diploid	1336.29	MARK3: Diploid
+TCGA-A8-A08R-01	Diploid	1089.35	MARK3: Diploid
+TCGA-A8-A08T-01	Diploid	1121.8	MARK3: Diploid
+TCGA-A8-A08X-01	Diploid	1404.71	MARK3: Diploid
+TCGA-A8-A08Z-01	Diploid	1219.65	MARK3: Diploid
+TCGA-A8-A093-01	Diploid	962.042	MARK3: Diploid
+TCGA-A8-A096-01	Diploid	1114.73	MARK3: Diploid
+TCGA-A8-A09B-01	Diploid	1078	MARK3: Diploid
+TCGA-A8-A09G-01	Diploid	1270.28	MARK3: Diploid
+TCGA-A8-A09I-01	Diploid	1465.76	MARK3: Diploid
+TCGA-A8-A09Q-01	Diploid	937.193	MARK3: Diploid
+TCGA-A8-A09T-01	Diploid	1286.95	MARK3: Diploid
+TCGA-A8-A09V-01	Diploid	1130.6	MARK3: Diploid
+TCGA-A8-A09W-01	Diploid	813.922	MARK3: Diploid
+TCGA-A8-A09Z-01	Diploid	806.567	MARK3: Diploid
+TCGA-A8-A0A1-01	Diploid	1221.89	MARK3: Diploid
+TCGA-A8-A0A4-01	Diploid	1326.63	MARK3: Diploid
+TCGA-A8-A0A7-01	Diploid	749.509	MARK3: Diploid
+TCGA-A8-A0AD-01	Diploid	1433.12	MARK3: Diploid
+TCGA-AC-A23H-01	Diploid	1115.23	MARK3: Diploid
+TCGA-AC-A2B8-01	Diploid	1144.12	MARK3: Diploid
+TCGA-AC-A2FB-01	Diploid	979.982	MARK3: Diploid
+TCGA-AC-A2FF-01	Diploid	1175.52	MARK3: Diploid
+TCGA-AC-A2FG-01	Diploid	987.043	MARK3: Diploid
+TCGA-AC-A2FK-01	Diploid	946.643	MARK3: Diploid
+TCGA-AC-A2FO-01	Diploid	1008.92	MARK3: Diploid
+TCGA-AC-A3HN-01	Diploid	1126.88	MARK3: Diploid
+TCGA-AC-A3OD-01	Diploid	1137.83	MARK3: Diploid
+TCGA-AC-A3QP-01	Diploid	1061.9	MARK3: Diploid
+TCGA-AC-A3QQ-01	Diploid	1097.76	MARK3: Diploid
+TCGA-AC-A3YI-01	Diploid	1351.2	MARK3: Diploid
+TCGA-AC-A3YJ-01	Diploid	1120.63	MARK3: Diploid
+TCGA-AC-A4ZE-01	Diploid	1367.63	MARK3: Diploid
+TCGA-AC-A5EH-01	Diploid	1229.69	MARK3: Diploid
+TCGA-AC-A5XS-01	Diploid	1140.46	MARK3: Diploid
+TCGA-AC-A5XU-01	Diploid	1119.36	MARK3: Diploid
+TCGA-AC-A62V-01	Diploid	1241.81	MARK3: Diploid
+TCGA-AC-A6IV-01	Diploid	1222.26	MARK3: Diploid
+TCGA-AC-A6IX-01	Diploid	1275	MARK3: Diploid
+TCGA-AC-A6NO-01	Diploid	1243.57	MARK3: Diploid
+TCGA-AC-A8OR-01	Diploid	1068.68	MARK3: Diploid
+TCGA-AC-A8OS-01	Diploid	1279.63	MARK3: Diploid
+TCGA-AN-A03X-01	Diploid	709.935	MARK3: Diploid
+TCGA-AN-A03Y-01	Diploid	1180.06	MARK3: Diploid
+TCGA-AN-A041-01	Diploid	1322.05	MARK3: Diploid
+TCGA-AN-A046-01	Diploid	1408.56	MARK3: Diploid
+TCGA-AN-A049-01	Diploid	1126.55	MARK3: Diploid
+TCGA-AN-A0AJ-01	Diploid	1357.46	MARK3: Diploid
+TCGA-AN-A0AL-01	Diploid	1630.03	MARK3: Diploid
+TCGA-AN-A0AM-01	Diploid	1167.03	MARK3: Diploid
+TCGA-AN-A0AR-01	Diploid	1479.04	MARK3: Diploid
+TCGA-AN-A0AT-01	Diploid	1443.07	MARK3: Diploid
+TCGA-AN-A0FD-01	Diploid	1149.58	MARK3: Diploid
+TCGA-AN-A0FF-01	Diploid	1069.66	MARK3: Diploid
+TCGA-AN-A0FK-01	Diploid	822.927	MARK3: Diploid
+TCGA-AN-A0FN-01	Diploid	1187.78	MARK3: Diploid
+TCGA-AN-A0FS-01	Diploid	973.441	MARK3: Diploid
+TCGA-AN-A0FV-01	Diploid	1386.85	MARK3: Diploid
+TCGA-AN-A0FZ-01	Diploid	1219.52	MARK3: Diploid
+TCGA-AN-A0XL-01	Diploid	1067.04	MARK3: Diploid
+TCGA-AN-A0XP-01	Diploid	1116.4	MARK3: Diploid
+TCGA-AN-A0XR-01	Diploid	1034.73	MARK3: Diploid
+TCGA-AN-A0XS-01	Diploid	1234.17	MARK3: Diploid
+TCGA-AN-A0XT-01	Diploid	1323.99	MARK3: Diploid
+TCGA-AN-A0XV-01	Diploid	1256.28	MARK3: Diploid
+TCGA-AN-A0XW-01	Diploid	1350.32	MARK3: Diploid
+TCGA-AO-A03M-01	Diploid	1478.02	MARK3: Diploid
+TCGA-AO-A03R-01	Diploid	1661.16	MARK3: Diploid
+TCGA-AO-A03U-01	Diploid	1010.99	MARK3: Diploid
+TCGA-AO-A03V-01	Diploid	1261.18	MARK3: Diploid
+TCGA-AO-A0J2-01	Diploid	1243.2	MARK3: Diploid
+TCGA-AO-A0J3-01	Diploid	1809.3	MARK3: Diploid
+TCGA-AO-A0J5-01	Diploid	1102.05	MARK3: Diploid
+TCGA-AO-A0J8-01	Diploid	1235.3	MARK3: Diploid
+TCGA-AO-A0J9-01	Diploid	1218.15	MARK3: Diploid
+TCGA-AO-A0JA-01	Diploid	1179.88	MARK3: Diploid
+TCGA-AO-A0JB-01	Diploid	1406.29	MARK3: Diploid
+TCGA-AO-A0JC-01	Diploid	1612.52	MARK3: Diploid
+TCGA-AO-A0JF-01	Diploid	855.88	MARK3: Diploid
+TCGA-AO-A0JG-01	Diploid	1287.94	MARK3: Diploid
+TCGA-AO-A0JI-01	Diploid	1134.04	MARK3: Diploid
+TCGA-AO-A0JJ-01	Diploid	904.573	MARK3: Diploid
+TCGA-AO-A125-01	Diploid	1519.45	MARK3: Diploid
+TCGA-AO-A126-01	Diploid	1269.78	MARK3: Diploid
+TCGA-AO-A128-01	Diploid	1223.34	MARK3: Diploid
+TCGA-AO-A12A-01	Diploid	1088.02	MARK3: Diploid
+TCGA-AO-A12B-01	Diploid	724.812	MARK3: Diploid
+TCGA-AO-A12D-01	Diploid	992.911	MARK3: Diploid
+TCGA-AO-A12G-01	Diploid	1077.2	MARK3: Diploid
+TCGA-AO-A12H-01	Diploid	1192.96	MARK3: Diploid
+TCGA-AO-A1KO-01	Diploid	1208.77	MARK3: Diploid
+TCGA-AO-A1KP-01	Diploid	1505.99	MARK3: Diploid
+TCGA-AO-A1KT-01	Diploid	1739.63	MARK3: Diploid
+TCGA-AQ-A04H-01	Diploid	1100.79	MARK3: Diploid
+TCGA-AQ-A1H2-01	Diploid	1325.64	MARK3: Diploid
+TCGA-AQ-A1H3-01	Diploid	1074.66	MARK3: Diploid
+TCGA-AQ-A7U7-01	Diploid	1247.74	MARK3: Diploid
+TCGA-AR-A0TP-01	Diploid	995.655	MARK3: Diploid
+TCGA-AR-A0TQ-01	Diploid	1325.94	MARK3: Diploid
+TCGA-AR-A0TS-01	Diploid	1393.91	MARK3: Diploid
+TCGA-AR-A0TW-01	Diploid	999.754	MARK3: Diploid
+TCGA-AR-A0TX-01	Diploid	1123.52	MARK3: Diploid
+TCGA-AR-A0TY-01	Diploid	1350.21	MARK3: Diploid
+TCGA-AR-A0TZ-01	Diploid	1392.44	MARK3: Diploid
+TCGA-AR-A0U2-01	Diploid	1551.44	MARK3: Diploid
+TCGA-AR-A0U3-01	Diploid	1460.92	MARK3: Diploid
+TCGA-AR-A1AK-01	Diploid	1028.07	MARK3: Diploid
+TCGA-AR-A1AN-01	Diploid	1117.04	MARK3: Diploid
+TCGA-AR-A1AO-01	Diploid	1218.56	MARK3: Diploid
+TCGA-AR-A1AR-01	Diploid	1426.35	MARK3: Diploid
+TCGA-AR-A1AS-01	Diploid	1456.55	MARK3: Diploid
+TCGA-AR-A1AV-01	Diploid	935.769	MARK3: Diploid
+TCGA-AR-A24N-01	Diploid	971.027	MARK3: Diploid
+TCGA-AR-A24O-01	Diploid	1186.01	MARK3: Diploid
+TCGA-AR-A24P-01	Diploid	1143.64	MARK3: Diploid
+TCGA-AR-A24S-01	Diploid	1457.39	MARK3: Diploid
+TCGA-AR-A24T-01	Diploid	1088.98	MARK3: Diploid
+TCGA-AR-A24W-01	Diploid	1075.28	MARK3: Diploid
+TCGA-AR-A24X-01	Diploid	1168.02	MARK3: Diploid
+TCGA-AR-A24Z-01	Diploid	1237.95	MARK3: Diploid
+TCGA-AR-A252-01	Diploid	1260.15	MARK3: Diploid
+TCGA-AR-A254-01	Diploid	1272.69	MARK3: Diploid
+TCGA-AR-A2LE-01	Diploid	922.156	MARK3: Diploid
+TCGA-AR-A2LH-01	Diploid	910.095	MARK3: Diploid
+TCGA-AR-A2LM-01	Diploid	1151.34	MARK3: Diploid
+TCGA-AR-A2LN-01	Diploid	1040.19	MARK3: Diploid
+TCGA-AR-A2LO-01	Diploid	1122.24	MARK3: Diploid
+TCGA-AR-A2LQ-01	Diploid	943.532	MARK3: Diploid
+TCGA-AR-A5QN-01	Diploid	1180.55	MARK3: Diploid
+TCGA-AR-A5QP-01	Diploid	1018.44	MARK3: Diploid
+TCGA-AR-A5QQ-01	Diploid	1817.68	MARK3: Diploid
+TCGA-B6-A0I1-01	Diploid	1296.15	MARK3: Diploid
+TCGA-B6-A0I2-01	Diploid	1017.81	MARK3: Diploid
+TCGA-B6-A0IA-01	Diploid	1206.51	MARK3: Diploid
+TCGA-B6-A0IC-01	Diploid	1215.95	MARK3: Diploid
+TCGA-B6-A0IG-01	Diploid	1476.34	MARK3: Diploid
+TCGA-B6-A0IK-01	Diploid	1171.68	MARK3: Diploid
+TCGA-B6-A0IM-01	Diploid	1057.57	MARK3: Diploid
+TCGA-B6-A0IN-01	Diploid	921.844	MARK3: Diploid
+TCGA-B6-A0IP-01	Diploid	1338.35	MARK3: Diploid
+TCGA-B6-A0RG-01	Diploid	1203.79	MARK3: Diploid
+TCGA-B6-A0RH-01	Diploid	1359.7	MARK3: Diploid
+TCGA-B6-A0RI-01	Diploid	1418.25	MARK3: Diploid
+TCGA-B6-A0RM-01	Diploid	1111.98	MARK3: Diploid
+TCGA-B6-A0RN-01	Diploid	930.629	MARK3: Diploid
+TCGA-B6-A0RP-01	Diploid	1050.48	MARK3: Diploid
+TCGA-B6-A0RQ-01	Diploid	1051.35	MARK3: Diploid
+TCGA-B6-A0RT-01	Diploid	1057.38	MARK3: Diploid
+TCGA-B6-A0RV-01	Diploid	1136.69	MARK3: Diploid
+TCGA-B6-A0WT-01	Diploid	1310.75	MARK3: Diploid
+TCGA-B6-A0X0-01	Diploid	1022.34	MARK3: Diploid
+TCGA-B6-A0X1-01	Diploid	1428.45	MARK3: Diploid
+TCGA-B6-A0X4-01	Diploid	1303.42	MARK3: Diploid
+TCGA-B6-A0X5-01	Diploid	1071.75	MARK3: Diploid
+TCGA-B6-A0X7-01	Diploid	1273.6	MARK3: Diploid
+TCGA-B6-A2IU-01	Diploid	1126.53	MARK3: Diploid
+TCGA-B6-A40B-01	Diploid	1344.12	MARK3: Diploid
+TCGA-B6-A40C-01	Diploid	1218.27	MARK3: Diploid
+TCGA-BH-A0AY-01	Diploid	1105.61	MARK3: Diploid
+TCGA-BH-A0AZ-01	Diploid	1253.47	MARK3: Diploid
+TCGA-BH-A0B0-01	Diploid	1225.11	MARK3: Diploid
+TCGA-BH-A0B3-01	Diploid	1544.87	MARK3: Diploid
+TCGA-BH-A0B4-01	Diploid	1020.62	MARK3: Diploid
+TCGA-BH-A0BC-01	Diploid	982.793	MARK3: Diploid
+TCGA-BH-A0BD-01	Diploid	926.423	MARK3: Diploid
+TCGA-BH-A0BM-01	Diploid	1105.1	MARK3: Diploid
+TCGA-BH-A0BO-01	Diploid	1199.48	MARK3: Diploid
+TCGA-BH-A0BP-01	Diploid	1003.51	MARK3: Diploid
+TCGA-BH-A0BQ-01	Diploid	905.777	MARK3: Diploid
+TCGA-BH-A0BR-01	Diploid	1305.15	MARK3: Diploid
+TCGA-BH-A0BS-01	Diploid	820.848	MARK3: Diploid
+TCGA-BH-A0BV-01	Diploid	1181.89	MARK3: Diploid
+TCGA-BH-A0C0-01	Diploid	1117.86	MARK3: Diploid
+TCGA-BH-A0C3-01	Diploid	1082.49	MARK3: Diploid
+TCGA-BH-A0DD-01	Diploid	1138.31	MARK3: Diploid
+TCGA-BH-A0DH-01	Diploid	805.42	MARK3: Diploid
+TCGA-BH-A0DK-01	Diploid	1324.48	MARK3: Diploid
+TCGA-BH-A0DO-01	Diploid	981.739	MARK3: Diploid
+TCGA-BH-A0DP-01	Diploid	871.839	MARK3: Diploid
+TCGA-BH-A0DQ-01	Diploid	1033.92	MARK3: Diploid
+TCGA-BH-A0DT-01	Diploid	1090.47	MARK3: Diploid
+TCGA-BH-A0DV-01	Diploid	893.386	MARK3: Diploid
+TCGA-BH-A0DX-01	Diploid	1202.46	MARK3: Diploid
+TCGA-BH-A0DZ-01	Diploid	1087.29	MARK3: Diploid
+TCGA-BH-A0E1-01	Diploid	1168.39	MARK3: Diploid
+TCGA-BH-A0E7-01	Diploid	1010.51	MARK3: Diploid
+TCGA-BH-A0EA-01	Diploid	995.334	MARK3: Diploid
+TCGA-BH-A0EB-01	Diploid	1075.07	MARK3: Diploid
+TCGA-BH-A0EI-01	Diploid	1081.11	MARK3: Diploid
+TCGA-BH-A0GY-01	Diploid	1668.62	MARK3: Diploid
+TCGA-BH-A0GZ-01	Diploid	1025.16	MARK3: Diploid
+TCGA-BH-A0H0-01	Diploid	1214.29	MARK3: Diploid
+TCGA-BH-A0H3-01	Diploid	1129.4	MARK3: Diploid
+TCGA-BH-A0H5-01	Diploid	1121.8	MARK3: Diploid
+TCGA-BH-A0H6-01	Diploid	1111.11	MARK3: Diploid
+TCGA-BH-A0H9-01	Diploid	1177.99	MARK3: Diploid
+TCGA-BH-A0HA-01	Diploid	1188.45	MARK3: Diploid
+TCGA-BH-A0HK-01	Diploid	1033.19	MARK3: Diploid
+TCGA-BH-A0HO-01	Diploid	1023.19	MARK3: Diploid
+TCGA-BH-A0HP-01	Diploid	1013.84	MARK3: Diploid
+TCGA-BH-A0HQ-01	Diploid	818.32	MARK3: Diploid
+TCGA-BH-A0HU-01	Diploid	1399.32	MARK3: Diploid
+TCGA-BH-A0HW-01	Diploid	1255.92	MARK3: Diploid
+TCGA-BH-A0W3-01	Diploid	1296.88	MARK3: Diploid
+TCGA-BH-A0W4-01	Diploid	1296.63	MARK3: Diploid
+TCGA-BH-A0W5-01	Diploid	1167.05	MARK3: Diploid
+TCGA-BH-A18G-01	Diploid	1164.38	MARK3: Diploid
+TCGA-BH-A18I-01	Diploid	1383.46	MARK3: Diploid
+TCGA-BH-A18M-01	Diploid	1173.56	MARK3: Diploid
+TCGA-BH-A18N-01	Diploid	1015.1	MARK3: Diploid
+TCGA-BH-A18P-01	Diploid	1225.3	MARK3: Diploid
+TCGA-BH-A18R-01	Diploid	1276.37	MARK3: Diploid
+TCGA-BH-A18S-01	Diploid	1062.72	MARK3: Diploid
+TCGA-BH-A1EO-01	Diploid	918.422	MARK3: Diploid
+TCGA-BH-A1ET-01	Diploid	1128.9	MARK3: Diploid
+TCGA-BH-A1EU-01	Diploid	1209.46	MARK3: Diploid
+TCGA-BH-A1EX-01	Diploid	1045.62	MARK3: Diploid
+TCGA-BH-A1F0-01	Diploid	948.274	MARK3: Diploid
+TCGA-BH-A1F2-01	Diploid	1019.57	MARK3: Diploid
+TCGA-BH-A1F5-01	Diploid	1272.29	MARK3: Diploid
+TCGA-BH-A1FC-01	Diploid	1560.57	MARK3: Diploid
+TCGA-BH-A1FG-01	Diploid	1094.68	MARK3: Diploid
+TCGA-BH-A1FH-01	Diploid	1142.5	MARK3: Diploid
+TCGA-BH-A1FJ-01	Diploid	1096.19	MARK3: Diploid
+TCGA-BH-A1FL-01	Diploid	1383.77	MARK3: Diploid
+TCGA-BH-A1FN-01	Diploid	1491.27	MARK3: Diploid
+TCGA-BH-A1FR-01	Diploid	1129.71	MARK3: Diploid
+TCGA-BH-A201-01	Diploid	1334.87	MARK3: Diploid
+TCGA-BH-A203-01	Diploid	1404.55	MARK3: Diploid
+TCGA-BH-A209-01	Diploid	1454.57	MARK3: Diploid
+TCGA-BH-A28Q-01	Diploid	996.329	MARK3: Diploid
+TCGA-BH-A2L8-01	Diploid	1328.81	MARK3: Diploid
+TCGA-BH-A42U-01	Diploid	1112.12	MARK3: Diploid
+TCGA-BH-A42V-01	Diploid	944.841	MARK3: Diploid
+TCGA-BH-A6R8-01	Diploid	960.414	MARK3: Diploid
+TCGA-BH-A8FY-01	Diploid	1175.43	MARK3: Diploid
+TCGA-BH-A8FZ-01	Diploid	938.78	MARK3: Diploid
+TCGA-BH-A8G0-01	Diploid	1144.95	MARK3: Diploid
+TCGA-BH-AB28-01	Diploid	1045.84	MARK3: Diploid
+TCGA-C8-A12N-01	Diploid	1261.72	MARK3: Diploid
+TCGA-C8-A12T-01	Diploid	1404.03	MARK3: Diploid
+TCGA-C8-A12U-01	Diploid	1405.71	MARK3: Diploid
+TCGA-C8-A12V-01	Diploid	1084.35	MARK3: Diploid
+TCGA-C8-A12Y-01	Diploid	1368.68	MARK3: Diploid
+TCGA-C8-A12Z-01	Diploid	1246.96	MARK3: Diploid
+TCGA-C8-A131-01	Diploid	1406.16	MARK3: Diploid
+TCGA-C8-A133-01	Diploid	1023.31	MARK3: Diploid
+TCGA-C8-A135-01	Diploid	1388.48	MARK3: Diploid
+TCGA-C8-A137-01	Diploid	1414.23	MARK3: Diploid
+TCGA-C8-A1HE-01	Diploid	1109.79	MARK3: Diploid
+TCGA-C8-A1HL-01	Diploid	1692.82	MARK3: Diploid
+TCGA-C8-A1HO-01	Diploid	1417.03	MARK3: Diploid
+TCGA-C8-A26V-01	Diploid	1086.63	MARK3: Diploid
+TCGA-C8-A26W-01	Diploid	1834.96	MARK3: Diploid
+TCGA-C8-A26Y-01	Diploid	1498.55	MARK3: Diploid
+TCGA-C8-A26Z-01	Diploid	1417.79	MARK3: Diploid
+TCGA-C8-A273-01	Diploid	1154.71	MARK3: Diploid
+TCGA-C8-A274-01	Diploid	1155.03	MARK3: Diploid
+TCGA-C8-A275-01	Diploid	1341.57	MARK3: Diploid
+TCGA-C8-A3M7-01	Diploid	1269.68	MARK3: Diploid
+TCGA-C8-A3M8-01	Diploid	1221.87	MARK3: Diploid
+TCGA-C8-A8HQ-01	Diploid	1534.83	MARK3: Diploid
+TCGA-C8-A8HR-01	Diploid	927.644	MARK3: Diploid
+TCGA-D8-A13Y-01	Diploid	1712.09	MARK3: Diploid
+TCGA-D8-A140-01	Diploid	1010.99	MARK3: Diploid
+TCGA-D8-A145-01	Diploid	1210.65	MARK3: Diploid
+TCGA-D8-A1J9-01	Diploid	1321.04	MARK3: Diploid
+TCGA-D8-A1JA-01	Diploid	1174.16	MARK3: Diploid
+TCGA-D8-A1JB-01	Diploid	1211.63	MARK3: Diploid
+TCGA-D8-A1JE-01	Diploid	1251.14	MARK3: Diploid
+TCGA-D8-A1JH-01	Diploid	1141.4	MARK3: Diploid
+TCGA-D8-A1JI-01	Diploid	1088.71	MARK3: Diploid
+TCGA-D8-A1JN-01	Diploid	1318.21	MARK3: Diploid
+TCGA-D8-A1JS-01	Diploid	1023.26	MARK3: Diploid
+TCGA-D8-A1JT-01	Diploid	1077.43	MARK3: Diploid
+TCGA-D8-A1JU-01	Diploid	1206.19	MARK3: Diploid
+TCGA-D8-A1X6-01	Diploid	1099.06	MARK3: Diploid
+TCGA-D8-A1X7-01	Diploid	882.558	MARK3: Diploid
+TCGA-D8-A1X8-01	Diploid	1038.59	MARK3: Diploid
+TCGA-D8-A1X9-01	Diploid	1286.71	MARK3: Diploid
+TCGA-D8-A1XC-01	Diploid	803.809	MARK3: Diploid
+TCGA-D8-A1XG-01	Diploid	970.419	MARK3: Diploid
+TCGA-D8-A1XJ-01	Diploid	1126.6	MARK3: Diploid
+TCGA-D8-A1XM-01	Diploid	1180.12	MARK3: Diploid
+TCGA-D8-A1XQ-01	Diploid	1590.55	MARK3: Diploid
+TCGA-D8-A1XR-01	Diploid	1077.57	MARK3: Diploid
+TCGA-D8-A1XS-01	Diploid	1250.92	MARK3: Diploid
+TCGA-D8-A1XV-01	Diploid	1044.31	MARK3: Diploid
+TCGA-D8-A1Y1-01	Diploid	1295.95	MARK3: Diploid
+TCGA-D8-A1Y2-01	Diploid	1202.78	MARK3: Diploid
+TCGA-D8-A27E-01	Diploid	1061.41	MARK3: Diploid
+TCGA-D8-A27F-01	Diploid	1597.99	MARK3: Diploid
+TCGA-D8-A27G-01	Diploid	1280.03	MARK3: Diploid
+TCGA-D8-A27H-01	Diploid	1422.92	MARK3: Diploid
+TCGA-D8-A27K-01	Diploid	1099.32	MARK3: Diploid
+TCGA-D8-A27L-01	Diploid	1214.19	MARK3: Diploid
+TCGA-D8-A27N-01	Diploid	1227.18	MARK3: Diploid
+TCGA-D8-A27P-01	Diploid	1094.17	MARK3: Diploid
+TCGA-D8-A27V-01	Diploid	1000.42	MARK3: Diploid
+TCGA-D8-A4Z1-01	Diploid	1150.24	MARK3: Diploid
+TCGA-D8-A73U-01	Diploid	1330.24	MARK3: Diploid
+TCGA-D8-A73W-01	Diploid	1094.9	MARK3: Diploid
+TCGA-D8-A73X-01	Diploid	1123.15	MARK3: Diploid
+TCGA-E2-A105-01	Diploid	1587.5	MARK3: Diploid
+TCGA-E2-A107-01	Diploid	1208.93	MARK3: Diploid
+TCGA-E2-A10A-01	Diploid	1177.09	MARK3: Diploid
+TCGA-E2-A10B-01	Diploid	1080.23	MARK3: Diploid
+TCGA-E2-A10F-01	Diploid	1211.88	MARK3: Diploid
+TCGA-E2-A14O-01	Diploid	1267.33	MARK3: Diploid
+TCGA-E2-A14Q-01	Diploid	1478.92	MARK3: Diploid
+TCGA-E2-A14X-01	Diploid	1491.61	MARK3: Diploid
+TCGA-E2-A14Y-01	Diploid	1387.51	MARK3: Diploid
+TCGA-E2-A150-01	Diploid	1351.27	MARK3: Diploid
+TCGA-E2-A156-01	Diploid	1030.87	MARK3: Diploid
+TCGA-E2-A158-01	Diploid	1182.76	MARK3: Diploid
+TCGA-E2-A15C-01	Diploid	996	MARK3: Diploid
+TCGA-E2-A15D-01	Diploid	1127.5	MARK3: Diploid
+TCGA-E2-A15H-01	Diploid	1480.08	MARK3: Diploid
+TCGA-E2-A15J-01	Diploid	1030.74	MARK3: Diploid
+TCGA-E2-A15L-01	Diploid	1063.24	MARK3: Diploid
+TCGA-E2-A15O-01	Diploid	1373.44	MARK3: Diploid
+TCGA-E2-A15R-01	Diploid	1263.52	MARK3: Diploid
+TCGA-E2-A15T-01	Diploid	1027.37	MARK3: Diploid
+TCGA-E2-A1B0-01	Diploid	1153.55	MARK3: Diploid
+TCGA-E2-A1B1-01	Diploid	1273.49	MARK3: Diploid
+TCGA-E2-A1B4-01	Diploid	1290.6	MARK3: Diploid
+TCGA-E2-A1B5-01	Diploid	1218.1	MARK3: Diploid
+TCGA-E2-A1B6-01	Diploid	1183.4	MARK3: Diploid
+TCGA-E2-A1BC-01	Diploid	1167.86	MARK3: Diploid
+TCGA-E2-A1BD-01	Diploid	1087.07	MARK3: Diploid
+TCGA-E2-A1IF-01	Diploid	1168.74	MARK3: Diploid
+TCGA-E2-A1IG-01	Diploid	1281.77	MARK3: Diploid
+TCGA-E2-A1IJ-01	Diploid	1082.85	MARK3: Diploid
+TCGA-E2-A1IK-01	Diploid	891.667	MARK3: Diploid
+TCGA-E2-A1IL-01	Diploid	1045.97	MARK3: Diploid
+TCGA-E2-A1IN-01	Diploid	1274.93	MARK3: Diploid
+TCGA-E2-A1IO-01	Diploid	1136.82	MARK3: Diploid
+TCGA-E2-A1IU-01	Diploid	1027.34	MARK3: Diploid
+TCGA-E2-A1L6-01	Diploid	1263.42	MARK3: Diploid
+TCGA-E2-A1L8-01	Diploid	1673.67	MARK3: Diploid
+TCGA-E2-A1LA-01	Diploid	1436.58	MARK3: Diploid
+TCGA-E2-A1LB-01	Diploid	1004.61	MARK3: Diploid
+TCGA-E2-A1LK-01	Diploid	1591.12	MARK3: Diploid
+TCGA-E2-A2P6-01	Diploid	1412.22	MARK3: Diploid
+TCGA-E2-A570-01	Diploid	1284.11	MARK3: Diploid
+TCGA-E9-A1N3-01	Diploid	1132.92	MARK3: Diploid
+TCGA-E9-A1N4-01	Diploid	1171.44	MARK3: Diploid
+TCGA-E9-A1N5-01	Diploid	1398.97	MARK3: Diploid
+TCGA-E9-A1NA-01	Diploid	1102.35	MARK3: Diploid
+TCGA-E9-A1NE-01	Diploid	897.077	MARK3: Diploid
+TCGA-E9-A1NG-01	Diploid	1115.1	MARK3: Diploid
+TCGA-E9-A1NH-01	Diploid	1156.53	MARK3: Diploid
+TCGA-E9-A1R0-01	Diploid	1139.15	MARK3: Diploid
+TCGA-E9-A1R3-01	Diploid	1325.15	MARK3: Diploid
+TCGA-E9-A1RA-01	Diploid	1406.78	MARK3: Diploid
+TCGA-E9-A1RD-01	Diploid	1156.24	MARK3: Diploid
+TCGA-E9-A1RG-01	Diploid	1487.99	MARK3: Diploid
+TCGA-E9-A1RI-01	Diploid	1375.66	MARK3: Diploid
+TCGA-E9-A227-01	Diploid	1137.08	MARK3: Diploid
+TCGA-E9-A228-01	Diploid	1304.33	MARK3: Diploid
+TCGA-E9-A22B-01	Diploid	1223.92	MARK3: Diploid
+TCGA-E9-A22H-01	Diploid	1278.7	MARK3: Diploid
+TCGA-E9-A245-01	Diploid	1350.74	MARK3: Diploid
+TCGA-E9-A248-01	Diploid	1718.36	MARK3: Diploid
+TCGA-E9-A249-01	Diploid	1174.39	MARK3: Diploid
+TCGA-E9-A24A-01	Diploid	1137.97	MARK3: Diploid
+TCGA-E9-A2JT-01	Diploid	1182.01	MARK3: Diploid
+TCGA-E9-A3X8-01	Diploid	1232.18	MARK3: Diploid
+TCGA-E9-A54Y-01	Diploid	1305.69	MARK3: Diploid
+TCGA-E9-A5FK-01	Diploid	1262.74	MARK3: Diploid
+TCGA-E9-A5FL-01	Diploid	1783.59	MARK3: Diploid
+TCGA-E9-A5UO-01	Diploid	1095.23	MARK3: Diploid
+TCGA-E9-A6HE-01	Diploid	1134.2	MARK3: Diploid
+TCGA-EW-A1IW-01	Diploid	1345.72	MARK3: Diploid
+TCGA-EW-A1IX-01	Diploid	1249.92	MARK3: Diploid
+TCGA-EW-A1J1-01	Diploid	1277.19	MARK3: Diploid
+TCGA-EW-A1J3-01	Diploid	1597.39	MARK3: Diploid
+TCGA-EW-A1J5-01	Diploid	1189.74	MARK3: Diploid
+TCGA-EW-A1OX-01	Diploid	1046.83	MARK3: Diploid
+TCGA-EW-A1OY-01	Diploid	1129.2	MARK3: Diploid
+TCGA-EW-A1OZ-01	Diploid	1134.24	MARK3: Diploid
+TCGA-EW-A1P0-01	Diploid	1185.88	MARK3: Diploid
+TCGA-EW-A1P1-01	Diploid	1099.39	MARK3: Diploid
+TCGA-EW-A1P6-01	Diploid	1129.78	MARK3: Diploid
+TCGA-EW-A1P7-01	Diploid	1021.52	MARK3: Diploid
+TCGA-EW-A1PA-01	Diploid	1506.39	MARK3: Diploid
+TCGA-EW-A1PB-01	Diploid	1011.73	MARK3: Diploid
+TCGA-EW-A1PD-01	Diploid	1102.89	MARK3: Diploid
+TCGA-EW-A1PE-01	Diploid	1130.41	MARK3: Diploid
+TCGA-EW-A2FW-01	Diploid	1225.9	MARK3: Diploid
+TCGA-EW-A6S9-01	Diploid	1445.89	MARK3: Diploid
+TCGA-GI-A2C8-01	Diploid	1168.67	MARK3: Diploid
+TCGA-GM-A2D9-01	Diploid	1480.12	MARK3: Diploid
+TCGA-GM-A2DA-01	Diploid	1535.29	MARK3: Diploid
+TCGA-GM-A2DD-01	Diploid	1141.8	MARK3: Diploid
+TCGA-GM-A2DF-01	Diploid	1184.74	MARK3: Diploid
+TCGA-GM-A2DI-01	Diploid	1064.08	MARK3: Diploid
+TCGA-GM-A2DL-01	Diploid	1591.76	MARK3: Diploid
+TCGA-GM-A2DM-01	Diploid	1023.13	MARK3: Diploid
+TCGA-GM-A2DN-01	Diploid	1182.03	MARK3: Diploid
+TCGA-GM-A2DO-01	Diploid	1573.82	MARK3: Diploid
+TCGA-GM-A3NW-01	Diploid	1188.47	MARK3: Diploid
+TCGA-GM-A4E0-01	Diploid	1214.54	MARK3: Diploid
+TCGA-GM-A5PV-01	Diploid	1096.71	MARK3: Diploid
+TCGA-HN-A2OB-01	Diploid	1162.77	MARK3: Diploid
+TCGA-LD-A66U-01	Diploid	1150.94	MARK3: Diploid
+TCGA-LD-A74U-01	Diploid	1287.44	MARK3: Diploid
+TCGA-LD-A7W6-01	Diploid	1213.45	MARK3: Diploid
+TCGA-LD-A9QF-01	Diploid	1107.68	MARK3: Diploid
+TCGA-LL-A440-01	Diploid	1051.09	MARK3: Diploid
+TCGA-LL-A50Y-01	Diploid	1044.23	MARK3: Diploid
+TCGA-LL-A5YL-01	Diploid	1187.82	MARK3: Diploid
+TCGA-LL-A5YN-01	Diploid	1133.23	MARK3: Diploid
+TCGA-LL-A6FP-01	Diploid	1092.41	MARK3: Diploid
+TCGA-LL-A6FR-01	Diploid	915.46	MARK3: Diploid
+TCGA-LL-A73Y-01	Diploid	1017.54	MARK3: Diploid
+TCGA-LL-A73Z-01	Diploid	1039.03	MARK3: Diploid
+TCGA-LL-A740-01	Diploid	1107.39	MARK3: Diploid
+TCGA-LL-A7SZ-01	Diploid	1144.95	MARK3: Diploid
+TCGA-LL-A9Q3-01	Diploid	1140.42	MARK3: Diploid
+TCGA-OK-A5Q2-01	Diploid	1101.18	MARK3: Diploid
+TCGA-OL-A5D6-01	Diploid	1108.15	MARK3: Diploid
+TCGA-OL-A5D8-01	Diploid	885.442	MARK3: Diploid
+TCGA-OL-A5DA-01	Diploid	1329.35	MARK3: Diploid
+TCGA-OL-A5RU-01	Diploid	1144.28	MARK3: Diploid
+TCGA-OL-A5RV-01	Diploid	1149.8	MARK3: Diploid
+TCGA-OL-A5RW-01	Diploid	1253.64	MARK3: Diploid
+TCGA-OL-A5RX-01	Diploid	1233.25	MARK3: Diploid
+TCGA-OL-A5RY-01	Diploid	1320.08	MARK3: Diploid
+TCGA-OL-A66H-01	Diploid	1121.35	MARK3: Diploid
+TCGA-OL-A66J-01	Diploid	1172.15	MARK3: Diploid
+TCGA-OL-A66L-01	Diploid	1268.43	MARK3: Diploid
+TCGA-OL-A66O-01	Diploid	1234.96	MARK3: Diploid
+TCGA-OL-A66P-01	Diploid	1164.75	MARK3: Diploid
+TCGA-OL-A6VO-01	Diploid	1457.02	MARK3: Diploid
+TCGA-OL-A6VQ-01	Diploid	1113.21	MARK3: Diploid
+TCGA-OL-A97C-01	Diploid	1173.53	MARK3: Diploid
+TCGA-PE-A5DC-01	Diploid	1073.08	MARK3: Diploid
+TCGA-PE-A5DD-01	Diploid	1352.39	MARK3: Diploid
+TCGA-PE-A5DE-01	Diploid	1152.57	MARK3: Diploid
+TCGA-PL-A8LY-01	Diploid	1220.58	MARK3: Diploid
+TCGA-PL-A8LZ-01	Diploid	1195.26	MARK3: Diploid
+TCGA-S3-A6ZH-01	Diploid	1372.49	MARK3: Diploid
+TCGA-S3-AA0Z-01	Diploid	1192.53	MARK3: Diploid
+TCGA-S3-AA11-01	Diploid	2194.14	MARK3: Diploid
+TCGA-S3-AA12-01	Diploid	1118.58	MARK3: Diploid
+TCGA-S3-AA14-01	Diploid	1186.76	MARK3: Diploid
+TCGA-S3-AA15-01	Diploid	1238.15	MARK3: Diploid
+TCGA-V7-A7HQ-01	Diploid	1014.9	MARK3: Diploid
+TCGA-W8-A86G-01	Diploid	1112.01	MARK3: Diploid
+TCGA-Z7-A8R5-01	Diploid	1202.4	MARK3: Diploid
+TCGA-A2-A04P-01	Gain	1645.75	MARK3: Gain
+TCGA-A2-A0D0-01	Gain	1631.8	MARK3: Gain
+TCGA-A2-A0SW-01	Gain	1389.45	MARK3: Gain
+TCGA-A2-A0T0-01	Gain	1809.27	MARK3: Gain
+TCGA-A2-A0T3-01	Gain	1523.87	MARK3: Gain
+TCGA-A2-A0YE-01	Gain	1332.38	MARK3: Gain
+TCGA-A2-A0YG-01	Gain	2036.75	MARK3: Gain
+TCGA-A2-A0YH-01	Gain	1502.08	MARK3: Gain
+TCGA-A2-A25B-01	Gain	1739.61	MARK3: Gain
+TCGA-A2-A25C-01	Gain	1777.02	MARK3: Gain
+TCGA-A2-A3KD-01	Gain	1258.25	MARK3: Gain
+TCGA-A7-A0DB-01	Gain	1090.53	MARK3: Gain
+TCGA-A7-A56D-01	Gain	1500.67	MARK3: Gain
+TCGA-A7-A6VV-01	Gain	1795.91	MARK3: Gain
+TCGA-A8-A06U-01	Gain	1141.19	MARK3: Gain
+TCGA-A8-A06X-01	Gain	1534.03	MARK3: Gain
+TCGA-A8-A075-01	Gain	1822.52	MARK3: Gain
+TCGA-A8-A076-01	Gain	1356.16	MARK3: Gain
+TCGA-A8-A079-01	Gain	1337.4	MARK3: Gain
+TCGA-A8-A08B-01	Gain	1475.27	MARK3: Gain
+TCGA-A8-A08I-01	Gain	1155.68	MARK3: Gain
+TCGA-A8-A091-01	Gain	1128.76	MARK3: Gain
+TCGA-A8-A092-01	Gain	1281.48	MARK3: Gain
+TCGA-A8-A094-01	Gain	1407.25	MARK3: Gain
+TCGA-A8-A095-01	Gain	1268.27	MARK3: Gain
+TCGA-A8-A09C-01	Gain	1638.26	MARK3: Gain
+TCGA-A8-A0A2-01	Gain	1408.85	MARK3: Gain
+TCGA-A8-A0A9-01	Gain	1606.62	MARK3: Gain
+TCGA-AC-A23E-01	Gain	1146.13	MARK3: Gain
+TCGA-AC-A3W5-01	Gain	1283.83	MARK3: Gain
+TCGA-AC-A62Y-01	Gain	1354.35	MARK3: Gain
+TCGA-AC-A7VB-01	Gain	2009.95	MARK3: Gain
+TCGA-AN-A04A-01	Gain	1235.99	MARK3: Gain
+TCGA-AN-A0FL-01	Gain	1026.72	MARK3: Gain
+TCGA-AN-A0FT-01	Gain	1919.29	MARK3: Gain
+TCGA-AN-A0FW-01	Gain	1194.01	MARK3: Gain
+TCGA-AN-A0XO-01	Gain	1743.44	MARK3: Gain
+TCGA-AN-A0XU-01	Gain	1941.42	MARK3: Gain
+TCGA-AO-A03L-01	Gain	1523.94	MARK3: Gain
+TCGA-AO-A03N-01	Gain	1467.2	MARK3: Gain
+TCGA-AO-A03O-01	Gain	1492.14	MARK3: Gain
+TCGA-AO-A0J7-01	Gain	1393.84	MARK3: Gain
+TCGA-AO-A0JE-01	Gain	1457.2	MARK3: Gain
+TCGA-AO-A0JM-01	Gain	1769.61	MARK3: Gain
+TCGA-AO-A124-01	Gain	1610.19	MARK3: Gain
+TCGA-AO-A1KS-01	Gain	1732.13	MARK3: Gain
+TCGA-AR-A24K-01	Gain	1226.04	MARK3: Gain
+TCGA-AR-A24M-01	Gain	1339.96	MARK3: Gain
+TCGA-AR-A24R-01	Gain	1433.84	MARK3: Gain
+TCGA-AR-A2LK-01	Gain	1635.58	MARK3: Gain
+TCGA-AR-A5QM-01	Gain	1419.24	MARK3: Gain
+TCGA-B6-A0I5-01	Gain	1650.15	MARK3: Gain
+TCGA-B6-A0I9-01	Gain	862.333	MARK3: Gain
+TCGA-B6-A0IB-01	Gain	1377.83	MARK3: Gain
+TCGA-B6-A0RO-01	Gain	1291.36	MARK3: Gain
+TCGA-B6-A0RU-01	Gain	1301.85	MARK3: Gain
+TCGA-B6-A0WZ-01	Gain	1845.62	MARK3: Gain
+TCGA-B6-A1KN-01	Gain	1987.18	MARK3: Gain
+TCGA-B6-A401-01	Gain	1119.74	MARK3: Gain
+TCGA-BH-A0BA-01	Gain	1151.23	MARK3: Gain
+TCGA-BH-A0BT-01	Gain	2059.26	MARK3: Gain
+TCGA-BH-A0DG-01	Gain	1239.04	MARK3: Gain
+TCGA-BH-A0DL-01	Gain	1785.67	MARK3: Gain
+TCGA-BH-A0DS-01	Gain	1125.3	MARK3: Gain
+TCGA-BH-A0E2-01	Gain	1344.19	MARK3: Gain
+TCGA-BH-A0E9-01	Gain	1184.82	MARK3: Gain
+TCGA-BH-A0EE-01	Gain	1771.72	MARK3: Gain
+TCGA-BH-A0HB-01	Gain	1383.55	MARK3: Gain
+TCGA-BH-A0HI-01	Gain	1009.23	MARK3: Gain
+TCGA-BH-A0W7-01	Gain	1655.02	MARK3: Gain
+TCGA-BH-A18K-01	Gain	1509.34	MARK3: Gain
+TCGA-BH-A18L-01	Gain	1344.22	MARK3: Gain
+TCGA-BH-A18V-01	Gain	1855.66	MARK3: Gain
+TCGA-BH-A1EN-01	Gain	1095.83	MARK3: Gain
+TCGA-BH-A1EV-01	Gain	1245.37	MARK3: Gain
+TCGA-BH-A1FU-01	Gain	1347.34	MARK3: Gain
+TCGA-BH-A5J0-01	Gain	1391.1	MARK3: Gain
+TCGA-BH-A6R9-01	Gain	1615.64	MARK3: Gain
+TCGA-C8-A12L-01	Gain	1697.67	MARK3: Gain
+TCGA-C8-A12O-01	Gain	1183.94	MARK3: Gain
+TCGA-C8-A12P-01	Gain	1199.85	MARK3: Gain
+TCGA-C8-A12Q-01	Gain	1483.69	MARK3: Gain
+TCGA-C8-A130-01	Gain	1418.6	MARK3: Gain
+TCGA-C8-A138-01	Gain	2011.56	MARK3: Gain
+TCGA-C8-A1HF-01	Gain	2098.01	MARK3: Gain
+TCGA-C8-A1HI-01	Gain	1530.28	MARK3: Gain
+TCGA-C8-A1HJ-01	Gain	2435.92	MARK3: Gain
+TCGA-C8-A26X-01	Gain	1437.76	MARK3: Gain
+TCGA-C8-A27A-01	Gain	1905.96	MARK3: Gain
+TCGA-D8-A141-01	Gain	1520.42	MARK3: Gain
+TCGA-D8-A143-01	Gain	1381.14	MARK3: Gain
+TCGA-D8-A1J8-01	Gain	1709.39	MARK3: Gain
+TCGA-D8-A1JD-01	Gain	1411.82	MARK3: Gain
+TCGA-D8-A1JF-01	Gain	1147.33	MARK3: Gain
+TCGA-D8-A1X5-01	Gain	1371.88	MARK3: Gain
+TCGA-D8-A1XF-01	Gain	1481.61	MARK3: Gain
+TCGA-D8-A1XK-01	Gain	1847.26	MARK3: Gain
+TCGA-D8-A27W-01	Gain	1334.97	MARK3: Gain
+TCGA-D8-A3Z6-01	Gain	1187.09	MARK3: Gain
+TCGA-E2-A109-01	Gain	1730.25	MARK3: Gain
+TCGA-E2-A10C-01	Gain	2081.35	MARK3: Gain
+TCGA-E2-A14N-01	Gain	2707.17	MARK3: Gain
+TCGA-E2-A14P-01	Gain	2236.68	MARK3: Gain
+TCGA-E2-A152-01	Gain	1464.73	MARK3: Gain
+TCGA-E2-A153-01	Gain	1048.94	MARK3: Gain
+TCGA-E2-A154-01	Gain	1168.99	MARK3: Gain
+TCGA-E2-A15E-01	Gain	1210.02	MARK3: Gain
+TCGA-E2-A15G-01	Gain	1351.64	MARK3: Gain
+TCGA-E2-A15I-01	Gain	1869.03	MARK3: Gain
+TCGA-E2-A15K-01	Gain	1731.89	MARK3: Gain
+TCGA-E2-A1L7-01	Gain	1435.88	MARK3: Gain
+TCGA-E2-A1L9-01	Gain	1543.52	MARK3: Gain
+TCGA-E2-A1LG-01	Gain	1515.97	MARK3: Gain
+TCGA-E2-A1LL-01	Gain	2660.72	MARK3: Gain
+TCGA-E2-A576-01	Gain	1369.84	MARK3: Gain
+TCGA-E2-A9RU-01	Gain	1345.24	MARK3: Gain
+TCGA-E9-A1ND-01	Gain	1541.72	MARK3: Gain
+TCGA-E9-A1NF-01	Gain	1630.85	MARK3: Gain
+TCGA-E9-A1NI-01	Gain	1438.48	MARK3: Gain
+TCGA-E9-A1RC-01	Gain	1409.97	MARK3: Gain
+TCGA-E9-A1RE-01	Gain	1974.91	MARK3: Gain
+TCGA-E9-A1RF-01	Gain	1347.54	MARK3: Gain
+TCGA-E9-A1RH-01	Gain	1576.72	MARK3: Gain
+TCGA-E9-A22D-01	Gain	2221.19	MARK3: Gain
+TCGA-E9-A22E-01	Gain	1532.01	MARK3: Gain
+TCGA-E9-A243-01	Gain	2069.31	MARK3: Gain
+TCGA-E9-A244-01	Gain	2042.14	MARK3: Gain
+TCGA-E9-A247-01	Gain	1701.88	MARK3: Gain
+TCGA-E9-A295-01	Gain	1602.32	MARK3: Gain
+TCGA-EW-A1IY-01	Gain	1305.09	MARK3: Gain
+TCGA-EW-A1P3-01	Gain	1522.85	MARK3: Gain
+TCGA-EW-A1P5-01	Gain	1337.01	MARK3: Gain
+TCGA-EW-A1PG-01	Gain	1371.27	MARK3: Gain
+TCGA-EW-A6SA-01	Gain	1761.15	MARK3: Gain
+TCGA-GM-A2DB-01	Gain	3129.01	MARK3: Gain
+TCGA-LL-A5YM-01	Gain	1259.46	MARK3: Gain
+TCGA-LL-A5YO-01	Gain	1627.98	MARK3: Gain
+TCGA-LL-A6FQ-01	Gain	1219.03	MARK3: Gain
+TCGA-PL-A8LV-01	Gain	2013.72	MARK3: Gain
+TCGA-S3-A6ZG-01	Gain	1354.34	MARK3: Gain
+TCGA-S3-AA17-01	Gain	1430.77	MARK3: Gain
+TCGA-WT-AB44-01	Gain	2127.47	MARK3: Gain
+TCGA-Z7-A8R6-01	Gain	2087.17	MARK3: Gain
+TCGA-A8-A06Q-01	Amplification	6761.92	MARK3: Amplification
+TCGA-A8-A06R-01	Amplification	2342.1	MARK3: Amplification
+TCGA-AN-A0AS-01	Amplification	2662.76	MARK3: Amplification
+TCGA-AO-A0JD-01	Amplification	4013.55	MARK3: Amplification
+TCGA-BH-A0DI-01	Amplification	1544.9	MARK3: Amplification
+TCGA-BH-A0HY-01	Amplification	2088.6	MARK3: Amplification
+TCGA-BH-A1FM-01	Amplification	907.295	MARK3: Amplification
+TCGA-BH-A208-01	Amplification	3159.39	MARK3: Amplification
+TCGA-D8-A1JK-01	Amplification	1724.36	MARK3: Amplification
+TCGA-E2-A15P-01	Amplification	1212.33	MARK3: Amplification
+TCGA-LL-A8F5-01	Amplification	2920.78	MARK3: Amplification

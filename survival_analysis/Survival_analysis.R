@@ -5,6 +5,7 @@ library(data.table)
 library(RColorBrewer)
 library(rstudioapi)
 library(ggbreak)
+library(dplyr)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
@@ -135,3 +136,39 @@ ggsurvplot(fit2,
            palette=c('#d95f02','#1b9e77'), # change colors of the groups
            title="Kaplan-Meier Curve for Breast Cancer Survival", # add title to plot
            risk.table.height=.2)
+
+
+survival$groupST <- 0
+survival$groupSP <- 0
+survival$groupST[which(survival$sim_time>3290)] <- 1
+survival$groupSP[which(survival$sim_perc<63)] <- 1
+
+
+survival <- survival %>%
+  mutate(
+    GroupCombo = dplyr::case_when(
+      groupST == 1 & groupSP == 0 ~ "Delayed",
+      groupST == 0 & groupSP == 1 ~ "low CP",
+      groupST == 1 & groupSP == 1 ~ "Delayed + low CP",
+      groupST == 0 & groupSP == 0 ~ "None"
+    )
+  )
+
+table(survival$GroupCombo)
+
+pal <- brewer.pal(4, "Paired")
+pal
+
+combo_cols <- c(
+  "Delayed" = pal[1],
+  "low CP" = pal[2],
+  "Delayed + low CP" = pal[3],
+  "None" = pal[4]
+)
+
+p3 <- ggplot(survival, aes(x = sim_time, y = sim_perc, color = GroupCombo)) +
+  geom_point(size = 3, alpha = 0.8) +
+  scale_color_manual(values = combo_cols) +
+  theme_minimal() +
+  labs(color = "Group combination")
+p3

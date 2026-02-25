@@ -6,6 +6,10 @@ library(RColorBrewer)
 library(rstudioapi)
 library(ggbreak)
 library(dplyr)
+library(ComplexHeatmap)
+library(tidyr)
+library(stringstatic)
+library(stringr)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
@@ -18,6 +22,7 @@ survival <- survival[which(survival$type=="BRCA"),]
 survival$sim_time <- NA
 survival$sim_perc <- NA
 survival$subtype <- NA
+
 
 ## subtype
 
@@ -157,7 +162,6 @@ survival <- survival %>%
 table(survival$GroupCombo)
 
 pal <- brewer.pal(4, "Paired")
-pal
 
 combo_cols <- c(
   "Delayed" = pal[1],
@@ -166,9 +170,104 @@ combo_cols <- c(
   "None" = pal[4]
 )
 
-p3 <- ggplot(survival, aes(x = sim_time, y = sim_perc, color = GroupCombo)) +
+ggplot(survival, aes(x = sim_time, y = sim_perc, color = GroupCombo)) +
   geom_point(size = 3, alpha = 0.8) +
   scale_color_manual(values = combo_cols) +
   theme_minimal() +
   labs(color = "Group combination")
-p3
+
+
+cnv_levels <- c("Diploid", "Gain", "Amplification", "Shallow Deletion", "Deep Deletion")
+pattern <- paste0("^\\s*(.+?)\\s+(", paste(cnv_levels, collapse="|"), ")\\s*$")
+
+
+sims$groupST <- 0
+sims$groupSP <- 0
+
+sims$groupST[which(sims$Mean>3290)] <- 1
+sims$groupSP[which(sims$Percentage_switch<63)] <- 1
+
+
+sims <- sims[which(!is.na(sims$Mean)),] 
+
+sims <- sims %>%
+  mutate(Group = case_when(
+    groupST == 1 ~ "delayed",
+    groupST == 0 ~ "fast",
+    TRUE ~ NA_character_
+  ))
+
+cnv_long <- sims %>%
+  select(Patient, Notes_situation_cp) %>%
+  mutate(Notes_situation_cp = as.character(Notes_situation_cp)) %>%
+  separate_rows(Notes_situation_cp, sep = "\\s*\\|\\s*") %>%
+  mutate(Notes_situation_cp = str_squish(Notes_situation_cp)) %>%
+  mutate(
+    Gene   = str_match(Notes_situation_cp, regex(pattern, ignore_case = TRUE))[,2],
+    Status = str_match(Notes_situation_cp, regex(pattern, ignore_case = TRUE))[,3]
+  ) %>%
+  mutate(
+    Status = case_when(
+      str_to_lower(Status) == "diploid" ~ "Diploid",
+      str_to_lower(Status) == "gain" ~ "Gain",
+      str_to_lower(Status) == "amplification" ~ "Amplification",
+      str_to_lower(Status) == "shallow deletion" ~ "Shallow Deletion",
+      str_to_lower(Status) == "deep deletion" ~ "Deep Deletion",
+      TRUE ~ Status
+    )
+  )
+
+cnv_wide <- cnv_long %>%
+  group_by(Gene, Patient) %>%
+  summarize(Status = Status[1], .groups = "drop") %>%
+  pivot_wider(names_from = Patient, values_from = Status, values_fill = "Diploid")
+
+cnv_mat <- as.matrix(cnv_wide[,-1])
+rownames(cnv_mat) <- cnv_wide$Gene
+
+altered_genes <- rownames(cnv_mat)[apply(cnv_mat, 1, function(x) any(x != "Diploid"))]
+cnv_mat_alt <- cnv_mat[altered_genes, , drop = FALSE]
+
+annot_df <- sims %>%
+  distinct(Patient, Group) %>%
+  filter(Patient %in% colnames(cnv_mat_alt)) %>%
+  mutate(Patient = factor(Patient, levels = colnames(cnv_mat_alt))) %>%
+  arrange(Patient)
+
+group_cols <- c("fast" = "#1b9e77", "delayed" = "#d95f02")
+
+ha <- HeatmapAnnotation(
+  Group = annot_df$Group,
+  col = list(Group = group_cols),
+  annotation_name_side = "left",
+  show_annotation_name = TRUE
+)
+
+cnv_colors <- c(
+  "Deep Deletion" = "#d73027",      
+  "Shallow Deletion" = "#fdae61",   
+  "Diploid" = "#fff7bc",            
+  "Gain" = "#abd9e9",              
+  "Amplification" = "#4575b4"      
+)
+
+ht <- Heatmap(
+  cnv_mat_alt,
+  name = "CNA",
+  col = cnv_colors,
+  rect_gp = gpar(col = "grey70", lwd = 0.4),
+  show_column_names = FALSE,
+  show_row_names = TRUE,
+  cluster_rows = TRUE,
+  cluster_columns = TRUE,
+  show_row_dend = TRUE,
+  show_column_dend = TRUE,
+  row_dend_side = "left",
+  column_dend_side = "top",
+  row_dend_width = unit(35, "mm"),
+  column_dend_height = unit(35, "mm"),
+  top_annotation = ha,
+  column_split = annot_df$Group
+)
+
+ht

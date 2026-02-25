@@ -4,6 +4,7 @@ library(survminer)
 library(data.table)
 library(RColorBrewer)
 library(rstudioapi)
+library(ggbreak)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
@@ -40,16 +41,6 @@ for(i in 1:nrow(survival)){
 survival <- survival[which(!is.na(survival$sim_time)),]
 
 
-# survival$switch_time <- 0
-# survival <- survival[which(!is.na(survival$sim_time)),]
-# survival$switch_time[which(survival$sim_time>3290)] = 1 # switch sopra 3000
-# table(survival$switch_time) # mette i pazienti dopra 3000 switch time ad uno e sotto a 0 
-# 
-# survival$switch_perc <- 0
-# survival <- survival[which(!is.na(survival$sim_time)),]
-# survival$switch_perc[which(survival$sim_perc<55)] = 1
-# table(survival$switch_perc) # mette i pazienti sotto 50 switch ad uno e sotto a 0 
-
 hist(survival$sim_time,breaks=20,main="Switch time distribution",xlab="Patient mean switch time")
 hist(survival$sim_perc[which(survival$sim_perc<100)],breaks=10,main="Switch percentage distribution\n(only for patients with percentages<100)",xlab="Patient mean switch percentage")
 hist(survival$age_at_initial_pathologic_diagnosis,breaks=20,main="Age distribution",xlab="Age")
@@ -57,33 +48,32 @@ hist(survival$age_at_initial_pathologic_diagnosis,breaks=20,main="Age distributi
 summary(survival$sim_time)
 
 
-d<-density(na.omit(survival$sim_time))
-d$x[which.min(abs(diff(d$y)))]
-v<-optimize(approxfun(d$x, d$y), interval = c(50,9000))$minimum
-# we show this by doing:
-hist(survival$sim_time,breaks=20,main="Switch time distribution",xlab="Patient mean switch time", prob=T)
-#lines(d, col='red', lty=2)
-abline(v=3290, col='blue') # trial
-
 km<-kmeans(survival$sim_time, centers = 2)
 survival$clust<-as.factor(km$cluster)
-ggplot(survival, aes(x=sim_time, fill=clust))+geom_histogram(alpha=0.5, color='grey50', aes(y = after_stat(count / nrow(survival))))+labs(x='Patients mean switch time', y='Percentage of patients', title='Switch time distribution') + scale_fill_manual(name='',labels=c('Delayed','Fast'), values=c('#eeb78c','#98d3c1'))
+ggplot(survival, aes(x=sim_time, fill=clust))+
+  geom_histogram(bins = 30,
+                 position = "identity",
+                 alpha = 0.45,
+                 color = "black", aes(y = after_stat(count / sum(count) * 100)))+
+  theme_minimal(base_size = 14)+
+  labs(x='Patients mean switch time', y='Percentage of patients', title='Switch time distribution') + 
+  scale_fill_manual(name='Group',labels=c('Delayed','Fast'), values=c('#d95f02','#1b9e77'))
 
 
 
 prova<-survival[order(survival$sim_time),,drop=F]
 
 ## For the switch percentage
-# km_perc<-kmeans(survival$sim_perc[which(survival$sim_perc<100)], centers = 2)
 km_perc<-kmeans(survival$sim_perc, centers = 2)
 
-# prova<-survival[which(survival$sim_perc<100),]
 prova <-survival
 prova$clust2<-as.factor(km_perc$cluster)
-# library(ggplot2)
-ggplot(prova, aes(x=sim_perc, fill=clust2))+geom_histogram(alpha=0.5, color='grey50',bin = 12, aes(y = after_stat(count / nrow(prova))))+labs(x='Patient mean switch percentage', y='Counts', title='Switch percentage distribution') + scale_fill_manual(name='',labels=c('Fast','Delayed'), values=c('#98d3c1','#eeb78c'))
-#aes(y=after_stat(count/sum(count)))
-
+ggplot(prova, aes(x=sim_perc, fill=clust2))+
+  geom_histogram( bins = 30,position = "identity",
+                  alpha = 0.45, color = "black",aes(y = after_stat(count /sum(count) * 100)))+
+   theme_minimal(base_size = 14) +
+  labs(x='Patient mean switch percentage', y='Counts', title='Switch percentage distribution') + 
+  scale_fill_manual(name='',labels=c('Delayed','Fast'), values=c('#d95f02','#1b9e77'))+scale_y_break(c(5,82))
 
 
 prova<-prova[order(prova$sim_perc),,drop=F]
@@ -103,7 +93,7 @@ colnames(surv_data)[4] = "age_at_diagnosis"
 param = "OS"
 param.time = "OS.time"
 fit = survfit(Surv(get(param.time), get(param)) ~ clust, data = surv_data)
-plot(fit,xlab="Time (days)",ylab="Overall Survival",col=c('#eeb78c','#98d3c1'),lwd=2,cex=1.5)
+plot(fit,xlab="Time (days)",ylab="Overall Survival",col=c('#d95f02','#1b9e77'),lwd=2,cex=1.5)
 stats <- coxph(Surv(get(param.time), get(param)) ~ delayed_switch_time + age_at_diagnosis + subtype, data = surv_data)
 summary(stats)
 ggforest(stats)
@@ -114,10 +104,9 @@ ggsurvplot(fit,
            risk.table=TRUE, # show a risk table below the plot
            legend.labs=c("delayed", "fast"), # change group labels
            legend.title="Average switch time",  # add legend title
-           palette=c("#eeb78c", "#98d3c1"), # change colors of the groups
+           palette=c('#d95f02','#1b9e77'), # change colors of the groups
            title="Kaplan-Meier Curve for Breast Cancer Survival", # add title to plot
            risk.table.height=.2)
-dev.off()
 
 
 
@@ -132,7 +121,7 @@ colnames(surv_data_switch)[4] = "age_at_diagnosis"
 param = "OS"
 param.time = "OS.time"
 fit2 = survfit(Surv(get(param.time), get(param)) ~ clust2, data = surv_data_switch)
-plot(fit2,xlab="Time (days)",ylab="Overall Survival",col=c("#98d3c1","#eeb78c"),lwd=2,cex=1.5)
+plot(fit2,xlab="Time (days)",ylab="Overall Survival",col=c('#d95f02','#1b9e77'),lwd=2,cex=1.5)
 stats2 <- coxph(Surv(get(param.time), get(param)) ~ low_switch_commitment_percentage + age_at_diagnosis + subtype, data = surv_data_switch)
 summary(stats2)
 ggforest(stats2)
@@ -143,7 +132,6 @@ ggsurvplot(fit2,
            risk.table=TRUE, # show a risk table below the plot
            legend.labs=c("high", "low"), # change group labels
            legend.title="Switch percentage",  # add legend title
-           palette=c("#98d3c1", "#eeb78c"), # change colors of the groups
+           palette=c('#d95f02','#1b9e77'), # change colors of the groups
            title="Kaplan-Meier Curve for Breast Cancer Survival", # add title to plot
            risk.table.height=.2)
-dev.off()

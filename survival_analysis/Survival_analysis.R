@@ -13,16 +13,17 @@ library(stringr)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
+set.seed(123)
 survival <- fread("../Files_generated/TCGATimePoints.tsv",data.table=F)
 
 sims <- fread("../Files_generated/final_patient.csv",data.table=F)
 sims$Patient_ID <- sapply(sims$Patient,function(x) paste(strsplit(x,"-")[[1]][1:3],collapse="-"))
 
+
 survival <- survival[which(survival$type=="BRCA"),]
 survival$sim_time <- NA
 survival$sim_perc <- NA
 survival$subtype <- NA
-
 
 ## subtype
 
@@ -45,7 +46,8 @@ for(i in 1:nrow(survival)){
 }
 
 survival <- survival[which(!is.na(survival$sim_time)),]
-
+to_eliminate <- survival[which(is.na(survival$OS.time)),]$bcr_patient_barcode
+survival <- survival[which(survival$bcr_patient_barcode != to_eliminate),]
 
 hist(survival$sim_time,breaks=20,main="Switch time distribution",xlab="Patient mean switch time")
 hist(survival$sim_perc[which(survival$sim_perc<100)],breaks=10,main="Switch percentage distribution\n(only for patients with percentages<100)",xlab="Patient mean switch percentage")
@@ -54,16 +56,28 @@ hist(survival$age_at_initial_pathologic_diagnosis,breaks=20,main="Age distributi
 summary(survival$sim_time)
 
 
+
 km<-kmeans(survival$sim_time, centers = 2)
 survival$clust<-as.factor(km$cluster)
-ggplot(survival, aes(x=sim_time, fill=clust))+
+
+grp_cols <- c("fast" = "#1b9e77", "delayed" = "#d95f02")
+
+survival <- survival %>%
+  mutate(Group = case_when(
+    clust == 2 ~ "delayed",
+    clust == 1 ~ "fast",
+    TRUE ~ NA_character_
+  ))
+
+
+ggplot(survival, aes(x=sim_time, fill=Group))+
   geom_histogram(bins = 30,
                  position = "identity",
                  alpha = 0.45,
                  color = "black", aes(y = after_stat(count / sum(count) * 100)))+
   theme_minimal(base_size = 14)+
   labs(x='Patients mean switch time', y='Percentage of patients', title='Switch time distribution') + 
-  scale_fill_manual(name='Group',labels=c('Delayed','Fast'), values=c('#d95f02','#1b9e77'))
+  scale_fill_manual( values=grp_cols)
 
 
 
@@ -74,12 +88,22 @@ km_perc<-kmeans(survival$sim_perc, centers = 2)
 
 prova <-survival
 prova$clust2<-as.factor(km_perc$cluster)
-ggplot(prova, aes(x=sim_perc, fill=clust2))+
+
+prova <- prova %>%
+  mutate(Group2 = case_when(
+    clust2 == 2 ~ "high",
+    clust2 == 1 ~ "low",
+    TRUE ~ NA_character_
+  ))
+grp_cols <- c("high" = "#1b9e77", "low" = "#d95f02")
+
+
+ggplot(prova, aes(x=sim_perc, fill=Group2))+
   geom_histogram( bins = 30,position = "identity",
                   alpha = 0.45, color = "black",aes(y = after_stat(count /sum(count) * 100)))+
    theme_minimal(base_size = 14) +
   labs(x='Patient mean switch percentage', y='Counts', title='Switch percentage distribution') + 
-  scale_fill_manual(name='',labels=c('Delayed','Fast'), values=c('#d95f02','#1b9e77'))+scale_y_break(c(5,82))
+  scale_fill_manual(values= grp_cols)+scale_y_break(c(5,82))
 
 
 prova<-prova[order(prova$sim_perc),,drop=F]
@@ -93,12 +117,13 @@ colors<-sample(col_vector, 2)
 
 surv_data <- survival
 surv_data$delayed_switch_time <- as.integer(surv_data$clust)
-surv_data[which(surv_data$delayed_switch_time == 2),]$delayed_switch_time <- 0
+surv_data[which(surv_data$clust == 2),]$delayed_switch_time <- 1
+surv_data[which(surv_data$clust == 1),]$delayed_switch_time <- 0
 
 colnames(surv_data)[4] = "age_at_diagnosis"
 param = "OS"
 param.time = "OS.time"
-fit = survfit(Surv(get(param.time), get(param)) ~ clust, data = surv_data)
+fit = survfit(Surv(get(param.time), get(param)) ~ Group, data = surv_data)
 plot(fit,xlab="Time (days)",ylab="Overall Survival",col=c('#d95f02','#1b9e77'),lwd=2,cex=1.5)
 stats <- coxph(Surv(get(param.time), get(param)) ~ delayed_switch_time + age_at_diagnosis + subtype, data = surv_data)
 summary(stats)
@@ -120,14 +145,14 @@ length(table(surv_data$age_at_diagnosis)) # 65
 
 surv_data_switch <- prova
 surv_data_switch$low_switch_commitment_percentage <- as.integer(surv_data_switch$clust2)
-surv_data_switch[which(surv_data_switch$clust2 == 2),]$low_switch_commitment_percentage <- 1
-surv_data_switch[which(surv_data_switch$clust2 == 1),]$low_switch_commitment_percentage <- 0
+surv_data_switch[which(surv_data_switch$clust2 == 2),]$low_switch_commitment_percentage <- 0
+surv_data_switch[which(surv_data_switch$clust2 == 1),]$low_switch_commitment_percentage <- 1
 
 colnames(surv_data_switch)[4] = "age_at_diagnosis"
 param = "OS"
 param.time = "OS.time"
-fit2 = survfit(Surv(get(param.time), get(param)) ~ clust2, data = surv_data_switch)
-plot(fit2,xlab="Time (days)",ylab="Overall Survival",col=c('#d95f02','#1b9e77'),lwd=2,cex=1.5)
+fit2 = survfit(Surv(get(param.time), get(param)) ~ Group2, data = surv_data_switch)
+plot(fit2,xlab="Time (days)",ylab="Overall Survival",col=c('#1b9e77','#d95f02'),lwd=2,cex=1.5)
 stats2 <- coxph(Surv(get(param.time), get(param)) ~ low_switch_commitment_percentage + age_at_diagnosis + subtype, data = surv_data_switch)
 summary(stats2)
 ggforest(stats2)
@@ -138,7 +163,7 @@ ggsurvplot(fit2,
            risk.table=TRUE, # show a risk table below the plot
            legend.labs=c("high", "low"), # change group labels
            legend.title="Switch percentage",  # add legend title
-           palette=c('#d95f02','#1b9e77'), # change colors of the groups
+           palette=c('#1b9e77','#d95f02'), # change colors of the groups
            title="Kaplan-Meier Curve for Breast Cancer Survival", # add title to plot
            risk.table.height=.2)
 
@@ -189,6 +214,7 @@ sims$groupSP[which(sims$Percentage_switch<63)] <- 1
 
 
 sims <- sims[which(!is.na(sims$Mean)),] 
+sims <- sims[which(sims$Patient_ID != to_eliminate),]
 
 sims <- sims %>%
   mutate(Group = case_when(

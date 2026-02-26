@@ -116,18 +116,18 @@ colors<-sample(col_vector, 2)
 
 
 surv_data <- survival
-surv_data$delayed_switch_time <- as.integer(surv_data$clust)
-surv_data[which(surv_data$clust == 2),]$delayed_switch_time <- 1
-surv_data[which(surv_data$clust == 1),]$delayed_switch_time <- 0
+surv_data$"delayed switch time" <- as.integer(surv_data$clust)
+surv_data[which(surv_data$clust == 2),]$`delayed switch time` <- 1
+surv_data[which(surv_data$clust == 1),]$`delayed switch time` <- 0
 
-colnames(surv_data)[4] = "age_at_diagnosis"
+colnames(surv_data)[4] = "age at diagnosis"
 param = "OS"
 param.time = "OS.time"
 fit = survfit(Surv(get(param.time), get(param)) ~ Group, data = surv_data)
 plot(fit,xlab="Time (days)",ylab="Overall Survival",col=c('#d95f02','#1b9e77'),lwd=2,cex=1.5)
-stats <- coxph(Surv(get(param.time), get(param)) ~ delayed_switch_time + age_at_diagnosis + subtype, data = surv_data)
+stats <- coxph(Surv(get(param.time), get(param)) ~ `delayed switch time` + `age at diagnosis` + subtype, data = surv_data)
 summary(stats)
-ggforest(stats)
+ggforest(stats, fontsize = 1)
 
 ggsurvplot(fit,
            conf.int=TRUE, # add confidence intervals
@@ -144,18 +144,18 @@ ggsurvplot(fit,
 length(table(surv_data$age_at_diagnosis)) # 65
 
 surv_data_switch <- prova
-surv_data_switch$low_switch_commitment_percentage <- as.integer(surv_data_switch$clust2)
+surv_data_switch$"low_switch_commitment_percentage" <- as.integer(surv_data_switch$clust2)
 surv_data_switch[which(surv_data_switch$clust2 == 2),]$low_switch_commitment_percentage <- 0
 surv_data_switch[which(surv_data_switch$clust2 == 1),]$low_switch_commitment_percentage <- 1
 
-colnames(surv_data_switch)[4] = "age_at_diagnosis"
+colnames(surv_data_switch)[4] = "age at diagnosis"
 param = "OS"
 param.time = "OS.time"
 fit2 = survfit(Surv(get(param.time), get(param)) ~ Group2, data = surv_data_switch)
 plot(fit2,xlab="Time (days)",ylab="Overall Survival",col=c('#1b9e77','#d95f02'),lwd=2,cex=1.5)
-stats2 <- coxph(Surv(get(param.time), get(param)) ~ low_switch_commitment_percentage + age_at_diagnosis + subtype, data = surv_data_switch)
+stats2 <- coxph(Surv(get(param.time), get(param)) ~ low_switch_commitment_percentage + `age at diagnosis` + subtype, data = surv_data_switch)
 summary(stats2)
-ggforest(stats2)
+ggforest(stats2,fontsize = 1)
 
 ggsurvplot(fit2,
            conf.int=TRUE, # add confidence intervals
